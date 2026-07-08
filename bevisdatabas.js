@@ -1,3 +1,5 @@
+(() => {
+function initEvidenceDatabase() {
 const archiveItems = [
   {
     id: "BT-2014-2019",
@@ -587,3 +589,13 @@ if (location.hash) {
   setTimeout(restoreHashPosition, 150);
   setTimeout(restoreHashPosition, 650);
 }
+}
+
+window.initEvidenceDatabase = initEvidenceDatabase;
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initEvidenceDatabase, { once: true });
+} else {
+  initEvidenceDatabase();
+}
+})();
