@@ -245,6 +245,9 @@ function setupInterviewAudio() {
   const savedPosition = Number(localStorage.getItem(interviewPositionKey) || 0);
 
   audios.forEach((audio) => {
+    if (audio.dataset.interviewAudioBound === "true") return;
+    audio.dataset.interviewAudioBound = "true";
+
     audio.addEventListener("loadedmetadata", () => {
       if (savedPosition > 0 && savedPosition < audio.duration - 3 && audio.currentTime < 1) {
         audio.currentTime = savedPosition;
@@ -265,6 +268,9 @@ function setupInterviewAudio() {
   });
 
   document.querySelectorAll(".time-jump").forEach((button) => {
+    if (button.dataset.timeJumpBound === "true") return;
+    button.dataset.timeJumpBound = "true";
+
     button.addEventListener("click", async () => {
       const targetTime = Number(button.dataset.time);
       const audio = document.querySelector("#globalInterviewAudio") || document.querySelector("#btInterviewAudio");
@@ -301,6 +307,8 @@ setupInterviewAudio();
 function setupStickyPlayerBehavior() {
   const player = document.querySelector("#globalInterviewPlayer");
   if (!player) return;
+  if (player.dataset.stickyBehaviorBound === "true") return;
+  player.dataset.stickyBehaviorBound = "true";
 
   let compactTicking = false;
   let expandedUntil = 0;
@@ -375,3 +383,234 @@ if (timelineCompassLinks.length) {
   }, { rootMargin: "-35% 0px -45% 0px", threshold: [0.12, 0.35, 0.6] });
   sectionMap.forEach((_, id) => timelineObserver.observe(document.getElementById(id)));
 }
+
+function bindPageBasics() {
+  renderEvidence();
+
+  document.querySelectorAll(".filter").forEach((button) => {
+    if (button.dataset.filterBound === "true") return;
+    button.dataset.filterBound = "true";
+    button.addEventListener("click", () => {
+      document.querySelectorAll(".filter").forEach((item) => item.classList.remove("active"));
+      button.classList.add("active");
+      renderEvidence(button.dataset.filter);
+    });
+  });
+
+  document.querySelectorAll(".evidence-jump").forEach((button) => {
+    if (button.dataset.jumpBound === "true") return;
+    button.dataset.jumpBound = "true";
+    button.addEventListener("click", () => {
+      document.getElementById(button.dataset.target)?.scrollIntoView({ behavior: "smooth" });
+    });
+  });
+
+  const currentMenuButton = document.querySelector("#menuButton");
+  const currentSiteNav = document.querySelector("#siteNav");
+  if (currentMenuButton && currentSiteNav && currentMenuButton.dataset.menuBound !== "true") {
+    currentMenuButton.dataset.menuBound = "true";
+    const closedMenuLabel = currentMenuButton.textContent.trim() || "Meny";
+    const setNavOpen = (open) => {
+      currentSiteNav.classList.toggle("open", open);
+      currentMenuButton.setAttribute("aria-expanded", String(open));
+      currentMenuButton.textContent = open ? "Stäng" : closedMenuLabel;
+      document.body.classList.toggle("nav-open", open);
+      if (open) document.body.classList.remove("mobile-nav-hidden");
+    };
+
+    currentMenuButton.addEventListener("click", () => {
+      setNavOpen(!currentSiteNav.classList.contains("open"));
+    });
+    currentSiteNav.querySelectorAll("a").forEach((link) => {
+      link.addEventListener("click", () => setNavOpen(false));
+    });
+  }
+
+  setupInterviewAudio();
+  setupStickyPlayerBehavior();
+
+  document.querySelectorAll(".reveal").forEach((element) => {
+    if (element.classList.contains("visible")) return;
+    observer.observe(element);
+  });
+}
+
+function renderArticleArchiveGrid() {
+  const btArchiveGrid = document.querySelector("#btArchiveGrid");
+  if (!btArchiveGrid) return;
+
+  const render = () => {
+    const btArticles = window.btArticleArchive || [];
+    const formatArticleBytes = (bytes) => {
+      if (bytes < 1024) return `${bytes} B`;
+      if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} kB`;
+      return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+    };
+
+    btArchiveGrid.innerHTML = btArticles.map((article) => `
+      <article class="bt-archive-card" id="${article.id.toLowerCase()}">
+        <div class="rebuttal-meta">
+          <time>${article.date}</time>
+          <span>${article.section}</span>
+        </div>
+        <h3>${article.title}</h3>
+        <p><strong>Roll i kedjan:</strong> ${article.role}</p>
+        <p><strong>Arkivstatus:</strong> ${article.archiveStatus}</p>
+        <p><strong>Arkivkopia:</strong> ${formatArticleBytes(article.screenshotBytes)} · SHA-256 <code>${article.screenshotSha256.slice(0, 18)}...</code></p>
+        <a class="archive-link" href="${article.url}" target="_blank" rel="noreferrer">Öppna fullständig artikel hos BT</a>
+      </article>
+    `).join("");
+  };
+
+  if (Array.isArray(window.btArticleArchive)) {
+    render();
+    return;
+  }
+
+  loadScriptOnce("bt-artikelregister.js").then(render);
+}
+
+function setupEvidenceDatabasePage() {
+  if (!document.querySelector("#archiveGrid")) return;
+  if (typeof window.initEvidenceDatabase === "function") {
+    window.initEvidenceDatabase();
+    return;
+  }
+  loadScriptOnce("bevisdatabas.js?v=mediaplayer2").then(() => {
+    window.initEvidenceDatabase?.();
+  });
+}
+
+function initDynamicPage() {
+  bindPageBasics();
+  renderArticleArchiveGrid();
+  setupEvidenceDatabasePage();
+
+  if (location.hash) {
+    requestAnimationFrame(() => {
+      document.querySelector(location.hash)?.scrollIntoView({ behavior: "auto", block: "start" });
+    });
+  }
+}
+
+const loadedScripts = new Set(
+  [...document.scripts]
+    .map((script) => script.getAttribute("src"))
+    .filter(Boolean)
+    .map((src) => new URL(src, location.href).pathname)
+);
+
+function loadScriptOnce(src) {
+  const url = new URL(src, location.href);
+  if (loadedScripts.has(url.pathname)) return Promise.resolve();
+
+  return new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = src;
+    script.onload = () => {
+      loadedScripts.add(url.pathname);
+      resolve();
+    };
+    script.onerror = reject;
+    document.head.appendChild(script);
+  });
+}
+
+function normalizePagePath(pathname) {
+  if (pathname === "/index.html") return "/";
+  return pathname.replace(/\/index\.html$/, "/");
+}
+
+function isInternalPageLink(link, url) {
+  if (link.target || link.hasAttribute("download") || link.dataset.noRouter === "true") return false;
+  if (url.origin !== location.origin) return false;
+  const path = url.pathname;
+  return path === "/" || path.endsWith("/") || path.endsWith(".html");
+}
+
+function updateDocumentHead(nextDocument) {
+  document.title = nextDocument.title;
+
+  [
+    "meta[name='description']",
+    "meta[property='og:title']",
+    "meta[property='og:description']",
+    "meta[property='og:url']",
+    "link[rel='canonical']"
+  ].forEach((selector) => {
+    const current = document.head.querySelector(selector);
+    const next = nextDocument.head.querySelector(selector);
+    if (current && next) current.replaceWith(next.cloneNode(true));
+  });
+}
+
+function syncBodyClass(nextBody) {
+  const keepSticky = Boolean(document.querySelector("#globalInterviewPlayer"));
+  const keepCompact = document.body.classList.contains("media-player-compact");
+  document.body.className = nextBody.className;
+  document.body.classList.remove("nav-open", "mobile-nav-hidden", "mobile-nav-scrolled");
+  if (keepSticky) document.body.classList.add("has-sticky-player");
+  if (keepCompact) document.body.classList.add("media-player-compact");
+}
+
+async function navigateWithinSite(url, shouldPush = true) {
+  try {
+    document.body.classList.add("page-loading");
+    const response = await fetch(url.href, { headers: { "X-Requested-With": "fetch" } });
+    if (!response.ok) throw new Error(`Navigation failed with ${response.status}`);
+
+    const html = await response.text();
+    const nextDocument = new DOMParser().parseFromString(html, "text/html");
+    const nextHeader = nextDocument.querySelector(".site-header");
+    const nextMain = nextDocument.querySelector("main");
+    const nextFooter = nextDocument.querySelector("footer");
+    if (!nextHeader || !nextMain || !nextFooter) throw new Error("Missing page shell");
+
+    updateDocumentHead(nextDocument);
+    syncBodyClass(nextDocument.body);
+    document.querySelector(".site-header")?.replaceWith(nextHeader);
+    document.querySelector("main")?.replaceWith(nextMain);
+    document.querySelector("footer")?.replaceWith(nextFooter);
+
+    if (shouldPush) history.pushState({ internalNavigation: true }, "", url.href);
+
+    initDynamicPage();
+
+    const target = url.hash ? document.querySelector(url.hash) : null;
+    if (target) {
+      target.scrollIntoView({ behavior: "auto", block: "start" });
+    } else {
+      window.scrollTo({ top: 0, behavior: "auto" });
+    }
+  } catch (error) {
+    location.href = url.href;
+  } finally {
+    document.body.classList.remove("page-loading");
+  }
+}
+
+document.addEventListener("click", (event) => {
+  const link = event.target.closest("a[href]");
+  if (!link || event.defaultPrevented || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+
+  const url = new URL(link.href, location.href);
+  if (!isInternalPageLink(link, url)) return;
+
+  const currentPath = normalizePagePath(location.pathname);
+  const targetPath = normalizePagePath(url.pathname);
+  if (currentPath === targetPath && url.hash) {
+    const target = document.querySelector(url.hash);
+    if (!target) return;
+    event.preventDefault();
+    history.pushState({ internalNavigation: true }, "", url.href);
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+    return;
+  }
+
+  event.preventDefault();
+  navigateWithinSite(url);
+});
+
+window.addEventListener("popstate", () => {
+  navigateWithinSite(new URL(location.href), false);
+});
