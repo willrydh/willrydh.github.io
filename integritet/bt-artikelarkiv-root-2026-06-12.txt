@@ -1,0 +1,8 @@
+BT-artikelarkiv: publikt integritetsankare
+Datum: 2026-06-12
+Antal artiklar: 16
+Hashalgoritm: SHA-256 per fullsidesskärmdump
+Samlad artikelarkiv-root: cfaaf3b9e7d7cf0c084e5b655cb79041e2e13463cac6fec62466c2d45e2721f4
+
+Fullständiga artikelkopior finns i privat bevisarkiv och publiceras inte öppet av upphovsrätts- och processkäl.
+Publikt visas original-URL, metadata och hash så att arkivkedjan kan verifieras.

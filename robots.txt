@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://willrydh.github.io/sitemap.xml

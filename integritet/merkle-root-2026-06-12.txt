@@ -1,0 +1,8 @@
+Merkle-root för William Rydh-dokumentationen
+Datum: 2026-06-12
+Antal filer: 81
+Hashalgoritm: SHA-256
+Merkle-algoritm: binary sha256(left || right), duplicate last leaf when odd
+Root: f9708f65a54fc895b8412f307fb1ed171cb6f793d7fe2df6ed03f945f0b93730
+
+Kontroll: beräkna SHA-256 på varje fil i arkivet, sortera efter relativ sökväg och bygg Merkle-root enligt manifestet.

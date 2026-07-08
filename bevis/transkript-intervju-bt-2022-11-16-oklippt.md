@@ -1,0 +1,7430 @@
+# Maskintranskript: 2022-11-16 : Borås Tidning intervju - Oklippt.m4a
+
+- Originalfil: `/Users/williamrydh/Downloads/2022-11-16 : Borås Tidning intervju - Oklippt.m4a`
+- Språk: svenska
+- Modell: large-v3-turbo, int8
+- Tidskoder: segmentnivå
+- Viktigt: Kontrollera mot originalljudet innan ordagranna citat används.
+
+**[00:00:16.240 - 00:00:34.240]** Hallå! Hallå! Välkomna! Jag missade en klippfil igår. Hej! Jenny! Johan, Johan, Ligg känner jag igen. Jag vet inte varför då. Okej, jag känner nog inte igen dig.
+
+**[00:00:34.240 - 00:00:43.240]** Hur plåter får man få en fråga nu? 92. Har du gått någon utbildning här? Både och Cihå eller någonting?
+
+**[00:00:43.240 - 00:00:47.780]** Ja, vad sa du? Både och Cihå. Cihå eller vad är det?
+
+**[00:00:47.780 - 00:00:50.780]** Jelke, Cihå eller? Nej, det är inget kraft.
+
+**[00:00:50.780 - 00:00:56.100]** Välkomna! Vill ni inte ha en rundtur eller något att dricka?
+
+**[00:00:56.100 - 00:01:01.100]** Nej, det är bra med drickan tack. Ingen kaffe, ingenting sånt.
+
+**[00:01:01.100 - 00:01:04.100]** Nej, det är bra tack. Vi dack i kaffe innan.
+
+**[00:01:04.100 - 00:01:08.230]** Vi kanske kan vissa runt lite. Ja, vi vill inte ha rundtur.
+
+**[00:01:08.230 - 00:01:13.230]** Men vi kan kanske ta det efter kanske. Vi snackade lite för att du körde i rundturen sen.
+
+**[00:01:13.230 - 00:01:15.230]** Svårt? Ja, absolut.
+
+**[00:01:15.230 - 00:01:19.230]** Skulle jag kunna få springa på toa bara lite snabbt och kolla. För jag vet inte fassad hur det här blev.
+
+**[00:01:19.230 - 00:01:21.230]** Jag hade haft en liksom toffs.
+
+**[00:01:21.230 - 00:01:23.230]** Ja, absolut. Jag är med då.
+
+**[00:01:23.230 - 00:01:24.230]** Men det...
+
+**[00:01:24.230 - 00:01:27.230]** Går du att sätta upp lite grann? Ja, det var det bra.
+
+**[00:01:27.230 - 00:01:31.230]** Självklart. Har du gått över till R-milnorelessen eller?
+
+**[00:01:31.230 - 00:01:33.230]** Ja, jag kör R härifrån så.
+
+**[00:01:33.230 - 00:01:34.230]** Nice.
+
+**[00:01:34.230 - 00:01:35.970]** Det funkar det här.
+
+**[00:01:35.970 - 00:01:37.970]** Ut. Ja, funkar det.
+
+**[00:01:37.970 - 00:01:41.580]** Vad har du för roll förut här igen?
+
+**[00:01:41.580 - 00:01:43.580]** Jag är fotograf och håller på med videor och sånt där.
+
+**[00:01:43.580 - 00:01:45.580]** Jag producerar content.
+
+**[00:01:45.580 - 00:01:47.580]** Sociala medier och...
+
+**[00:01:47.580 - 00:01:49.580]** Nej, vi ska börja med det ännu.
+
+**[00:01:49.580 - 00:01:50.580]** Okej.
+
+**[00:01:50.580 - 00:01:52.580]** Stats. Eller ja, det är väldigt på gång nu.
+
+**[00:01:52.580 - 00:01:57.960]** Så jag försöker bara hitta om vi kanske ska rekrytera några här medier på det.
+
+**[00:01:57.960 - 00:02:01.960]** Eller om vi ska göra det internt. Jag har inte erfarenhet av det med.
+
+**[00:02:01.960 - 00:02:05.960]** Men jag gillar mest att focusera på innehållet på det grafiska och sånt där.
+
+**[00:02:05.960 - 00:02:07.960]** Även fast det är kul att man kan sörja.
+
+**[00:02:07.960 - 00:02:09.860]** Ja.
+
+**[00:02:09.860 - 00:02:10.860]** Hallå, hallå.
+
+**[00:02:10.860 - 00:02:11.860]** Hej.
+
+**[00:02:11.860 - 00:02:12.860]** Tja.
+
+**[00:02:12.860 - 00:02:15.100]** Vi heter väl?
+
+**[00:02:15.100 - 00:02:16.100]** Jenny, hej.
+
+**[00:02:16.100 - 00:02:19.160]** Matilda, hej.
+
+**[00:02:19.160 - 00:02:21.160]** Vi kör med här. Ja.
+
+**[00:02:21.160 - 00:02:29.110]** Johan, Magnuson.
+
+**[00:02:29.110 - 00:02:31.940]** Vad gör du för vår företag?
+
+**[00:02:31.940 - 00:02:33.940]** Jag har hand om vår produktion.
+
+**[00:02:33.940 - 00:02:38.260]** Själva är känd i vacket eller?
+
+**[00:02:38.260 - 00:02:43.260]** Ja, vi ändrar med allt som vi gör.
+
+**[00:02:43.260 - 00:02:44.260]** Okej.
+
+**[00:02:44.260 - 00:02:49.060]** Det är så att det är något att falla till på det som går runt.
+
+**[00:02:49.060 - 00:02:51.060]** Ja, okej.
+
+**[00:02:51.060 - 00:02:53.090]** Och så att vi måste måtta med själva.
+
+**[00:02:53.090 - 00:02:54.820]** Mm.
+
+**[00:02:54.820 - 00:02:56.820]** Har ni varit där till dig i en stadsen?
+
+**[00:02:56.820 - 00:02:58.820]** Nej, aldrig.
+
+**[00:02:58.820 - 00:03:00.820]** Men ni har satt i byggnaden?
+
+**[00:03:00.820 - 00:03:02.530]** Ja.
+
+**[00:03:02.530 - 00:03:03.530]** Men vad finner jag?
+
+**[00:03:03.530 - 00:03:05.530]** Ni har ju, eller inte ni kanske, men...
+
+**[00:03:05.530 - 00:03:08.910]** Vet jag, jag skrev ju när vi flyttade in om oss här.
+
+**[00:03:08.910 - 00:03:09.910]** Mm, just det.
+
+**[00:03:09.910 - 00:03:13.910]** Så med tanke på byggnadens omrika historik och allting.
+
+**[00:03:13.910 - 00:03:14.910]** Ja, precis.
+
+**[00:03:14.910 - 00:03:15.910]** Goda frågor, Matilda.
+
+**[00:03:15.910 - 00:03:16.910]** Ja.
+
+**[00:03:16.910 - 00:03:17.910]** Ja.
+
+**[00:03:17.910 - 00:03:18.910]** Ja, jag är redo.
+
+**[00:03:18.910 - 00:03:22.910]** Men det blev väldigt tydligt, liksom, vad det är som har hänt här.
+
+**[00:03:22.910 - 00:03:23.910]** Mm.
+
+**[00:03:23.910 - 00:03:26.910]** Sen så har jag ju försökt svara liksom på allt här.
+
+**[00:03:26.910 - 00:03:28.910]** Men det blir ju liksom...
+
+**[00:03:28.910 - 00:03:30.910]** Ni kan ju föreställa er att jag...
+
+**[00:03:30.910 - 00:03:34.940]** Medgår det liksom inte få stopp på nästan när det gäller att prata om detta.
+
+**[00:03:34.940 - 00:03:35.940]** Nej.
+
+**[00:03:35.940 - 00:03:44.260]** För jag menar, det är ju i grunden någonstans en väldigt anmärkningsvärd situation vi befinner oss i.
+
+**[00:03:44.260 - 00:03:49.260]** Jag tror jag nämnde det på semester i liksom att vi har, eller ja, vi har försökt kontakta er tidigare.
+
+**[00:03:49.260 - 00:03:55.420]** Vi har en ambition att digitalisera det franska näringslivet.
+
+**[00:03:55.420 - 00:03:56.420]** Mm.
+
+**[00:03:56.420 - 00:04:01.420]** Och vi upplever enorma utmaningar i samband med detta.
+
+**[00:04:01.420 - 00:04:05.420]** Det är väldigt... Alltså, många företagare som inte förstår värdet av detta.
+
+**[00:04:05.420 - 00:04:12.420]** Eller förstår varför det är viktigt att ha en digital närvaro liksom som är värdig verksamheten och så vidare.
+
+**[00:04:12.420 - 00:04:18.420]** De har kanske olagliga webbplatser som inte uppfyller GDPR-lagkraven eller vad det nu kan vara.
+
+**[00:04:18.420 - 00:04:22.460]** Så vi har ju känt liksom att det är...
+
+**[00:04:22.460 - 00:04:26.460]** Sen har ju branschen också som sådan fått ett... Alltså har haft ett dåligt rykte och...
+
+**[00:04:26.460 - 00:04:32.740]** Eller haft ett dåligt rykte ganska länge skulle jag säga. Så människor är på sin vakt.
+
+**[00:04:32.740 - 00:04:37.740]** Men det är också därför vi har utformat våran tjänst och erbjudande på det sättet som vi har gjort.
+
+**[00:04:37.740 - 00:04:43.740]** Där vi eliminerat alla risker liksom för företagare att haka på det här digitala initiativet.
+
+**[00:04:43.740 - 00:04:48.740]** Och istället jobba helt och hållet prestationsbaserat istället för att förskottsfakturera liksom för...
+
+**[00:04:48.740 - 00:04:55.740]** För webbplats, produktion av den eller design av webbplats eller leverans av den eller projektledning, ny funktionalitet.
+
+**[00:04:55.740 - 00:05:04.100]** Eller löpande arbete med sökmotoroptimering i syfte att synas på Google och få affärer därifrån och så vidare.
+
+**[00:05:04.100 - 00:05:06.100]** Och starka varumärke.
+
+**[00:05:06.100 - 00:05:13.100]** Så vi såg ju någonstans liksom att det finns ett gap på marknaden och det behöver liksom...
+
+**[00:05:13.100 - 00:05:20.260]** För att kunna liksom få till en reell förändring någonstans så behöver vi få med så många företagare som möjligt.
+
+**[00:05:20.260 - 00:05:25.350]** Om vi vill lyfta liksom det svenska näringslivet digitalt.
+
+**[00:05:25.350 - 00:05:28.990]** Så att lägsta nivån rent digitalt om man säger.
+
+**[00:05:28.990 - 00:05:34.990]** Alltså varje nystartat företag låg säga målare, frisörsalong, ska ju ha rätten tycker vi då.
+
+**[00:05:34.990 - 00:05:36.990]** Till en klockligen digital närvaro.
+
+**[00:05:36.990 - 00:05:38.990]** Och då måste vi ju eliminera alla trösklar liksom.
+
+**[00:05:38.990 - 00:05:42.990]** Det kan inte kosta 10 000 i förskott eller 100 000 i...
+
+**[00:05:42.990 - 00:05:44.990]** För det är ju det där. Branschen har ju kommodiserats.
+
+**[00:05:44.990 - 00:05:51.990]** Det finns ju företag som betalar alltifrån 5 000 i månaden till 500 000 i månaden till andra aktörer.
+
+**[00:05:51.990 - 00:05:53.990]** För att synas bara på Google.
+
+**[00:05:53.990 - 00:05:57.990]** Utöver att man har betalat en halv miljon kanske för en webbplats då.
+
+**[00:05:57.990 - 00:06:06.380]** Liksom. Så att vi såg ju detta behovet på marknaden och utformade vår tjänst ut efter dessa behov.
+
+**[00:06:06.380 - 00:06:10.380]** Vad är det som gör tjänst nu då? Kan du skriva lite?
+
+**[00:06:10.380 - 00:06:14.380]** Det var precis det jag sa tror jag. Först att jag kan utveckla det då.
+
+**[00:06:14.380 - 00:06:19.380]** Bransch-krutimen är ju liksom att om du önskar en webbplats.
+
+**[00:06:19.380 - 00:06:24.380]** Alltså du vill köpa det. Du har ett företag, du driver en frisörsalong låt säga.
+
+**[00:06:24.380 - 00:06:26.380]** Och du behöver en webbplats.
+
+**[00:06:26.380 - 00:06:29.380]** Ja men då har du lite olika alternativ antingen när du är tech-savig.
+
+**[00:06:29.380 - 00:06:33.380]** Om jag uttrycker mig så. Och går in och kanske använder dig utav Squarespace
+
+**[00:06:33.380 - 00:06:36.380]** eller någon annan tjänst där du gör din egen webbplats själv.
+
+**[00:06:36.380 - 00:06:41.380]** Eller så ringer du runt eller googlar kanske efter en webbbyrå
+
+**[00:06:41.380 - 00:06:44.380]** eller en byrå, en mediebyrå, en reklambyrå som ska hjälpa dig med detta då.
+
+**[00:06:44.380 - 00:06:47.380]** Och det får du göra då mot betalning.
+
+**[00:06:47.380 - 00:06:51.430]** Man får ju i regel ingenting gratis.
+
+**[00:06:51.430 - 00:06:56.430]** Liksom. Bransch-krutimen är att man betalar för webbplatsen som man har köpt då.
+
+**[00:06:56.430 - 00:07:00.430]** Bransch-krutimen är också att man betalar för löpande arbete med sökmotoroptimering i syfte att få
+
+**[00:07:00.430 - 00:07:04.430]** när webbplatserna synas och exponeras på Google på relevanta sökningar
+
+**[00:07:04.430 - 00:07:09.430]** i syfte att få besökare trafik till webbplatsen som ser det mer leder till kunder då förhoppningsvis.
+
+**[00:07:09.430 - 00:07:14.500]** Det kan inte vi garantera dock om det gör för vi kan inte styra över alla företags affärer.
+
+**[00:07:14.500 - 00:07:20.500]** Eller om en frisörsalong erbjuder 10 000 för en klippning och en annan frisörsalong 1 000 kronor
+
+**[00:07:20.500 - 00:07:26.660]** och vi kopplar vårt nyckeltal till antalet affärer som de facto genomförs som man säger
+
+**[00:07:26.660 - 00:07:30.660]** då bestraffas ju vi för att företag har ett mindre bra erbjudande jämfört med annat då.
+
+**[00:07:30.660 - 00:07:37.660]** Och det är ju inte rätt då. Så därför så har vi valt att, men vi säger att vår tjänst är baserad på dess prestation och inget annat.
+
+**[00:07:37.660 - 00:07:48.660]** Och vi fakturerar baserad på en reell prestation. Alltså det vill säga, i det fall att du, om jag börjar så här och säger att
+
+**[00:07:48.660 - 00:07:54.690]** du vill synas på frisörsalong Borås för det är relevant för dig och din verksamhet.
+
+**[00:07:54.690 - 00:08:02.910]** I det fall att du hamnar på topp 10 på Google, för vi alla vet att det är där man börjar och slutar i princip.
+
+**[00:08:02.910 - 00:08:06.140]** Det är väldigt få som går in på Syda 2.
+
+**[00:08:06.140 - 00:08:15.360]** Endast i det fallet så skapas en faktura per automatik i vårt system, baserad på data från Google Analytics.
+
+**[00:08:15.360 - 00:08:22.680]** I övrigt, om du inte får den exponeringen och synligheten och de förutsättningarna då, som vi anser är,
+
+**[00:08:22.680 - 00:08:25.680]** det är ju de förutsättningarna som behövs ju att exponera och synas.
+
+**[00:08:25.680 - 00:08:30.680]** Sen får ju, när någon har klickat med en besökare och som besökare i frisörsalong klickar sig in på webbplatsen,
+
+**[00:08:30.680 - 00:08:35.680]** får ju den personen ta ställning till om prissättning eller det som står på webbplatsen och så vidare,
+
+**[00:08:35.680 - 00:08:41.680]** är tillräckligt bra för att man ska välja att anlita Sagda verksamhet eller bolag eller vad det kan vara.
+
+**[00:08:41.680 - 00:08:45.680]** Men ordnar ni också själva webbplatsen för företagen?
+
+**[00:08:45.680 - 00:08:53.680]** Tjänsten i Rocket är ju bokstavligt talat en webbplats egentligen då.
+
+**[00:08:53.680 - 00:08:59.840]** Kärt barn har många namn, jag vet inte hur jag ska uttrycka mig, det är ju en leads generator egentligen.
+
+**[00:08:59.840 - 00:09:05.840]** Den genererar ju trafik och besökare som har sökt på relevanta sökningar på Google
+
+**[00:09:05.840 - 00:09:13.100]** med en intention att anlita ett byggföretag till exempel.
+
+**[00:09:13.100 - 00:09:18.100]** Eller om man behöver hjälp med städning hemma eller på kontoret eller vad det nu kan vara.
+
+**[00:09:18.100 - 00:09:21.100]** Då har man ju sökt kontorstäd på Borås eller Göteborg i Stockholm.
+
+**[00:09:21.100 - 00:09:25.100]** Och då hittar man ju någonting som känns bra och vettigt.
+
+**[00:09:25.100 - 00:09:29.100]** Och ser det då klockrent ut och ser seriöst ut.
+
+**[00:09:29.100 - 00:09:36.100]** Och webbplatsen ser ut som att någon bryr sig här och inte är olaglig och ser ut att vara från 90-talet
+
+**[00:09:36.100 - 00:09:43.100]** och inte funkar i mobilen och sådana bitar och har osäker anslutning eller vad det nu med handla kan vara.
+
+**[00:09:43.100 - 00:09:50.100]** Då förlorar ju den verksamheten såklart ett förtroende och människor tenderar att backa tillbaka till söket och välja en annan.
+
+**[00:09:50.100 - 00:09:54.100]** Och då förlorar ju också per automatik den webbplatsen
+
+**[00:09:54.100 - 00:09:56.100]** av autoritet och tappar rankings.
+
+**[00:09:56.100 - 00:10:00.100]** För Google premierar ju bara bra webbplatser.
+
+**[00:10:00.100 - 00:10:03.100]** Alltså väldigt, väldigt väl genomförda webbplatser.
+
+**[00:10:03.100 - 00:10:10.100]** Produktionen måste alltså vara riktigt bra om Google ska premiera webbplatsen i fråga och ranka den.
+
+**[00:10:10.100 - 00:10:20.220]** Så skillnaden mellan oss, om man säger den största skillnaden då, det är att i branschen så betalar man då i regel i förskott.
+
+**[00:10:20.220 - 00:10:26.220]** Jag kan ju säga i 9 av 10 fall så är det oftast typ att man betalar 50% av webbplatsens kostnad.
+
+**[00:10:26.220 - 00:10:33.220]** Alltså vid typ avtalets signering och resterande hälft när vi lanserar så ser ju branschen ut i regel.
+
+**[00:10:33.220 - 00:10:35.220]** Liksom och har gjort det i alla år.
+
+**[00:10:35.220 - 00:10:42.220]** Och sen så anlitar man byrån eller vad det nu kan vara för synlighet på Google och då betalar man också då i förskott.
+
+**[00:10:42.220 - 00:10:52.220]** antingen kvartalsvis eller månadsvis. Det är ganska ovanligt med årsvis vad jag vet vad jag håller på med digitala när jag var tolv år gammal.
+
+**[00:10:52.220 - 00:10:57.220]** Men då är det liksom att då förskottsfaktureras ju ett företag, ett visst belopp.
+
+**[00:10:57.220 - 00:11:04.350]** Och så ska den här stackars företagen då hålla tummarna och hoppas på att synas på Google.
+
+**[00:11:04.350 - 00:11:11.340]** Det är ingenting som garanterar att man syns på Google bara för att man har anlitat en byrå, låt säga.
+
+**[00:11:11.340 - 00:11:23.100]** Så ser branschen ut. Är ni med mig här än så länge? Jag pratar lite för fort kanske ibland så se till om det är något som är otydligt.
+
+**[00:11:23.100 - 00:11:29.480]** Ja, men se till så ställ gärna så om det är.
+
+**[00:11:29.480 - 00:11:37.510]** Vad vi gör då är att vi istället lanserar en klockrent genomförd webbplats åt våra kunder.
+
+**[00:11:37.510 - 00:11:46.540]** När vi tar emot en beställning liksom, som ett skriftligt avtal så står det att ja men här vill nu då Matilda ha en webbplats till sin frisörssalong.
+
+**[00:11:46.540 - 00:11:49.540]** Den här genom tjänsten i Rocket då.
+
+**[00:11:49.540 - 00:11:56.540]** Och det är ju en komplett impaketerad tjänst. Det ingår hosting som man i regel får betala för det vanligtvis då.
+
+**[00:11:56.540 - 00:11:58.540]** Men det ingår detta då.
+
+**[00:11:58.540 - 00:12:07.540]** Domänavgift, vidareutveckling av funktionaliteter, löpande arbete för att synas på Google, rapport, rapportering, rubbet va.
+
+**[00:12:07.540 - 00:12:14.540]** Men ingen faktura ställs överhuvudtaget ut. Någonsin, såvida inte.
+
+**[00:12:14.540 - 00:12:19.540]** Matilda då rankar på frisörssalong, låt säga Borås, som hon själv har valt att hon vill synas på.
+
+**[00:12:19.540 - 00:12:23.410]** Top 10 på Google. Förstår ni här vad jag menar?
+
+**[00:12:23.410 - 00:12:28.410]** Så våran tjänste är helt och hållet baserad på dess egna prestation som den är levererad till kund.
+
+**[00:12:28.410 - 00:12:31.730]** Men hur är det hållbart för ekonomi till er?
+
+**[00:12:31.730 - 00:12:39.790]** Vi är väldigt duktiga på det vi gör. Vi har ju anlitats av ABBA, Circus, Halva Djurgården, Halva Kändis Sverige tidigare innan pandemin.
+
+**[00:12:39.790 - 00:12:43.790]** Pandemin slog ut vår kundbas. Det kan vara omöjligt tror jag att missa.
+
+**[00:12:43.790 - 00:12:47.790]** Att det är ABBA-grejer och Circus, alltså det är ju merch och grejer.
+
+**[00:12:47.790 - 00:12:56.790]** Ravelli har anlitat oss bröden med Ravelli. Vi jobbar ju, alltså ni har ju säkert gjort en research antagligen när ni kom hit.
+
+**[00:12:56.790 - 00:13:01.790]** Så ni har väl googlat mitt namn. Ni ser att jag är ambassadör för regnbågsfonden och hjälper HBTQ-utsatta människor.
+
+**[00:13:01.790 - 00:13:08.790]** Jag jobbar med Jonas Gardell och Kajsa Bergqvist och Kjell Bergqvist och hans stiftelse och hans familj.
+
+**[00:13:08.790 - 00:13:14.270]** Men är det inte en ny tjänst då som har tagit fram under pandemin?
+
+**[00:13:14.270 - 00:13:18.270]** Nej, inte under pandemin. Strax efter pandemin. Eller ja, det beror på hur man ser det.
+
+**[00:13:18.270 - 00:13:24.270]** 2020 ser jag inte riktigt så. Beroende på om du ser 2020 som pandemiåret och sånt är det slut.
+
+**[00:13:24.270 - 00:13:27.270]** Men i mitt huvud så var det lite kometan svans med pandemin ju.
+
+**[00:13:27.270 - 00:13:30.270]** Alltså det var ju även under 2021 som pandemin var.
+
+**[00:13:30.270 - 00:13:33.340]** Men jag förstår inte vad...
+
+**[00:13:33.340 - 00:13:39.340]** Var det inte i ochvågigt som ABBA hade om du nämnde att använda sig av? Det är en ny tjänst va?
+
+**[00:13:39.340 - 00:13:48.340]** Ja, det stämmer. Men det är ju vi som ligger bakom tjänsten. Det är vi som sitter på kompetensen som har byggt en plattform
+
+**[00:13:48.340 - 00:13:53.340]** som först måste generera ett värde för kunden innan den överhuvudtaget ens kan ställa ut en faktura.
+
+**[00:13:54.340 - 00:13:57.340]** Men var det ju med det då?
+
+**[00:13:57.340 - 00:14:03.340]** Ja, precis. Ja, exakt. Så var det ju därav din sista fråga där.
+
+**[00:14:03.340 - 00:14:07.340]** Hur mina bolag mår ekonomiskt. Jag vet inte vad det har för relevans i det här.
+
+**[00:14:07.340 - 00:14:09.340]** Men liksom...
+
+**[00:14:09.340 - 00:14:12.340]** Där har du förklaringen i alla fall, Matilda, till.
+
+**[00:14:12.340 - 00:14:16.340]** Alltså, det är inte så kul när man liksom springer runt 18 månader.
+
+**[00:14:16.340 - 00:14:18.750]** Åh gud, eller egentligen inte 18 månader.
+
+**[00:14:18.750 - 00:14:21.750]** Ja, 18 månader som själva bolagsdelningen tog.
+
+**[00:14:21.750 - 00:14:24.750]** Det är en lång historia bara det. Men det var väl en...
+
+**[00:14:24.750 - 00:14:27.750]** Sen 2018 till 2020 då. Så två månader då.
+
+**[00:14:27.750 - 00:14:30.750]** Eller två, vad säger jag? Gud, två år. Två års tid.
+
+**[00:14:30.750 - 00:14:33.750]** Lite drygt. Två och ett halvt skulle jag säga att det var.
+
+**[00:14:33.750 - 00:14:35.750]** Som vi jobbade uteslutande i princip i Stockholm.
+
+**[00:14:35.750 - 00:14:36.750]** Och jag var i Stockholm i princip.
+
+**[00:14:36.750 - 00:14:39.750]** Alltså, från tisdag till och kom tillbaka på onsdagsdagen.
+
+**[00:14:39.750 - 00:14:40.750]** Någonstans där.
+
+**[00:14:40.750 - 00:14:43.880]** Och jobbade på Djurgården då med alla de här aktörerna.
+
+**[00:14:43.880 - 00:14:45.880]** Och då är det ju för att vi liksom så här.
+
+**[00:14:45.880 - 00:14:47.880]** Någonstans har vi ju anlitats av en anledning.
+
+**[00:14:47.880 - 00:14:48.880]** Vi är ju ett kompetent gäng.
+
+**[00:14:48.880 - 00:14:50.880]** Det är inget jag sticker under stolen med.
+
+**[00:14:50.880 - 00:14:52.880]** Jag är otroligt oödmjuk när det kommer till det här.
+
+**[00:14:52.880 - 00:14:54.880]** Det finns ingen ödmjukhet i mig alls.
+
+**[00:14:54.880 - 00:14:56.880]** Om jag frågar den här Google-assistenten.
+
+**[00:14:56.880 - 00:14:59.880]** Vem vill jag bry där? Så kommer han besvara.
+
+**[00:14:59.880 - 00:15:02.880]** ett jättefint svar på vem jag är.
+
+**[00:15:02.880 - 00:15:04.880]** Om jag frågar vem Matilda Gert är.
+
+**[00:15:04.880 - 00:15:06.880]** Så vet jag inte vad han kommer säga.
+
+**[00:15:06.880 - 00:15:10.880]** Men jag skulle kunna hjälpa dig med att se till så att du tar kontroll över ditt egna personliga varumärke.
+
+**[00:15:10.880 - 00:15:11.880]** Och det dyker upp något bra.
+
+**[00:15:11.880 - 00:15:13.880]** Istället för något som är hemskt.
+
+**[00:15:13.880 - 00:15:15.880]** Och kanske inte ens stämmer. Eller hur?
+
+**[00:15:15.880 - 00:15:19.550]** Så vi är ju ändå väldigt kompetenta inom det vi gör.
+
+**[00:15:19.550 - 00:15:21.550]** Och det är ju därför man har anlitat oss tidigare.
+
+**[00:15:21.550 - 00:15:23.550]** Och när vi, våran kundbas slås ut.
+
+**[00:15:23.550 - 00:15:25.550]** Så behöver vi ställa om givetvis.
+
+**[00:15:25.550 - 00:15:27.550]** Och överleva det här.
+
+**[00:15:27.550 - 00:15:29.550]** Och då utvecklade vi en tjänst.
+
+**[00:15:29.550 - 00:15:31.550]** Och så tittade vi på marknaden.
+
+**[00:15:31.550 - 00:15:32.550]** Och baserat på det vi såg.
+
+**[00:15:32.550 - 00:15:33.550]** Alla de här hindren.
+
+**[00:15:33.550 - 00:15:35.550]** Alla felen som jag ansåg.
+
+**[00:15:35.550 - 00:15:40.550]** Det finns ju 99 av 100 byråer i Sverige jobbar med Black Cat-metoder.
+
+**[00:15:40.550 - 00:15:41.550]** Om ni vet vad det är.
+
+**[00:15:41.550 - 00:15:43.550]** När det kommer till sökmotrottenering.
+
+**[00:15:43.550 - 00:15:45.550]** Det är alltså otillnåtna metoder.
+
+**[00:15:45.550 - 00:15:46.550]** Basically.
+
+**[00:15:46.550 - 00:15:47.550]** Det är en jättebra jämförelse.
+
+**[00:15:47.550 - 00:15:51.550]** Om Patrik här önskar bli biffig.
+
+**[00:15:51.550 - 00:15:52.550]** Och gå och träna.
+
+**[00:15:52.550 - 00:15:54.550]** Och få en schysst kropp och allt det här.
+
+**[00:15:54.550 - 00:15:56.550]** Då har han ju någonstans.
+
+**[00:15:56.550 - 00:15:57.550]** Eller om vi nu ponerar.
+
+**[00:15:57.550 - 00:15:58.550]** Att han har två val.
+
+**[00:15:58.550 - 00:16:02.550]** Antingen så kan han gå till herren som står till vänster på gymmet.
+
+**[00:16:02.550 - 00:16:04.550]** Som ser lite shady ut kanske.
+
+**[00:16:04.550 - 00:16:05.550]** Och säger kom här.
+
+**[00:16:05.550 - 00:16:06.550]** Ta de här bilderna.
+
+**[00:16:06.550 - 00:16:07.550]** Så kommer du bli biffg minns han.
+
+**[00:16:07.550 - 00:16:09.550]** Då dopar han ju sig.
+
+**[00:16:09.550 - 00:16:11.550]** Eller så går han till åt höger.
+
+**[00:16:11.550 - 00:16:12.550]** Kanske inne vid lokalen.
+
+**[00:16:12.550 - 00:16:14.550]** Där han ska träningslokalen.
+
+**[00:16:14.550 - 00:16:16.550]** Och där det står en seriösare herre då.
+
+**[00:16:16.550 - 00:16:17.550]** Som är en PT.
+
+**[00:16:17.550 - 00:16:18.550]** Där han har ett kostschema.
+
+**[00:16:18.550 - 00:16:20.550]** Och säger att du ska lyfta rätt.
+
+**[00:16:20.550 - 00:16:21.550]** Och du ska hålla dig.
+
+**[00:16:21.550 - 00:16:22.550]** Och göra rätt från början.
+
+**[00:16:22.550 - 00:16:25.550]** Det är ju ett hållbart sätt att träna på.
+
+**[00:16:25.550 - 00:16:26.550]** Och bli.
+
+**[00:16:26.550 - 00:16:27.550]** Och bygga muskler om man nu önskar.
+
+**[00:16:27.550 - 00:16:29.620]** Det som.
+
+**[00:16:29.620 - 00:16:32.620]** 99 av 100 företag idag skulle jag säga.
+
+**[00:16:32.620 - 00:16:33.620]** Gör.
+
+**[00:16:33.620 - 00:16:34.620]** Och än idag gör alltså.
+
+**[00:16:34.620 - 00:16:35.620]** Trots att det är otillåtna.
+
+**[00:16:35.620 - 00:16:37.620]** Alltså det är att man använder otillåtna metoder.
+
+**[00:16:37.620 - 00:16:39.620]** Man dopar webbplatser.
+
+**[00:16:39.620 - 00:16:41.620]** Genom att koppla på massa länkar.
+
+**[00:16:41.620 - 00:16:42.620]** Länknätverk.
+
+**[00:16:42.620 - 00:16:44.870]** Kloakar.
+
+**[00:16:44.870 - 00:16:45.870]** Texter.
+
+**[00:16:45.870 - 00:16:47.870]** Alltså det här blir mycket nördspråk nu.
+
+**[00:16:47.870 - 00:16:50.870]** Men det finns ju hur många otillåtna metoder som helst.
+
+**[00:16:50.870 - 00:16:53.870]** Som givetvis Google har gått ut med och sagt att detta inte är tillåtet.
+
+**[00:16:53.870 - 00:16:54.870]** Uuvudtaget.
+
+**[00:16:54.870 - 00:16:57.870]** Men dessvärre så funkar det fortfarande.
+
+**[00:16:57.870 - 00:16:59.870]** Så många byråer har nära till hands.
+
+**[00:16:59.870 - 00:17:01.870]** Eftersom att kunskapsklyftan är så enorm.
+
+**[00:17:01.870 - 00:17:03.870]** Mellan byrå och kund.
+
+**[00:17:03.870 - 00:17:06.100]** Så utnyttjar man ju det.
+
+**[00:17:06.100 - 00:17:07.100]** Om jag får uttrycka mig så.
+
+**[00:17:07.100 - 00:17:08.480]** Byråerna.
+
+**[00:17:08.480 - 00:17:10.480]** Den här kunskapsklyftan.
+
+**[00:17:10.480 - 00:17:11.480]** För kunden vill ju bara liksom.
+
+**[00:17:11.480 - 00:17:13.480]** Jag vill synas på Google.
+
+**[00:17:13.480 - 00:17:15.480]** Jag vill anlita er för synlighet på Google.
+
+**[00:17:15.480 - 00:17:18.480]** De vet ju inte hur ett.
+
+**[00:17:18.480 - 00:17:20.480]** Alltså hur byrån går till väga.
+
+**[00:17:20.480 - 00:17:23.540]** De anlitar ju bara en byrå i god tro.
+
+**[00:17:23.540 - 00:17:25.610]** Om att synas på Google.
+
+**[00:17:25.610 - 00:17:28.610]** Att sen då byrån väljer att ta den snabba vägen.
+
+**[00:17:28.610 - 00:17:29.610]** Alltså dopa sig.
+
+**[00:17:29.610 - 00:17:31.610]** Du vet bara ta några piller och sen är det bra.
+
+**[00:17:31.610 - 00:17:33.610]** Eller tablett eller vad det nu kan vara.
+
+**[00:17:33.610 - 00:17:35.770]** Det vet ju inte kunden om.
+
+**[00:17:35.770 - 00:17:36.770]** Kunden säger bara.
+
+**[00:17:36.770 - 00:17:37.770]** Ja men nu syns jag.
+
+**[00:17:37.770 - 00:17:39.770]** Men det som sker här egentligen bakom kulisserna.
+
+**[00:17:39.770 - 00:17:45.770]** Det är att byrån sitter och riskerar företagets varumärke.
+
+**[00:17:45.770 - 00:17:46.860]** Digitalt.
+
+**[00:17:46.860 - 00:17:48.860]** Att det ska totalt försvinna.
+
+**[00:17:48.860 - 00:17:49.860]** På en dag.
+
+**[00:17:49.860 - 00:17:50.860]** Basically.
+
+**[00:17:50.860 - 00:17:52.340]** Ja.
+
+**[00:17:52.340 - 00:17:55.890]** Eller att Google crawlar den sidan.
+
+**[00:17:55.890 - 00:17:58.890]** Och upptäcker att här har man kopplat på massa länknätverk.
+
+**[00:17:58.890 - 00:18:02.890]** Man har jobbat otillåtta metoder för att sammanfatta det hela egentligen.
+
+**[00:18:02.890 - 00:18:04.890]** Och det är ganska många riktlinjer som Google har.
+
+**[00:18:04.890 - 00:18:06.890]** Våran tjänst uppfyller nästan samtliga.
+
+**[00:18:06.890 - 00:18:09.400]** Nästan samtliga.
+
+**[00:18:09.400 - 00:18:10.400]** Nästan samtliga.
+
+**[00:18:10.400 - 00:18:13.400]** Jag är väldigt tydlig med för att det är väldigt omfattande.
+
+**[00:18:13.400 - 00:18:15.400]** Alltså de här riktlinjerna som Google har.
+
+**[00:18:15.400 - 00:18:17.400]** Det är inte så här jätteenkelt.
+
+**[00:18:17.400 - 00:18:18.400]** Man kan göra det enkelt.
+
+**[00:18:18.400 - 00:18:20.400]** Som Google säger själva.
+
+**[00:18:20.400 - 00:18:23.400]** Gör bara en klockren webbplats som är relevant för dig.
+
+**[00:18:23.400 - 00:18:25.400]** Alltså din verksamhet och dina besökare eller kunder.
+
+**[00:18:25.400 - 00:18:28.400]** Så kommer vi över tid att ranka den.
+
+**[00:18:28.400 - 00:18:30.400]** Det är den enkla förklaringen.
+
+**[00:18:30.400 - 00:18:32.400]** Men sen om man går in på Googles riktlinjer.
+
+**[00:18:32.400 - 00:18:34.400]** Alltså för webbplatsutvecklare.
+
+**[00:18:34.400 - 00:18:36.400]** Så är det ju över 800 sidor minst.
+
+**[00:18:36.400 - 00:18:40.400]** Alltså av text som det här ska du tänka på.
+
+**[00:18:40.400 - 00:18:43.400]** Och det man egentligen säger är att bygg en riktigt bra webbplats.
+
+**[00:18:43.400 - 00:18:44.400]** Som laddar snabbt.
+
+**[00:18:44.400 - 00:18:46.400]** Funkar alla enheter.
+
+**[00:18:46.400 - 00:18:48.400]** Är säker.
+
+**[00:18:48.400 - 00:18:49.400]** Är laglig.
+
+**[00:18:49.400 - 00:18:51.400]** Och rubbet va liksom.
+
+**[00:18:51.400 - 00:18:54.400]** Som uppskattas av besökarna.
+
+**[00:18:54.400 - 00:18:56.400]** Om man trattar ner det till det då.
+
+**[00:18:56.400 - 00:18:58.400]** För att då backar inte besökarna till söket igen.
+
+**[00:18:58.400 - 00:19:01.620]** För om vi tar ett steg till här och ställer oss frågan.
+
+**[00:19:01.620 - 00:19:05.620]** Varför gillar inte Google att människor backar tillbaks till söket?
+
+**[00:19:05.620 - 00:19:09.460]** Ja men man har ju inte hittat man är ute efter då ju.
+
+**[00:19:09.460 - 00:19:11.460]** Google har ju inte levererat ett bra svar.
+
+**[00:19:11.460 - 00:19:13.460]** På den sökfråga man har ställt.
+
+**[00:19:13.460 - 00:19:15.460]** Så man har gått in på någonting.
+
+**[00:19:15.460 - 00:19:16.460]** Som har dopats upp.
+
+**[00:19:16.460 - 00:19:17.460]** I resultatet.
+
+**[00:19:17.460 - 00:19:18.460]** Anser att.
+
+**[00:19:18.460 - 00:19:20.460]** Vad är detta för 90-tals hemsida.
+
+**[00:19:20.460 - 00:19:21.460]** Som inte ens är laglig.
+
+**[00:19:21.460 - 00:19:23.460]** Och ingen cookie notice.
+
+**[00:19:23.460 - 00:19:24.460]** Ingenting.
+
+**[00:19:24.460 - 00:19:25.460]** Och länkarna är brutna.
+
+**[00:19:25.460 - 00:19:26.460]** Och det är 404 sidor.
+
+**[00:19:26.460 - 00:19:27.460]** Och vad vet jag.
+
+**[00:19:27.460 - 00:19:28.460]** Då backar man ju.
+
+**[00:19:28.460 - 00:19:30.460]** Ja men då har ju den här människan.
+
+**[00:19:30.460 - 00:19:31.460]** Som har sökt på Google.
+
+**[00:19:31.460 - 00:19:33.460]** Upplevt Google som.
+
+**[00:19:33.460 - 00:19:35.460]** En dålig chans givetvis.
+
+**[00:19:35.460 - 00:19:36.460]** Då kanske man går till Bing.
+
+**[00:19:36.460 - 00:19:37.460]** Imon.
+
+**[00:19:37.460 - 00:19:38.460]** Och söker.
+
+**[00:19:38.460 - 00:19:39.460]** Och upplever att det är bättre resultat där.
+
+**[00:19:39.460 - 00:19:41.460]** Så det ligger alltså inte i Googles intresse.
+
+**[00:19:41.460 - 00:19:43.460]** Att premiera ropare webbplatser.
+
+**[00:19:43.460 - 00:19:44.460]** Men algoritmen.
+
+**[00:19:44.460 - 00:19:45.460]** Är.
+
+**[00:19:45.460 - 00:19:47.460]** Samtidigt som den är.
+
+**[00:19:47.460 - 00:19:48.460]** Så otroligt smart.
+
+**[00:19:48.460 - 00:19:49.460]** Och blir smarta och smarta.
+
+**[00:19:49.460 - 00:19:51.460]** Och så är den tyvärr inte.
+
+**[00:19:51.460 - 00:19:52.460]** Riktigt där ännu.
+
+**[00:19:52.460 - 00:19:54.460]** Att den ska upptäcka alla.
+
+**[00:19:54.460 - 00:19:55.460]** De här.
+
+**[00:19:55.460 - 00:19:56.460]** Fulingarna som finns.
+
+**[00:19:56.460 - 00:19:57.460]** Ja då.
+
+**[00:19:57.460 - 00:19:58.460]** Det är ju lite så.
+
+**[00:19:58.460 - 00:19:59.460]** Ja precis.
+
+**[00:19:59.460 - 00:20:00.460]** Det blir ju som så här.
+
+**[00:20:00.460 - 00:20:01.460]** Så fort Google.
+
+**[00:20:01.460 - 00:20:02.460]** Släpper en ny lansering.
+
+**[00:20:02.460 - 00:20:04.460]** Eller lanserar en ny uppdatering.
+
+**[00:20:04.460 - 00:20:05.460]** I deras algoritmer.
+
+**[00:20:05.460 - 00:20:06.520]** Som liksom.
+
+**[00:20:06.520 - 00:20:08.520]** Bestraffar en viss typ av.
+
+**[00:20:08.520 - 00:20:10.650]** Metod.
+
+**[00:20:10.650 - 00:20:11.650]** Eller liksom så här.
+
+**[00:20:11.650 - 00:20:12.650]** Webplats liksom.
+
+**[00:20:12.650 - 00:20:13.650]** Så.
+
+**[00:20:13.650 - 00:20:14.650]** Så.
+
+**[00:20:14.650 - 00:20:15.650]** Tenderar ju.
+
+**[00:20:15.650 - 00:20:16.650]** I regel.
+
+**[00:20:16.650 - 00:20:18.650]** Branschfolket.
+
+**[00:20:18.650 - 00:20:19.650]** Hitta andra.
+
+**[00:20:19.650 - 00:20:20.650]** Knep.
+
+**[00:20:20.650 - 00:20:21.650]** Och tricks.
+
+**[00:20:21.650 - 00:20:23.650]** Och jag har varit en stark motståndare.
+
+**[00:20:23.650 - 00:20:24.650]** Av det här.
+
+**[00:20:24.650 - 00:20:25.650]** Sen.
+
+**[00:20:25.650 - 00:20:26.650]** Så länge jag kan minnas alltså.
+
+**[00:20:26.650 - 00:20:28.710]** Jag har hållit föreläsningar.
+
+**[00:20:28.710 - 00:20:29.710]** Där jag berättar om.
+
+**[00:20:29.710 - 00:20:30.710]** Alltså hur.
+
+**[00:20:30.710 - 00:20:31.710]** Alltså.
+
+**[00:20:31.710 - 00:20:33.710]** Otroligt oetiskt det är.
+
+**[00:20:33.710 - 00:20:35.030]** Att försätta.
+
+**[00:20:35.030 - 00:20:38.030]** Företagares varumärken.
+
+**[00:20:38.030 - 00:20:39.030]** Och riskera.
+
+**[00:20:39.030 - 00:20:40.030]** Att det försvinner helt och hållet.
+
+**[00:20:40.030 - 00:20:41.030]** Från Google.
+
+**[00:20:41.030 - 00:20:42.030]** Alltså från det digitala.
+
+**[00:20:42.030 - 00:20:43.030]** Att det liksom.
+
+**[00:20:43.030 - 00:20:44.030]** Nästa gång jag söker efter.
+
+**[00:20:44.030 - 00:20:45.030]** Matildas frisörerussalong.
+
+**[00:20:45.030 - 00:20:46.030]** Eller någonting.
+
+**[00:20:46.030 - 00:20:47.030]** Så är det.
+
+**[00:20:47.030 - 00:20:48.030]** Det finns inte på Google.
+
+**[00:20:48.030 - 00:20:49.030]** Det har försvunnit ur sökresultatet.
+
+**[00:20:49.030 - 00:20:50.030]** För att Google har tagit bort det.
+
+**[00:20:50.030 - 00:20:51.030]** För att de har straffat.
+
+**[00:20:51.030 - 00:20:53.130]** Att de har straffat inbattplats.
+
+**[00:20:53.130 - 00:20:54.130]** Och det beror uppenbarligen.
+
+**[00:20:54.130 - 00:20:55.130]** Beredda att ta.
+
+**[00:20:55.130 - 00:20:56.130]** Den risken.
+
+**[00:20:56.130 - 00:20:58.130]** Den risken är jag inte beredd att ta.
+
+**[00:20:58.130 - 00:21:00.130]** Och jag har varit väldigt tydlig med det.
+
+**[00:21:00.130 - 00:21:01.130]** Alla situationer har suttit i.
+
+**[00:21:01.130 - 00:21:03.130]** Oavsett om det har varit styrelsesammanhang.
+
+**[00:21:03.130 - 00:21:05.130]** Föreläsningar.
+
+**[00:21:05.130 - 00:21:06.130]** När jag har stått.
+
+**[00:21:06.130 - 00:21:07.130]** Inför ledningens.
+
+**[00:21:07.130 - 00:21:08.130]** Jag sitter ju med i ledningsgruppen.
+
+**[00:21:08.130 - 00:21:10.130]** På Borås IH och IHM.
+
+**[00:21:10.130 - 00:21:11.130]** Göteborg.
+
+**[00:21:11.130 - 00:21:13.130]** Där har jag också varit tydlig med det.
+
+**[00:21:13.130 - 00:21:14.130]** Det är liksom.
+
+**[00:21:14.130 - 00:21:16.130]** Jag känner mig lite som att.
+
+**[00:21:16.130 - 00:21:17.130]** Man tar med sig en kniv till en.
+
+**[00:21:17.130 - 00:21:18.130]** Knife.
+
+**[00:21:18.130 - 00:21:20.130]** I brought a knife to gunfight.
+
+**[00:21:20.130 - 00:21:21.130]** Säger man ju på engelska.
+
+**[00:21:21.130 - 00:21:22.130]** Det är liksom så här.
+
+**[00:21:22.130 - 00:21:23.130]** Alla andra byråer dopar.
+
+**[00:21:23.130 - 00:21:24.130]** Liksom.
+
+**[00:21:24.130 - 00:21:25.130]** Men vi gör inte det.
+
+**[00:21:25.130 - 00:21:27.130]** Och sen har vi varit lyckligt lottade.
+
+**[00:21:27.130 - 00:21:29.130]** Och haft en stark finansiär i ryggen.
+
+**[00:21:29.130 - 00:21:30.130]** Som trott på oss väldigt mycket.
+
+**[00:21:30.130 - 00:21:31.130]** Mot bakgrund till att.
+
+**[00:21:31.130 - 00:21:32.130]** Vem är det?
+
+**[00:21:32.130 - 00:21:34.130]** Är det relevant?
+
+**[00:21:34.130 - 00:21:36.130]** Håller på att säga.
+
+**[00:21:36.130 - 00:21:38.130]** Det är en dansk herre i alla fall.
+
+**[00:21:38.130 - 00:21:39.290]** Som.
+
+**[00:21:39.290 - 00:21:42.290]** Vars fru var.
+
+**[00:21:42.290 - 00:21:45.290]** Är fortfarande stor fan till ABBA.
+
+**[00:21:45.290 - 00:21:49.280]** Jag vet inte om jag behöver nämna namnet eller.
+
+**[00:21:49.280 - 00:21:54.190]** På personer med fråga eller.
+
+**[00:21:54.190 - 00:21:56.190]** Han är inte med i styrelsen.
+
+**[00:21:56.190 - 00:21:58.190]** Den finansiär detta alltså.
+
+**[00:21:58.190 - 00:21:59.190]** Jag pratar om.
+
+**[00:21:59.190 - 00:22:02.540]** Det är Dan Jakobsen.
+
+**[00:22:02.540 - 00:22:03.540]** Ja.
+
+**[00:22:03.540 - 00:22:04.540]** Men han är inte med i styrelsen.
+
+**[00:22:04.540 - 00:22:06.540]** Han är ju en delägare alltså.
+
+**[00:22:06.540 - 00:22:07.540]** Ja.
+
+**[00:22:07.540 - 00:22:08.540]** Precis.
+
+**[00:22:08.540 - 00:22:11.630]** Och finansiär då.
+
+**[00:22:11.630 - 00:22:13.630]** Vars uppgift att finansiera.
+
+**[00:22:13.630 - 00:22:14.630]** Detta då.
+
+**[00:22:14.630 - 00:22:16.630]** Det är ju han som har finansierat.
+
+**[00:22:16.630 - 00:22:18.630]** Att vi liksom under 18 månaders tid.
+
+**[00:22:18.630 - 00:22:19.630]** Vi har byggt den här.
+
+**[00:22:19.630 - 00:22:21.630]** Tjänsten i Rocket då.
+
+**[00:22:21.630 - 00:22:22.630]** För jag menar.
+
+**[00:22:22.630 - 00:22:23.630]** Återigen.
+
+**[00:22:23.630 - 00:22:24.630]** Jag tror att det är väldigt få förunnat.
+
+**[00:22:24.630 - 00:22:26.180]** Att.
+
+**[00:22:26.180 - 00:22:28.180]** En byrå med hög kompetens.
+
+**[00:22:28.180 - 00:22:30.180]** Får 18 månader på sig.
+
+**[00:22:30.180 - 00:22:31.180]** Att utveckla en tjänst.
+
+**[00:22:31.180 - 00:22:32.180]** Som ska minst han.
+
+**[00:22:32.180 - 00:22:34.070]** Liksom.
+
+**[00:22:34.070 - 00:22:36.070]** Du kan ge bort den.
+
+**[00:22:36.070 - 00:22:37.070]** Liksom.
+
+**[00:22:37.070 - 00:22:38.070]** Tjänsten.
+
+**[00:22:38.070 - 00:22:39.070]** Eller det här har du gratis.
+
+**[00:22:39.070 - 00:22:40.070]** Varsågod.
+
+**[00:22:40.070 - 00:22:41.070]** Om den ger dig något värde.
+
+**[00:22:41.070 - 00:22:43.070]** Då kan vi vara överens om att du kan betala.
+
+**[00:22:43.070 - 00:22:44.140]** X kronor.
+
+**[00:22:44.140 - 00:22:45.140]** För.
+
+**[00:22:45.140 - 00:22:47.650]** Om den ger dig något värde då.
+
+**[00:22:47.650 - 00:22:48.650]** Så låt säga.
+
+**[00:22:48.650 - 00:22:49.650]** Du syns på.
+
+**[00:22:49.650 - 00:22:50.650]** Om du syns på frisörsalong.
+
+**[00:22:50.650 - 00:22:51.650]** Borås.
+
+**[00:22:51.650 - 00:22:52.650]** På topp 10.
+
+**[00:22:52.650 - 00:22:55.650]** Då kan vi vara överens om att det är värt 42 kronor per dag.
+
+**[00:22:55.650 - 00:22:57.680]** Som du syns topp 10.
+
+**[00:22:57.680 - 00:22:58.680]** Om du inte gör.
+
+**[00:22:58.680 - 00:22:59.680]** Om du syns 11.
+
+**[00:22:59.680 - 00:23:00.680]** På elfte plats.
+
+**[00:23:00.680 - 00:23:01.680]** Det är inte ställas ut en faktura.
+
+**[00:23:01.680 - 00:23:02.680]** För det är automatiserat.
+
+**[00:23:02.680 - 00:23:04.680]** Vi har API-kopplingar från Google Analytics data.
+
+**[00:23:04.680 - 00:23:06.680]** Som inte vi kan manipulera.
+
+**[00:23:06.680 - 00:23:08.060]** Och.
+
+**[00:23:08.060 - 00:23:09.060]** Och.
+
+**[00:23:09.060 - 00:23:10.060]** Faktureringen.
+
+**[00:23:10.060 - 00:23:11.060]** Den byggs alltså på.
+
+**[00:23:11.060 - 00:23:12.060]** Hur mycket besök.
+
+**[00:23:12.060 - 00:23:13.060]** Välplatsen får.
+
+**[00:23:13.060 - 00:23:15.060]** Eller hur bra rangen får på Google.
+
+**[00:23:15.060 - 00:23:16.060]** Nej.
+
+**[00:23:16.060 - 00:23:17.060]** Det sistnämnda.
+
+**[00:23:17.060 - 00:23:18.060]** Ja.
+
+**[00:23:18.060 - 00:23:20.060]** Och de som mäter det.
+
+**[00:23:20.060 - 00:23:21.060]** Det är ni.
+
+**[00:23:21.060 - 00:23:22.060]** Med er tjänst.
+
+**[00:23:22.060 - 00:23:23.060]** Eller.
+
+**[00:23:23.060 - 00:23:24.060]** Det är Google.
+
+**[00:23:24.060 - 00:23:25.060]** Det är oberoende.
+
+**[00:23:25.060 - 00:23:26.060]** Vi har oberoende analysverktyg.
+
+**[00:23:26.060 - 00:23:27.060]** Och vi har ju valt det.
+
+**[00:23:27.060 - 00:23:28.060]** Så klart.
+
+**[00:23:28.060 - 00:23:29.060]** För att inte hamna.
+
+**[00:23:29.060 - 00:23:30.060]** För att just kunna svara.
+
+**[00:23:30.060 - 00:23:32.060]** Precis som vi gör nu.
+
+**[00:23:32.060 - 00:23:33.060]** För hur dum.
+
+**[00:23:33.060 - 00:23:35.060]** Alltså jag har ju varit med om situationer.
+
+**[00:23:35.060 - 00:23:36.060]** Eller lägen där jag.
+
+**[00:23:36.060 - 00:23:38.060]** Det finns ju perorer som har uttryckt intresse.
+
+**[00:23:38.060 - 00:23:40.060]** För att använda våran plattform och tjänst.
+
+**[00:23:40.060 - 00:23:42.060]** För att den är ju helt otrolig.
+
+**[00:23:42.060 - 00:23:43.060]** Den rankar ju liksom.
+
+**[00:23:43.060 - 00:23:44.060]** Ändå.
+
+**[00:23:44.060 - 00:23:45.060]** Alltså den.
+
+**[00:23:45.060 - 00:23:47.060]** Den är ju byggd enligt konstens alla regler.
+
+**[00:23:47.060 - 00:23:49.060]** Vi har ju haft 18 månader på oss.
+
+**[00:23:49.060 - 00:23:50.060]** Att bara sitta helt fokuserat.
+
+**[00:23:50.060 - 00:23:51.060]** Och göra det bästa vi kan.
+
+**[00:23:51.060 - 00:23:52.060]** Kring.
+
+**[00:23:52.060 - 00:23:54.060]** Alltså den bästa webbplatsen vi kan.
+
+**[00:23:54.060 - 00:23:56.060]** Som laddar snabbast möjliga.
+
+**[00:23:56.060 - 00:23:59.060]** Når så många likningar som bara möjligtvis går att nå.
+
+**[00:23:59.060 - 00:24:01.060]** Som Google satt upp.
+
+**[00:24:01.060 - 00:24:03.060]** Och som uppfyller alla krav och allt möjligt.
+
+**[00:24:03.060 - 00:24:05.060]** Och som liksom ska premieras.
+
+**[00:24:05.060 - 00:24:07.060]** Alltså det ska vara liksom värdigt.
+
+**[00:24:07.060 - 00:24:09.060]** Google ska känna att det här är en bra produktion.
+
+**[00:24:09.060 - 00:24:10.060]** Den ska vi ranka minst han.
+
+**[00:24:10.060 - 00:24:11.060]** Boom.
+
+**[00:24:11.060 - 00:24:12.060]** Och det har vi ju haft.
+
+**[00:24:12.060 - 00:24:13.060]** Jag tror det är väldigt få förundat.
+
+**[00:24:13.060 - 00:24:15.060]** Liksom att man finansierat en sådan sak.
+
+**[00:24:15.060 - 00:24:16.060]** Mm.
+
+**[00:24:16.060 - 00:24:17.060]** Och men ja.
+
+**[00:24:17.060 - 00:24:18.060]** Så.
+
+**[00:24:18.060 - 00:24:19.060]** Så.
+
+**[00:24:19.060 - 00:24:20.060]** Vi får kolla på den rapporten.
+
+**[00:24:20.060 - 00:24:21.060]** På ett exempel.
+
+**[00:24:21.060 - 00:24:22.060]** Så hur den kan se ut.
+
+**[00:24:22.060 - 00:24:23.290]** Du men alltså.
+
+**[00:24:23.290 - 00:24:25.290]** Här har du ju ett avtal hur det kan se ut.
+
+**[00:24:25.290 - 00:24:26.290]** Eller vänta.
+
+**[00:24:26.290 - 00:24:27.290]** Eller vänta.
+
+**[00:24:27.290 - 00:24:28.510]** Eller har ni sett avtalen.
+
+**[00:24:28.510 - 00:24:29.510]** Avtalen.
+
+**[00:24:29.510 - 00:24:30.510]** Nej jag vill lite gärna titta på den.
+
+**[00:24:30.510 - 00:24:31.510]** Mm.
+
+**[00:24:31.510 - 00:24:32.990]** Ni ser jag.
+
+**[00:24:32.990 - 00:24:38.600]** Ja.
+
+**[00:24:38.600 - 00:24:39.820]** Det är ju också.
+
+**[00:24:39.820 - 00:24:41.820]** Du kanske vill berätta lite om det nu.
+
+**[00:24:41.820 - 00:24:43.820]** Hur avtalen fungerar.
+
+**[00:24:43.820 - 00:24:46.860]** Det var en av mina frågor här och så.
+
+**[00:24:46.860 - 00:24:48.860]** Ja jag kommer till det också.
+
+**[00:24:48.860 - 00:24:49.860]** Och.
+
+**[00:24:49.860 - 00:24:50.860]** Det.
+
+**[00:24:50.860 - 00:24:51.860]** Om inte det besvarar sig självt.
+
+**[00:24:51.860 - 00:24:52.860]** Någonstans.
+
+**[00:24:52.860 - 00:24:53.860]** Det är ju liksom.
+
+**[00:24:53.860 - 00:24:54.860]** Förlåt.
+
+**[00:24:54.860 - 00:24:55.860]** Det är ju.
+
+**[00:24:55.860 - 00:24:56.860]** Så kan en faktura.
+
+**[00:24:56.860 - 00:24:57.860]** Så ser våra fakturor ut exempelvis.
+
+**[00:24:57.860 - 00:24:59.860]** De är ju otroligt grundade.
+
+**[00:24:59.860 - 00:25:00.860]** Det här är alltså automatiskt.
+
+**[00:25:00.860 - 00:25:04.860]** Det är inte någon som manuellt administrativt sitter och petar in de här.
+
+**[00:25:04.860 - 00:25:05.860]** Sökfraserna.
+
+**[00:25:05.860 - 00:25:06.860]** Och kollar.
+
+**[00:25:06.860 - 00:25:07.860]** Utan.
+
+**[00:25:07.860 - 00:25:09.860]** Det är data som hämtas alltså.
+
+**[00:25:09.860 - 00:25:11.860]** Det här är jätte innovativt.
+
+**[00:25:11.860 - 00:25:12.860]** Så att det är därför Matilda.
+
+**[00:25:12.860 - 00:25:14.860]** Jag blev så orolig.
+
+**[00:25:14.860 - 00:25:15.860]** För liksom.
+
+**[00:25:15.860 - 00:25:18.860]** Jag förstår att det rimligtvis måste vara någon kund som inte fattat.
+
+**[00:25:18.860 - 00:25:19.860]** Någonting här.
+
+**[00:25:19.860 - 00:25:21.860]** Eller missförstått någonting.
+
+**[00:25:21.860 - 00:25:22.860]** Det är jag med på.
+
+**[00:25:22.860 - 00:25:23.860]** Det var ju där.
+
+**[00:25:23.860 - 00:25:24.860]** För det har ju sett att jag fått.
+
+**[00:25:24.860 - 00:25:25.860]** Vi har ju fått mail liksom.
+
+**[00:25:25.860 - 00:25:26.860]** När någon säger att.
+
+**[00:25:26.860 - 00:25:27.860]** Jag fattar inte fakturan.
+
+**[00:25:27.860 - 00:25:28.860]** Vadå.
+
+**[00:25:28.860 - 00:25:29.860]** Ska jag betala för varje gång.
+
+**[00:25:29.860 - 00:25:31.860]** Som någon söker på mitt.
+
+**[00:25:31.860 - 00:25:32.860]** Alltså.
+
+**[00:25:32.860 - 00:25:33.860]** Som någon söker på frisörsalong.
+
+**[00:25:33.860 - 00:25:34.860]** Borås.
+
+**[00:25:34.860 - 00:25:35.860]** Nej.
+
+**[00:25:35.860 - 00:25:36.860]** Det ska du inte.
+
+**[00:25:36.860 - 00:25:37.860]** Det är inte så det funkar.
+
+**[00:25:37.860 - 00:25:38.860]** De har ju inte läst.
+
+**[00:25:38.860 - 00:25:39.860]** Avtalen liksom.
+
+**[00:25:39.860 - 00:25:41.210]** Och det är ju beklagligt.
+
+**[00:25:41.210 - 00:25:43.210]** Ja vi säljer inte tjänsten.
+
+**[00:25:43.210 - 00:25:44.210]** Eftersom att.
+
+**[00:25:44.210 - 00:25:45.210]** Sälja någonting.
+
+**[00:25:45.210 - 00:25:46.210]** Betyder väl att.
+
+**[00:25:46.210 - 00:25:47.210]** Jag.
+
+**[00:25:47.210 - 00:25:49.210]** Om jag ska sälja någonting till dig nu då.
+
+**[00:25:49.210 - 00:25:50.210]** Mm.
+
+**[00:25:50.210 - 00:25:52.210]** Så får jag väl sälja den här då.
+
+**[00:25:52.210 - 00:25:54.100]** Låt säga.
+
+**[00:25:54.100 - 00:25:55.100]** Ska inte du betala för den då.
+
+**[00:25:55.100 - 00:25:58.540]** Så.
+
+**[00:25:58.540 - 00:25:59.540]** Har jag sålt någonting.
+
+**[00:25:59.540 - 00:26:01.540]** Om du får den gratis.
+
+**[00:26:01.540 - 00:26:04.850]** Men ni har väl säljare anställda.
+
+**[00:26:04.850 - 00:26:05.940]** Nej.
+
+**[00:26:05.940 - 00:26:06.940]** Okej.
+
+**[00:26:06.940 - 00:26:07.940]** Vad.
+
+**[00:26:07.940 - 00:26:08.940]** Hur.
+
+**[00:26:08.940 - 00:26:09.940]** Får ni kunder då.
+
+**[00:26:09.940 - 00:26:10.940]** Om du har sålt säljare.
+
+**[00:26:10.940 - 00:26:11.940]** Ja.
+
+**[00:26:11.940 - 00:26:12.940]** Bra.
+
+**[00:26:12.940 - 00:26:13.940]** Tack.
+
+**[00:26:13.940 - 00:26:14.940]** Bättre fråga.
+
+**[00:26:14.940 - 00:26:15.940]** Nej men.
+
+**[00:26:15.940 - 00:26:16.940]** Så här.
+
+**[00:26:16.940 - 00:26:17.940]** I och med att vi är ett innovationsbolag.
+
+**[00:26:17.940 - 00:26:18.940]** I grunden.
+
+**[00:26:18.940 - 00:26:19.940]** Som består av kreatörer.
+
+**[00:26:19.940 - 00:26:21.940]** Så har vi ju aldrig haft i början initialt där.
+
+**[00:26:21.940 - 00:26:22.940]** Som ambition.
+
+**[00:26:22.940 - 00:26:23.940]** Att ha.
+
+**[00:26:23.940 - 00:26:24.940]** Ett team.
+
+**[00:26:24.940 - 00:26:25.940]** Som.
+
+**[00:26:25.940 - 00:26:26.940]** Når du.
+
+**[00:26:26.940 - 00:26:27.940]** Vår tjänst.
+
+**[00:26:27.940 - 00:26:32.160]** Utan vi valde istället att anlita ett bolag.
+
+**[00:26:32.160 - 00:26:33.700]** För detta.
+
+**[00:26:33.700 - 00:26:34.700]** Och betala dem.
+
+**[00:26:34.700 - 00:26:35.700]** För varje avtal.
+
+**[00:26:35.700 - 00:26:36.700]** Eller beställning.
+
+**[00:26:36.700 - 00:26:37.700]** Som vi fick till oss.
+
+**[00:26:37.700 - 00:26:40.340]** Så vad vi fick till oss.
+
+**[00:26:40.340 - 00:26:41.340]** Var.
+
+**[00:26:41.340 - 00:26:43.440]** Avtalet som ni har där.
+
+**[00:26:43.440 - 00:26:45.440]** Det är ju en beställning.
+
+**[00:26:45.440 - 00:26:46.760]** Av den här.
+
+**[00:26:46.760 - 00:26:47.760]** Av det här bolaget som vi anlitade.
+
+**[00:26:47.760 - 00:26:48.760]** Ett bolagsbolag.
+
+**[00:26:48.760 - 00:26:50.760]** Och där har jag fått råd att inte nämna.
+
+**[00:26:50.760 - 00:26:51.760]** Vilket det är.
+
+**[00:26:51.760 - 00:26:53.760]** Jag är väldigt ärlig av mig.
+
+**[00:26:53.760 - 00:26:55.760]** Jag hade hemskt gärna velat säga det direkt.
+
+**[00:26:55.760 - 00:26:57.760]** Men jag har bokstavligt talat fått rådet.
+
+**[00:26:57.760 - 00:26:58.760]** Att nej men det är inte ditt jobb.
+
+**[00:26:58.760 - 00:27:00.760]** Att nejndroppa.
+
+**[00:27:00.760 - 00:27:01.760]** Vem vilket bolag det är.
+
+**[00:27:01.760 - 00:27:02.760]** Du anlitade.
+
+**[00:27:02.760 - 00:27:04.760]** Det får de ta reda på minstann.
+
+**[00:27:04.760 - 00:27:05.760]** Men det är ett boråsbolag.
+
+**[00:27:05.760 - 00:27:07.760]** Men det är ju boråsbolag som ringer upp till.
+
+**[00:27:07.760 - 00:27:09.760]** Tensuella kunder då.
+
+**[00:27:09.760 - 00:27:10.760]** Ja de.
+
+**[00:27:10.760 - 00:27:11.760]** Precis som jag har förstått det så.
+
+**[00:27:11.760 - 00:27:12.760]** Ja precis.
+
+**[00:27:12.760 - 00:27:13.760]** De har.
+
+**[00:27:13.760 - 00:27:14.760]** Som jag förstår det.
+
+**[00:27:14.760 - 00:27:15.760]** Så har de ringt då.
+
+**[00:27:15.760 - 00:27:16.760]** Men det hade lika gärna kunnat varit så.
+
+**[00:27:16.760 - 00:27:17.760]** För vi har ju aldrig instruerat.
+
+**[00:27:17.760 - 00:27:19.760]** Sagna bolag här.
+
+**[00:27:19.760 - 00:27:20.760]** Huret.
+
+**[00:27:20.760 - 00:27:22.760]** Utan de har ju fått avtalet till sig.
+
+**[00:27:22.760 - 00:27:25.760]** Som innehåller all nödvändig information.
+
+**[00:27:25.760 - 00:27:27.760]** Jag fick ju det här med frågorna om mallar och sånt där.
+
+**[00:27:27.760 - 00:27:28.760]** Det finns inga mallar.
+
+**[00:27:28.760 - 00:27:30.760]** Det här är informationen om vår tjänst.
+
+**[00:27:30.760 - 00:27:32.760]** Detta är vårt erbjudande.
+
+**[00:27:32.760 - 00:27:35.820]** Sen har vi låtit kompetenta människor.
+
+**[00:27:35.820 - 00:27:36.820]** Tänkte vi.
+
+**[00:27:36.820 - 00:27:37.820]** Ta an detta.
+
+**[00:27:37.820 - 00:27:38.820]** För vi är kreatörer.
+
+**[00:27:38.820 - 00:27:39.820]** Vi är liksom webdesigners.
+
+**[00:27:39.820 - 00:27:40.820]** Programmerare.
+
+**[00:27:40.820 - 00:27:41.820]** Copywriters.
+
+**[00:27:41.820 - 00:27:42.820]** Ad.
+
+**[00:27:42.820 - 00:27:43.820]** Fotograf.
+
+**[00:27:43.820 - 00:27:44.820]** Alltså videoproducent.
+
+**[00:27:44.820 - 00:27:45.820]** Liksom.
+
+**[00:27:45.820 - 00:27:46.820]** Vi har inte.
+
+**[00:27:46.820 - 00:27:47.820]** Det är nog viktigt.
+
+**[00:27:47.820 - 00:27:48.820]** Det här är ju den första relationen.
+
+**[00:27:48.820 - 00:27:50.820]** Alltså relationen med kunden.
+
+**[00:27:50.820 - 00:27:51.820]** Vad är sin egen avtal?
+
+**[00:27:51.820 - 00:27:52.820]** Ja.
+
+**[00:27:52.820 - 00:27:54.820]** Vi fick ett avtal till oss från det här bolaget.
+
+**[00:27:54.820 - 00:27:55.820]** Så.
+
+**[00:27:55.820 - 00:27:56.820]** Pling.
+
+**[00:27:56.820 - 00:27:57.820]** Här har du den här kundens.
+
+**[00:27:57.820 - 00:27:58.820]** Eller det här är.
+
+**[00:27:58.820 - 00:28:00.820]** Den här kunden vill ha tjänsten i rocket.
+
+**[00:28:00.820 - 00:28:02.820]** Och så sitter vi och producerar den.
+
+**[00:28:02.820 - 00:28:04.820]** Sen så kommer det till.
+
+**[00:28:04.820 - 00:28:06.820]** Min kännedom eller vår kännedom.
+
+**[00:28:06.820 - 00:28:07.820]** Jag vet inte vart det kom från början.
+
+**[00:28:07.820 - 00:28:09.820]** Om det var via kundtjänstdämme.
+
+**[00:28:09.820 - 00:28:10.820]** Eller om det var.
+
+**[00:28:10.820 - 00:28:11.820]** Någonstans.
+
+**[00:28:11.820 - 00:28:12.820]** Här.
+
+**[00:28:12.820 - 00:28:13.820]** Så kommer det.
+
+**[00:28:13.820 - 00:28:15.820]** För mig är jag ganska svår att få tag på.
+
+**[00:28:15.820 - 00:28:16.820]** Som en del av svaret på.
+
+**[00:28:16.820 - 00:28:18.820]** En av de frågorna du har där.
+
+**[00:28:18.820 - 00:28:21.820]** Och det är också ett medvetet val.
+
+**[00:28:21.820 - 00:28:24.460]** Då har jag höll på att gå in i väggen.
+
+**[00:28:24.460 - 00:28:25.460]** Flera gånger.
+
+**[00:28:25.460 - 00:28:26.460]** Om jag inte redan gjort det.
+
+**[00:28:26.460 - 00:28:27.460]** Ett par gånger.
+
+**[00:28:27.460 - 00:28:28.460]** Alltså det är historiskt.
+
+**[00:28:28.460 - 00:28:30.170]** Så att.
+
+**[00:28:30.170 - 00:28:32.170]** Men det kom till min kännedom.
+
+**[00:28:32.170 - 00:28:33.170]** Att.
+
+**[00:28:33.170 - 00:28:37.130]** Att liksom man har sagt saker och ting.
+
+**[00:28:37.130 - 00:28:38.130]** Som.
+
+**[00:28:38.130 - 00:28:39.610]** Som inte står mig.
+
+**[00:28:39.610 - 00:28:41.610]** Som inte är i avtalet.
+
+**[00:28:41.610 - 00:28:43.950]** Till exempel.
+
+**[00:28:43.950 - 00:28:45.400]** Ja men till exempel.
+
+**[00:28:45.400 - 00:28:47.400]** Att man har lovat att återkoppla.
+
+**[00:28:47.400 - 00:28:48.400]** Inom en viss tid.
+
+**[00:28:48.400 - 00:28:49.400]** Mm.
+
+**[00:28:49.400 - 00:28:50.980]** Och.
+
+**[00:28:50.980 - 00:28:53.010]** Vi har ju inte resurser här.
+
+**[00:28:53.010 - 00:28:55.010]** För att återkoppla.
+
+**[00:28:55.010 - 00:28:56.010]** Till alla.
+
+**[00:28:56.010 - 00:28:57.010]** Anslutna företag.
+
+**[00:28:57.010 - 00:28:59.010]** Inom en viss tid.
+
+**[00:28:59.010 - 00:29:00.010]** Exempelvis.
+
+**[00:29:00.010 - 00:29:01.010]** Så kom det in.
+
+**[00:29:01.010 - 00:29:02.010]** Vid något tillfälle.
+
+**[00:29:02.010 - 00:29:03.010]** Att det stod att.
+
+**[00:29:03.010 - 00:29:04.010]** Ja kunden vill.
+
+**[00:29:04.010 - 00:29:05.010]** Åter.
+
+**[00:29:05.010 - 00:29:06.010]** Kunden ska återkopplas.
+
+**[00:29:06.010 - 00:29:07.010]** Senast klockan 14.
+
+**[00:29:07.010 - 00:29:08.010]** Om.
+
+**[00:29:08.010 - 00:29:09.010]** Om.
+
+**[00:29:09.010 - 00:29:10.010]** Några dag.
+
+**[00:29:10.010 - 00:29:11.010]** Eller något sånt där.
+
+**[00:29:11.010 - 00:29:12.010]** Och då.
+
+**[00:29:12.010 - 00:29:14.040]** Det var i samband med detta.
+
+**[00:29:14.040 - 00:29:15.040]** Som vi började ha.
+
+**[00:29:15.040 - 00:29:16.040]** Ugglor i mossen.
+
+**[00:29:16.040 - 00:29:17.040]** Eller vad man nu.
+
+**[00:29:17.040 - 00:29:18.040]** Alltså.
+
+**[00:29:18.040 - 00:29:19.040]** Alltså.
+
+**[00:29:19.040 - 00:29:20.040]** Vi kände att.
+
+**[00:29:20.040 - 00:29:21.040]** Nej men nu är det någonting.
+
+**[00:29:21.040 - 00:29:22.040]** Som inte stämmer.
+
+**[00:29:22.040 - 00:29:23.040]** Och vi började.
+
+**[00:29:23.040 - 00:29:24.040]** Fråga den här byrån.
+
+**[00:29:24.040 - 00:29:25.040]** Liksom.
+
+**[00:29:25.040 - 00:29:26.040]** Alltså ska ni.
+
+**[00:29:26.040 - 00:29:27.040]** Eller det här bolaget.
+
+**[00:29:27.040 - 00:29:28.040]** Ska ni.
+
+**[00:29:28.040 - 00:29:29.040]** Ska ni.
+
+**[00:29:29.040 - 00:29:30.040]** Vad menar ni.
+
+**[00:29:30.040 - 00:29:31.040]** Vad menar ni med det här.
+
+**[00:29:31.040 - 00:29:32.040]** Alltså ska vi ha.
+
+**[00:29:32.040 - 00:29:33.040]** Vi har.
+
+**[00:29:33.040 - 00:29:34.040]** Vi har.
+
+**[00:29:34.040 - 00:29:35.040]** Vi har.
+
+**[00:29:35.040 - 00:29:36.040]** Vi har.
+
+**[00:29:36.040 - 00:29:37.040]** Vi har.
+
+**[00:29:37.040 - 00:29:38.040]** Vi har.
+
+**[00:29:38.040 - 00:29:39.040]** Vi har.
+
+**[00:29:39.040 - 00:29:40.040]** Vi har.
+
+**[00:29:40.040 - 00:29:41.040]** Vi har.
+
+**[00:29:41.040 - 00:29:42.040]** Vi har.
+
+**[00:29:42.040 - 00:29:43.040]** Vi har.
+
+**[00:29:43.040 - 00:29:44.040]** Vi har.
+
+**[00:29:44.040 - 00:29:45.040]** Vi har.
+
+**[00:29:45.040 - 00:29:46.420]** Vi har.
+
+**[00:29:46.420 - 00:29:47.420]** Vi har.
+
+**[00:29:47.420 - 00:29:48.420]** Vi har.
+
+**[00:29:48.420 - 00:29:49.420]** Vi har.
+
+**[00:29:49.420 - 00:29:50.460]** Vi har.
+
+**[00:29:50.460 - 00:29:51.460]** Vi har.
+
+**[00:29:51.460 - 00:29:52.460]** Vi har.
+
+**[00:29:52.460 - 00:29:53.460]** Vi har.
+
+**[00:29:53.460 - 00:29:54.460]** Vi har.
+
+**[00:29:54.460 - 00:29:55.460]** Vi har.
+
+**[00:29:55.460 - 00:29:56.460]** Vi har.
+
+**[00:29:56.460 - 00:29:57.460]** Vi har.
+
+**[00:29:57.460 - 00:29:58.460]** Vi har.
+
+**[00:29:58.460 - 00:29:59.460]** Vi har.
+
+**[00:29:59.460 - 00:30:00.460]** 29 procent.
+
+**[00:30:00.460 - 00:30:01.460]** Fick jag reda på i fredags.
+
+**[00:30:01.460 - 00:30:02.460]** Av alla våra kunder.
+
+**[00:30:02.460 - 00:30:04.460]** Har aldrig fått en faktura utställd.
+
+**[00:30:04.460 - 00:30:06.520]** Men de har fått en klockren webb.
+
+**[00:30:06.520 - 00:30:09.520]** Och de kanske syns på tolv till tretton och fjortonde plats på sina sökplaser.
+
+**[00:30:09.520 - 00:30:11.520]** Men inte topp tio och därmed inte fått en faktura.
+
+**[00:30:11.520 - 00:30:13.520]** De behöver inte betala för hosting.
+
+**[00:30:13.520 - 00:30:15.520]** De kan säga upp sin nuvarande webbyrå.
+
+**[00:30:15.520 - 00:30:17.520]** Se upp hosting.
+
+**[00:30:17.520 - 00:30:18.520]** Skita allt det där.
+
+**[00:30:18.520 - 00:30:19.520]** För det är ändå skräp jämförelsevis.
+
+**[00:30:19.520 - 00:30:20.520]** Men klockren.
+
+**[00:30:20.520 - 00:30:21.520]** Ursäkta men det är ju sant.
+
+**[00:30:21.520 - 00:30:23.520]** Alltså varför han blir olagliga webbar.
+
+**[00:30:23.520 - 00:30:24.520]** Och så har de betalat för det.
+
+**[00:30:24.520 - 00:30:25.520]** Alltså det är helt otroligt.
+
+**[00:30:25.520 - 00:30:28.520]** Och så har de fått en klockren produktion utav oss.
+
+**[00:30:28.520 - 00:30:30.520]** Men inte en enda faktura.
+
+**[00:30:30.520 - 00:30:31.520]** Och.
+
+**[00:30:31.520 - 00:30:32.520]** På det.
+
+**[00:30:32.520 - 00:30:34.780]** Så får man ett mail.
+
+**[00:30:34.780 - 00:30:36.060]** Låt säga.
+
+**[00:30:36.060 - 00:30:38.060]** Om att jag känner mig lurad.
+
+**[00:30:38.060 - 00:30:40.610]** Men så ni har outsourcats.
+
+**[00:30:40.610 - 00:30:43.610]** Alltså ni har någon annan som sköter all kundkort?
+
+**[00:30:43.610 - 00:30:44.610]** Hade.
+
+**[00:30:44.610 - 00:30:45.610]** Initialt.
+
+**[00:30:45.610 - 00:30:46.610]** De första månaderna.
+
+**[00:30:46.610 - 00:30:48.610]** Vi börjar ju med detta i februari i år.
+
+**[00:30:48.610 - 00:30:49.610]** Då gick vi igång.
+
+**[00:30:49.610 - 00:30:51.610]** Alltså då körde vi ut.
+
+**[00:30:51.610 - 00:30:53.610]** Och jag tror alltså det var inte mer än två eller ett max.
+
+**[00:30:53.610 - 00:30:55.610]** Jag skulle vet två och en halv månad skulle jag säga.
+
+**[00:30:55.610 - 00:30:58.610]** Som den här aktören har agerat.
+
+**[00:30:58.610 - 00:30:59.610]** Ja.
+
+**[00:30:59.610 - 00:31:01.610]** Ja men.
+
+**[00:31:01.610 - 00:31:02.610]** Ja men.
+
+**[00:31:02.610 - 00:31:04.610]** Hjälpt oss att nå ut.
+
+**[00:31:04.610 - 00:31:06.610]** Med våran tjänst på marknaden då.
+
+**[00:31:06.610 - 00:31:07.610]** Om man säger.
+
+**[00:31:07.610 - 00:31:08.610]** Och sen klippte vi.
+
+**[00:31:08.610 - 00:31:10.610]** Så fort vi såg att de hade lovat.
+
+**[00:31:10.610 - 00:31:12.610]** Muntligen och så där.
+
+**[00:31:12.610 - 00:31:14.610]** Sen har vi haft en utmaning.
+
+**[00:31:14.610 - 00:31:15.610]** Att liksom.
+
+**[00:31:15.610 - 00:31:17.610]** Därefter har vi däremot.
+
+**[00:31:17.610 - 00:31:19.610]** Anställt människor internt här.
+
+**[00:31:19.610 - 00:31:21.610]** För att ta tag i problemen.
+
+**[00:31:21.610 - 00:31:22.610]** Om man säger.
+
+**[00:31:22.610 - 00:31:23.610]** Om man uttrycker mig så.
+
+**[00:31:23.610 - 00:31:25.610]** Alltså ringa upp de här kunderna.
+
+**[00:31:25.610 - 00:31:26.610]** Förklara återigen.
+
+**[00:31:26.610 - 00:31:27.610]** Stabiga liksom.
+
+**[00:31:27.610 - 00:31:29.610]** Är du med på vad du har fått.
+
+**[00:31:29.610 - 00:31:30.610]** Har du sett.
+
+**[00:31:30.610 - 00:31:31.610]** Liksom för vi fick.
+
+**[00:31:31.610 - 00:31:32.610]** Vi fick ett mejl här.
+
+**[00:31:32.610 - 00:31:33.610]** Där du hade skrivit någonting om.
+
+**[00:31:33.610 - 00:31:34.610]** La la la.
+
+**[00:31:34.610 - 00:31:35.610]** Och så vidare.
+
+**[00:31:35.610 - 00:31:36.610]** Och då.
+
+**[00:31:36.610 - 00:31:37.610]** Och då.
+
+**[00:31:37.610 - 00:31:40.610]** Vi tar kontroll över vad som är det som har lovat.
+
+**[00:31:40.610 - 00:31:41.610]** Vad är det som sägs.
+
+**[00:31:41.610 - 00:31:42.610]** Vad håller de på med.
+
+**[00:31:42.610 - 00:31:43.610]** Men någonstans.
+
+**[00:31:43.610 - 00:31:44.610]** Så har vi också hamnat i en situation.
+
+**[00:31:44.610 - 00:31:45.610]** Som är ganska knepig.
+
+**[00:31:45.610 - 00:31:46.610]** För att.
+
+**[00:31:46.610 - 00:31:48.770]** Det som har sagts då.
+
+**[00:31:48.770 - 00:31:49.770]** Låt säga.
+
+**[00:31:49.770 - 00:31:50.770]** Alltså så här.
+
+**[00:31:50.770 - 00:31:51.770]** Om jag lovar dig över telefon.
+
+**[00:31:51.770 - 00:31:52.770]** Jag ringer dig.
+
+**[00:31:52.770 - 00:31:53.770]** Om tjottadar.
+
+**[00:31:53.770 - 00:31:54.770]** Säger jag.
+
+**[00:31:54.770 - 00:31:56.310]** Och kanske säger du då.
+
+**[00:31:56.310 - 00:31:58.310]** Men så får du ett avtal till dig.
+
+**[00:31:58.310 - 00:32:00.340]** Där står det ingenting om att det ska höra av.
+
+**[00:32:00.340 - 00:32:02.340]** Om någon var tjottadar.
+
+**[00:32:02.340 - 00:32:03.340]** Eller vad det nu kan vara.
+
+**[00:32:03.340 - 00:32:06.210]** Där står ingenting om något sånt där.
+
+**[00:32:06.210 - 00:32:08.210]** Avtalen har ju utformat.
+
+**[00:32:08.210 - 00:32:10.210]** Så länge man inte har manipulerat dem då.
+
+**[00:32:10.210 - 00:32:11.210]** Vilket har också hänt.
+
+**[00:32:11.210 - 00:32:12.210]** Men dem har vi ju släppt.
+
+**[00:32:12.210 - 00:32:14.210]** Det har vi ju självklart direkt.
+
+**[00:32:14.210 - 00:32:15.210]** Alltså det här är ett manipulerat avtal.
+
+**[00:32:15.210 - 00:32:16.210]** Du har inget avtal.
+
+**[00:32:16.210 - 00:32:17.210]** Nåste ingen fara.
+
+**[00:32:17.210 - 00:32:18.210]** Kära kund.
+
+**[00:32:18.210 - 00:32:19.210]** Om det har varit en sådan situation.
+
+**[00:32:19.210 - 00:32:21.140]** Och vem har man manipulerat?
+
+**[00:32:21.140 - 00:32:22.140]** Den här.
+
+**[00:32:22.140 - 00:32:23.140]** Alltså det bolaget.
+
+**[00:32:23.140 - 00:32:24.140]** Säljarna då.
+
+**[00:32:24.140 - 00:32:25.140]** Om man uttrycker sig så.
+
+**[00:32:25.140 - 00:32:26.140]** På det bolaget.
+
+**[00:32:26.140 - 00:32:28.140]** Som vi anlitade i början.
+
+**[00:32:28.140 - 00:32:29.140]** Jag tror inte ens att.
+
+**[00:32:29.140 - 00:32:30.140]** Om jag ska vara helt ärlig.
+
+**[00:32:30.140 - 00:32:31.140]** Vad kan man ha en fetslag att göra det?
+
+**[00:32:31.140 - 00:32:32.230]** Ja.
+
+**[00:32:32.230 - 00:32:34.230]** För att få iväg en order.
+
+**[00:32:34.230 - 00:32:35.230]** Givetvis.
+
+**[00:32:35.230 - 00:32:36.230]** Och därmed provision antar jag.
+
+**[00:32:36.230 - 00:32:37.230]** Vi betalar ju dem.
+
+**[00:32:37.230 - 00:32:38.230]** Vi betalar ju dem.
+
+**[00:32:38.230 - 00:32:39.230]** 4 500 spänn.
+
+**[00:32:39.230 - 00:32:40.230]** Ja.
+
+**[00:32:40.230 - 00:32:41.230]** Är det inte ytterst för ansvaret.
+
+**[00:32:41.230 - 00:32:43.230]** För att kunderna som är trygga.
+
+**[00:32:43.230 - 00:32:44.230]** För att produkten.
+
+**[00:32:44.230 - 00:32:45.230]** Blir så bra som möjligt.
+
+**[00:32:45.230 - 00:32:46.230]** För inte det är.
+
+**[00:32:46.230 - 00:32:47.230]** Ni som har skapat.
+
+**[00:32:47.230 - 00:32:48.230]** Och du som är vd.
+
+**[00:32:48.230 - 00:32:49.230]** För företaget.
+
+**[00:32:49.230 - 00:32:50.230]** Klart är det ju så.
+
+**[00:32:50.230 - 00:32:51.230]** Att ansvaret.
+
+**[00:32:51.230 - 00:32:52.230]** Som jag har.
+
+**[00:32:52.230 - 00:32:53.230]** Egenskap och vd.
+
+**[00:32:53.230 - 00:32:54.230]** Sträcker sig till detta bolaget.
+
+**[00:32:54.230 - 00:32:56.230]** Och det som vi gör.
+
+**[00:32:56.230 - 00:32:58.230]** Jag kan ju själv.
+
+**[00:32:58.230 - 00:32:59.230]** För tusan.
+
+**[00:32:59.230 - 00:33:00.230]** Bara beklaga.
+
+**[00:33:00.230 - 00:33:01.230]** Egentligen.
+
+**[00:33:01.230 - 00:33:02.230]** Att det som har hänt.
+
+**[00:33:02.230 - 00:33:03.230]** De fåtalet kunde.
+
+**[00:33:03.230 - 00:33:04.230]** Ha hänt.
+
+**[00:33:04.230 - 00:33:05.230]** Men vi har ju.
+
+**[00:33:05.230 - 00:33:06.230]** Tatt action på detta.
+
+**[00:33:06.230 - 00:33:07.230]** Och gått till botten.
+
+**[00:33:07.230 - 00:33:09.230]** Med vad det är som har hänt.
+
+**[00:33:09.230 - 00:33:10.230]** Vi har avbrutit samarbetet.
+
+**[00:33:10.230 - 00:33:11.230]** För länge sedan.
+
+**[00:33:11.230 - 00:33:12.230]** Vi sitter liksom.
+
+**[00:33:12.230 - 00:33:14.230]** I november nu.
+
+**[00:33:14.230 - 00:33:15.230]** När det här.
+
+**[00:33:15.230 - 00:33:16.230]** Samarbetet med den här.
+
+**[00:33:16.230 - 00:33:17.230]** Aktören.
+
+**[00:33:17.230 - 00:33:19.230]** Avbröts redan i.
+
+**[00:33:19.230 - 00:33:20.230]** Ja.
+
+**[00:33:20.230 - 00:33:22.230]** Skiftet mellan maj och juni.
+
+**[00:33:22.230 - 00:33:23.230]** Skulle jag säga.
+
+**[00:33:23.230 - 00:33:26.280]** Ja.
+
+**[00:33:26.280 - 00:33:27.280]** Jag är alltså lite.
+
+**[00:33:27.280 - 00:33:29.280]** För jag har pratat med en person.
+
+**[00:33:29.280 - 00:33:31.280]** Som har jobbat på Nordic.
+
+**[00:33:31.280 - 00:33:32.280]** Utilisation.
+
+**[00:33:32.280 - 00:33:33.280]** Ja.
+
+**[00:33:33.280 - 00:33:34.280]** Som har.
+
+**[00:33:34.280 - 00:33:36.280]** Då sålt tjänsten i Rocket.
+
+**[00:33:36.280 - 00:33:37.980]** Mm.
+
+**[00:33:37.980 - 00:33:39.980]** Som har sålt tjänsten i Rocket.
+
+**[00:33:39.980 - 00:33:40.980]** Ja.
+
+**[00:33:40.980 - 00:33:43.980]** Hur går det i Rocket?
+
+**[00:33:43.980 - 00:33:44.980]** Ja.
+
+**[00:33:44.980 - 00:33:45.980]** När har du gjort detta?
+
+**[00:33:45.980 - 00:33:47.100]** Men jag får fråga.
+
+**[00:33:47.100 - 00:33:48.100]** När har pratat med nation.
+
+**[00:33:48.100 - 00:33:49.100]** Mm.
+
+**[00:33:49.100 - 00:33:51.100]** Jo men det säger ju inte mig så mycket.
+
+**[00:33:51.100 - 00:33:52.100]** Alltså.
+
+**[00:33:52.100 - 00:33:53.100]** Ja ja.
+
+**[00:33:53.100 - 00:33:54.100]** Skitsamma.
+
+**[00:33:54.100 - 00:33:55.100]** Du vill inte säga det då.
+
+**[00:33:55.100 - 00:33:56.100]** Jag kan.
+
+**[00:33:56.100 - 00:33:58.100]** Ja men du vill vara ärlig och rakt Matilda.
+
+**[00:33:58.100 - 00:34:00.100]** Jag får la vara det oavsett.
+
+**[00:34:00.100 - 00:34:02.460]** Vad har du betydelse med det här pratet med?
+
+**[00:34:02.460 - 00:34:05.460]** För att jag nämnde precis att vi initialt.
+
+**[00:34:05.460 - 00:34:07.460]** Anlitade ett annat bolag för detta.
+
+**[00:34:07.460 - 00:34:08.460]** Men Nordic digital.
+
+**[00:34:08.460 - 00:34:09.460]** Men valde.
+
+**[00:34:09.460 - 00:34:10.460]** Vad är du vd för eller hur?
+
+**[00:34:10.460 - 00:34:11.460]** Det är inget annat bolag.
+
+**[00:34:11.460 - 00:34:12.460]** Det är ju riktigt.
+
+**[00:34:12.460 - 00:34:16.090]** De personerna har varit anställd.
+
+**[00:34:16.090 - 00:34:18.090]** I det bolaget så är det du som är ansvarig.
+
+**[00:34:18.090 - 00:34:19.090]** För personalet.
+
+**[00:34:19.090 - 00:34:20.150]** Ja.
+
+**[00:34:20.150 - 00:34:22.150]** Och om jag hade fått prata till punkt.
+
+**[00:34:22.150 - 00:34:23.150]** Förlåt.
+
+**[00:34:23.150 - 00:34:25.150]** Så hade du fått höra det också någonstans.
+
+**[00:34:25.150 - 00:34:26.150]** Varför du får prata?
+
+**[00:34:26.150 - 00:34:27.150]** Prata på.
+
+**[00:34:27.150 - 00:34:31.150]** När vi började ana och märkte att det är någonting som inte stämmer här.
+
+**[00:34:31.150 - 00:34:33.150]** Kunderna verkar ha missuppfattat någonting.
+
+**[00:34:33.150 - 00:34:36.150]** Eller vad är det som händer det här med löften om att vi ska ringa upp inom viss tid.
+
+**[00:34:36.150 - 00:34:39.150]** Då började vi anställa internt.
+
+**[00:34:39.150 - 00:34:40.150]** Inhouse.
+
+**[00:34:40.150 - 00:34:41.150]** Vi ville ju.
+
+**[00:34:41.150 - 00:34:42.150]** Jag nämnde ju det.
+
+**[00:34:42.150 - 00:34:45.150]** Vi ville ta kontroll över hela resan.
+
+**[00:34:45.150 - 00:34:47.150]** Ta kontroll över vad som sades.
+
+**[00:34:47.150 - 00:34:50.150]** Jag vet inte om ni hörde det alldeles nyss här.
+
+**[00:34:50.150 - 00:34:51.150]** Det sades alltså.
+
+**[00:34:51.150 - 00:34:56.150]** Så att det är klart att om någon har varit i kontakt med någon som arbetat som säljare.
+
+**[00:34:56.150 - 00:34:57.150]** Som ni säger då.
+
+**[00:34:57.150 - 00:35:00.430]** Kallar det vad man vill.
+
+**[00:35:00.430 - 00:35:03.430]** Jag tycker inte att det är riktigt rättvist att säga säljare.
+
+**[00:35:03.430 - 00:35:06.750]** Då man inte har sålt någonting.
+
+**[00:35:06.750 - 00:35:08.750]** För återigen.
+
+**[00:35:08.750 - 00:35:11.780]** Så är det inte så att jag ringer till dig Matilda och säger.
+
+**[00:35:11.780 - 00:35:12.780]** Lita på mig.
+
+**[00:35:12.780 - 00:35:15.780]** Och betala mig hundratusen eller tiotusen i månaden.
+
+**[00:35:15.780 - 00:35:17.780]** Sen håller du tummarna.
+
+**[00:35:17.780 - 00:35:18.780]** Och du säger ja då kanske.
+
+**[00:35:18.780 - 00:35:19.780]** Ja då har jag ju sålt till dig.
+
+**[00:35:19.780 - 00:35:23.450]** Men om jag ger dig någonting.
+
+**[00:35:23.450 - 00:35:27.110]** Mot vissa villkor.
+
+**[00:35:27.110 - 00:35:32.180]** Då är det inte det förkärningarna.
+
+**[00:35:32.180 - 00:35:34.180]** Alltså om du får ta del.
+
+**[00:35:34.180 - 00:35:36.180]** Läser du säljare än ett avtalsförslag.
+
+**[00:35:36.180 - 00:35:38.180]** Alltså ett erbjudande offert eller vad som helst liksom.
+
+**[00:35:38.180 - 00:35:40.180]** Och i lugn och ro läsa igenom det.
+
+**[00:35:40.180 - 00:35:44.550]** Läser du säljare än ett hela avtalet?
+
+**[00:35:44.550 - 00:35:47.860]** Det vet inte jag.
+
+**[00:35:47.860 - 00:35:48.860]** Det kan inte jag uttala mig om.
+
+**[00:35:48.860 - 00:35:49.860]** Nej.
+
+**[00:35:49.860 - 00:35:51.860]** Nej men det är ju omöjligt för mig att uttala mig om.
+
+**[00:35:51.860 - 00:35:52.860]** Vi har ju.
+
+**[00:35:52.860 - 00:35:55.860]** Det är ju därför vi anbetat en extern initialt aktör.
+
+**[00:35:55.860 - 00:35:56.860]** Vi besitter inte.
+
+**[00:35:56.860 - 00:35:57.860]** Vi besitter inte.
+
+**[00:35:57.860 - 00:36:01.870]** Nej.
+
+**[00:36:01.870 - 00:36:02.870]** Det stämmer.
+
+**[00:36:02.870 - 00:36:04.870]** Men samtidigt så måste jag vara.
+
+**[00:36:04.870 - 00:36:05.870]** Alltså så här.
+
+**[00:36:05.870 - 00:36:06.870]** Det kunde inte.
+
+**[00:36:06.870 - 00:36:08.870]** Jag kunde inte mina vildaste drömmar.
+
+**[00:36:08.870 - 00:36:09.870]** Tänka mig ens.
+
+**[00:36:09.870 - 00:36:10.870]** Eller föreställa mig.
+
+**[00:36:10.870 - 00:36:12.870]** Att det skulle bli något problem.
+
+**[00:36:12.870 - 00:36:15.870]** Med tanke på att vi ger bort saker gratis här.
+
+**[00:36:15.870 - 00:36:18.940]** Så de kunderna som eventuellt har.
+
+**[00:36:18.940 - 00:36:20.940]** Alltså hört av sig till er.
+
+**[00:36:20.940 - 00:36:21.940]** För det är samma hos oss.
+
+**[00:36:21.940 - 00:36:23.940]** Vi har ju också fått arga mail.
+
+**[00:36:23.940 - 00:36:24.940]** Liksom från kunden.
+
+**[00:36:24.940 - 00:36:27.940]** Men de här kunden har ju inte ens fått fakturor utställda till sig.
+
+**[00:36:27.940 - 00:36:29.940]** Eller om de har fått det så har de ändå inte betalt en krona.
+
+**[00:36:29.940 - 00:36:31.940]** Men de har minst sant fått tjänsten levererad.
+
+**[00:36:31.940 - 00:36:33.940]** I enlighet med avtalet.
+
+**[00:36:35.000 - 00:36:38.000]** Så vi har hållit vår sida av vår del av avtalet.
+
+**[00:36:38.000 - 00:36:40.000]** Levererat och producerat grabb.
+
+**[00:36:40.000 - 00:36:41.000]** Alltså unga drivna talanger här.
+
+**[00:36:41.000 - 00:36:45.000]** Och suttit och jobbat och skrivit fint om ett företag på webben.
+
+**[00:36:45.000 - 00:36:46.000]** Gjort den här fina hemsidan.
+
+**[00:36:46.000 - 00:36:47.000]** Lanserat den.
+
+**[00:36:47.000 - 00:36:50.000]** Den sticker förbi deras egna webbplats till och med.
+
+**[00:36:50.000 - 00:36:51.000]** På Google.
+
+**[00:36:51.000 - 00:36:54.280]** Och så får vi ett argt mail.
+
+**[00:36:54.280 - 00:36:55.280]** Och inte en enda krona betalt.
+
+**[00:36:55.280 - 00:36:56.280]** Och då undrar jag.
+
+**[00:36:56.280 - 00:36:57.280]** Vad är storyn här egentligen?
+
+**[00:36:57.280 - 00:36:59.280]** Är det att vi har lurat människor?
+
+**[00:36:59.280 - 00:37:01.280]** Det är inte det som är storyn här Matilda.
+
+**[00:37:01.280 - 00:37:03.280]** Det är ju väldigt många som känner sig lurade.
+
+**[00:37:03.280 - 00:37:04.280]** Vi har fått de här filera kronorna.
+
+**[00:37:04.280 - 00:37:06.280]** Som känner att de har varit grinturade.
+
+**[00:37:06.280 - 00:37:07.280]** Ja.
+
+**[00:37:07.280 - 00:37:10.280]** Då har de inte fått någon information om bildningsstudeln.
+
+**[00:37:10.280 - 00:37:11.280]** Till exempel.
+
+**[00:37:11.280 - 00:37:12.280]** Okej.
+
+**[00:37:12.280 - 00:37:14.280]** Men de står ju i.
+
+**[00:37:14.280 - 00:37:16.280]** Att det handlar om en gratismånad.
+
+**[00:37:16.280 - 00:37:18.280]** Och att de sen ska få uppföljande samtal.
+
+**[00:37:18.280 - 00:37:20.280]** Om de vill fortsätta med tjänsten.
+
+**[00:37:20.280 - 00:37:22.280]** De har inte fått något programssamtal.
+
+**[00:37:22.280 - 00:37:27.280]** Och sen så är de bundna till att få betala i ett års tur framöver.
+
+**[00:37:27.280 - 00:37:30.040]** Alltså.
+
+**[00:37:30.040 - 00:37:35.420]** Ja.
+
+**[00:37:35.420 - 00:37:38.420]** Jag vet inte hur jag ska upprepa mig från början då.
+
+**[00:37:38.420 - 00:37:39.420]** Eller.
+
+**[00:37:39.420 - 00:37:40.420]** Alltså.
+
+**[00:37:40.420 - 00:37:41.420]** Jag nämnde ju det.
+
+**[00:37:41.420 - 00:37:45.420]** Vi började med att anlita ett bolag för detta.
+
+**[00:37:45.420 - 00:37:47.420]** När vi anade att någonting inte stämmer.
+
+**[00:37:47.420 - 00:37:49.420]** Så tog vi kontroll.
+
+**[00:37:49.420 - 00:37:50.620]** Över.
+
+**[00:37:50.620 - 00:37:52.870]** Hela kommunikationen.
+
+**[00:37:52.870 - 00:37:55.870]** Och den initiala kontakten med kunden.
+
+**[00:37:55.870 - 00:37:56.870]** Härifrån.
+
+**[00:37:56.870 - 00:37:57.870]** Den.
+
+**[00:37:57.870 - 00:37:58.870]** Fram tills dess dock.
+
+**[00:37:58.870 - 00:38:00.870]** Så var den initiala med kunden.
+
+**[00:38:00.870 - 00:38:02.870]** Alltså kontakten med kunden.
+
+**[00:38:02.870 - 00:38:05.870]** Den bestod av kontakt mellan bolaget vi anlitar för detta.
+
+**[00:38:05.870 - 00:38:07.260]** Och kunden ifråga.
+
+**[00:38:07.260 - 00:38:09.260]** Vad som sagt där.
+
+**[00:38:09.260 - 00:38:10.260]** Nej.
+
+**[00:38:10.260 - 00:38:12.640]** Då är det ju inte det.
+
+**[00:38:12.640 - 00:38:14.640]** Jag har pratat med säljare som har varit anställd.
+
+**[00:38:14.640 - 00:38:16.640]** Och så har jag inte.
+
+**[00:38:16.640 - 00:38:17.640]** Nej.
+
+**[00:38:17.640 - 00:38:19.640]** Hur kan du inte göra det.
+
+**[00:38:19.640 - 00:38:20.640]** När jag säger att det är.
+
+**[00:38:20.640 - 00:38:22.640]** Så behöver vi använda whiteboarden så kan jag göra det.
+
+**[00:38:22.640 - 00:38:24.640]** Det är det som har varit anlita.
+
+**[00:38:24.640 - 00:38:25.640]** Så så här.
+
+**[00:38:25.640 - 00:38:27.640]** Här har du en tidsaxel.
+
+**[00:38:27.640 - 00:38:32.550]** Här hade vi en återförsäljare.
+
+**[00:38:32.550 - 00:38:33.550]** Ja.
+
+**[00:38:33.550 - 00:38:36.550]** Om man vill nu utrika ett annat bolag som jobbar.
+
+**[00:38:36.550 - 00:38:38.550]** Vi börjar ana ugglor i mosseln här.
+
+**[00:38:38.550 - 00:38:42.810]** Och under en liten period så börjar vi snacka.
+
+**[00:38:42.810 - 00:38:44.810]** Och vi måste göra någonting åt detta.
+
+**[00:38:44.810 - 00:38:45.810]** Det är någonting som inte stämmer.
+
+**[00:38:45.810 - 00:38:46.810]** Vad ska vi göra?
+
+**[00:38:46.810 - 00:38:47.810]** Ja.
+
+**[00:38:47.810 - 00:38:48.810]** Då får vi ju börja anställa kort.
+
+**[00:38:48.810 - 00:38:50.810]** I början i rekryteringsprocess.
+
+**[00:38:50.810 - 00:38:53.810]** Så jag vet inte vem tusan du har pratat med.
+
+**[00:38:53.810 - 00:38:55.810]** Som har jobbat på Nordic Digitalization.
+
+**[00:38:55.810 - 00:38:56.810]** Men det är klart att.
+
+**[00:38:56.810 - 00:38:57.810]** Någonstans här.
+
+**[00:38:57.810 - 00:38:58.810]** Har vi ju provat.
+
+**[00:38:58.810 - 00:38:59.810]** Att anlita säljare.
+
+**[00:38:59.810 - 00:39:00.810]** Alltså eller.
+
+**[00:39:00.810 - 00:39:02.810]** Hur man som ni kallar det då.
+
+**[00:39:02.810 - 00:39:03.810]** Men jag anser fortfarande inte att man.
+
+**[00:39:03.810 - 00:39:04.810]** Strunt samman.
+
+**[00:39:04.810 - 00:39:05.810]** Jag ska inte haka upp mig på bordet.
+
+**[00:39:05.810 - 00:39:06.810]** Men.
+
+**[00:39:06.810 - 00:39:07.810]** Men det är någon.
+
+**[00:39:07.810 - 00:39:08.810]** Någon som här då har pratat med i så fall.
+
+**[00:39:08.810 - 00:39:10.970]** Som inte har lyckats.
+
+**[00:39:10.970 - 00:39:12.970]** Nå målen som har varit uppsatta.
+
+**[00:39:12.970 - 00:39:13.970]** Exempelvis.
+
+**[00:39:13.970 - 00:39:14.970]** Eller.
+
+**[00:39:14.970 - 00:39:15.970]** Eller följt.
+
+**[00:39:15.970 - 00:39:16.970]** Hur vi.
+
+**[00:39:16.970 - 00:39:17.970]** Ja.
+
+**[00:39:17.970 - 00:39:18.970]** Framför oss mot kunderna.
+
+**[00:39:18.970 - 00:39:19.970]** Det har varit jätteviktigt för oss.
+
+**[00:39:19.970 - 00:39:20.970]** Det är skitviktigt.
+
+**[00:39:20.970 - 00:39:22.970]** Men vi är ju en digital.
+
+**[00:39:22.970 - 00:39:23.970]** Vi är ju starkt ABBA.
+
+**[00:39:23.970 - 00:39:25.970]** Ett utav världens största varumärken.
+
+**[00:39:25.970 - 00:39:26.970]** Vi vet.
+
+**[00:39:26.970 - 00:39:27.970]** Vad är viktigt det är.
+
+**[00:39:27.970 - 00:39:30.970]** Alltså det är därför jag har skrivit så mycket med det på sms.
+
+**[00:39:30.970 - 00:39:31.970]** Jag förstår.
+
+**[00:39:31.970 - 00:39:32.970]** Vad innebär det här.
+
+**[00:39:32.970 - 00:39:33.970]** Av att ha.
+
+**[00:39:33.970 - 00:39:35.970]** Att få ett helt varumärke.
+
+**[00:39:35.970 - 00:39:36.970]** Totalt kvaddat.
+
+**[00:39:36.970 - 00:39:37.970]** Ändå vågar du.
+
+**[00:39:37.970 - 00:39:39.970]** Låta någon annan sköta.
+
+**[00:39:39.970 - 00:39:40.970]** Tänk som.
+
+**[00:39:40.970 - 00:39:41.970]** Jo men.
+
+**[00:39:41.970 - 00:39:42.970]** Kära du.
+
+**[00:39:42.970 - 00:39:43.970]** Om.
+
+**[00:39:43.970 - 00:39:44.970]** Skulle du mena på att jag.
+
+**[00:39:44.970 - 00:39:45.970]** Vi syftar för.
+
+**[00:39:45.970 - 00:39:47.970]** Men jag tror att jag vet bäst hur jag flyger här flygplanet.
+
+**[00:39:47.970 - 00:39:48.970]** Så jag sätter mig i flygplanet.
+
+**[00:39:48.970 - 00:39:51.970]** Ja klart man går och anlitar någon som är kompetent eller.
+
+**[00:39:51.970 - 00:39:54.970]** Om vi inte besitter kompetensen här.
+
+**[00:39:54.970 - 00:39:57.540]** Och vi däremot besitter vi.
+
+**[00:39:57.540 - 00:39:58.540]** Vi vet vi.
+
+**[00:39:58.540 - 00:39:59.540]** Vi har innoverat fram en tjänst.
+
+**[00:39:59.540 - 00:40:02.250]** Vi är inget säljbolag återigen.
+
+**[00:40:02.250 - 00:40:05.250]** Jag vet inte varför du håller på som du gör.
+
+**[00:40:05.250 - 00:40:09.250]** Men vi är inte varken en nio eller visible eller vad det är nu ni tror att vi är.
+
+**[00:40:09.250 - 00:40:10.250]** Vi är en speciell.
+
+**[00:40:10.250 - 00:40:11.250]** Vad har ni riktigt var med kundrelationen?
+
+**[00:40:11.250 - 00:40:12.250]** Ja.
+
+**[00:40:12.250 - 00:40:13.250]** Vad har ni anlitat ett bolag?
+
+**[00:40:13.250 - 00:40:14.250]** I början.
+
+**[00:40:14.250 - 00:40:15.250]** I början.
+
+**[00:40:15.250 - 00:40:16.250]** I början.
+
+**[00:40:16.250 - 00:40:17.250]** Det första vi gjorde.
+
+**[00:40:17.250 - 00:40:20.250]** Var att vi anlitade ett annat bolag för det.
+
+**[00:40:20.250 - 00:40:21.250]** Jätteenkelt.
+
+**[00:40:21.250 - 00:40:23.250]** I syfte just för att.
+
+**[00:40:23.250 - 00:40:25.250]** Vi är inte experterna på detta.
+
+**[00:40:25.250 - 00:40:28.250]** Och hur man ska kommunicera ut till företag.
+
+**[00:40:28.250 - 00:40:30.250]** Men det här är vad vi har skapat.
+
+**[00:40:30.250 - 00:40:31.250]** Så här ser vår tjänst.
+
+**[00:40:31.250 - 00:40:32.250]** Så här fungerar vår tjänst.
+
+**[00:40:32.250 - 00:40:34.250]** Och så har vi gått igen vad vi antog.
+
+**[00:40:34.250 - 00:40:36.250]** Var en kompetent aktör.
+
+**[00:40:36.250 - 00:40:38.250]** När vi då insåg.
+
+**[00:40:38.250 - 00:40:39.250]** Efter.
+
+**[00:40:39.250 - 00:40:40.250]** Väldigt ganska kort tid.
+
+**[00:40:40.250 - 00:40:41.250]** Två månader.
+
+**[00:40:41.250 - 00:40:42.250]** Två och ett halvt månad.
+
+**[00:40:42.250 - 00:40:43.250]** Någonstans där.
+
+**[00:40:43.250 - 00:40:45.250]** Att det är någonting som inte riktigt stämmer här.
+
+**[00:40:45.250 - 00:40:46.250]** Då bröt vi kontakten.
+
+**[00:40:46.250 - 00:40:49.250]** Och då började vi jaga och rekrytera.
+
+**[00:40:49.250 - 00:40:51.250]** Till Nordic Digital Station här.
+
+**[00:40:51.250 - 00:40:52.250]** Det här.
+
+**[00:40:52.250 - 00:40:53.250]** Det här sträcket där.
+
+**[00:40:53.250 - 00:40:54.250]** Vi kan ju även säga att i samband med det.
+
+**[00:40:54.250 - 00:40:56.250]** I slutet med det.
+
+**[00:40:56.250 - 00:40:59.250]** Det var ju då vi märkte att vi behövde kundtjänst.
+
+**[00:40:59.250 - 00:41:02.250]** För nu kommer ju kunderna mot oss.
+
+**[00:41:02.250 - 00:41:05.250]** Och då anställer vi kundtjänster.
+
+**[00:41:05.250 - 00:41:07.250]** Och sen kommer vi till den här provperioden.
+
+**[00:41:07.250 - 00:41:09.250]** Som ni hade frågat om också.
+
+**[00:41:09.250 - 00:41:10.250]** Jag bara tänker.
+
+**[00:41:10.250 - 00:41:12.250]** När var det ni bröt med det här bolaget?
+
+**[00:41:12.250 - 00:41:13.700]** Ja.
+
+**[00:41:13.700 - 00:41:14.700]** Alltså jag.
+
+**[00:41:14.700 - 00:41:15.700]** Jag vet.
+
+**[00:41:15.700 - 00:41:16.700]** Varför.
+
+**[00:41:16.700 - 00:41:17.700]** Alltså du sa.
+
+**[00:41:17.700 - 00:41:19.700]** Du sa maj.
+
+**[00:41:19.700 - 00:41:21.700]** Brytet mellan maj och juni.
+
+**[00:41:21.700 - 00:41:24.700]** Ja i mitt huvud så var det mars, april redan.
+
+**[00:41:24.700 - 00:41:25.700]** Som vi.
+
+**[00:41:25.700 - 00:41:27.700]** Jag tror de slutade.
+
+**[00:41:27.700 - 00:41:30.370]** Vilket bolag gör det?
+
+**[00:41:30.370 - 00:41:32.370]** Ja det var ju det jag fick i året.
+
+**[00:41:32.370 - 00:41:33.370]** Att jag inte skulle avslöja då.
+
+**[00:41:33.370 - 00:41:34.370]** Jag vill ju det.
+
+**[00:41:34.370 - 00:41:36.370]** Jag vill ju vara ärlig och säga direkt.
+
+**[00:41:36.370 - 00:41:38.370]** Jag vill ju skicka er bokstav.
+
+**[00:41:38.370 - 00:41:39.370]** Vill ni ha ett skop eller?
+
+**[00:41:39.370 - 00:41:40.370]** Ja men varsågod här borta.
+
+**[00:41:40.370 - 00:41:41.370]** Den av resen.
+
+**[00:41:41.370 - 00:41:42.370]** Det är bolaget.
+
+**[00:41:42.370 - 00:41:44.370]** Jag vill springa dit och göra en vallraff där.
+
+**[00:41:44.370 - 00:41:45.370]** För fasen ska ni få se.
+
+**[00:41:45.370 - 00:41:46.370]** Alltså jag lovar det.
+
+**[00:41:46.370 - 00:41:48.370]** Visst blir artiklarna.
+
+**[00:41:48.370 - 00:41:50.370]** Det kommer liksom blekna i anförelse.
+
+**[00:41:50.370 - 00:41:51.370]** Varför säger du?
+
+**[00:41:51.370 - 00:41:52.370]** Vad har bolaget gjort?
+
+**[00:41:52.370 - 00:41:54.370]** Jag har fått rådet av en jätte.
+
+**[00:41:54.370 - 00:41:55.370]** Alltså.
+
+**[00:41:55.370 - 00:41:56.370]** Stor.
+
+**[00:41:56.370 - 00:41:57.370]** Om jag säger.
+
+**[00:41:57.370 - 00:41:58.370]** Eller.
+
+**[00:41:58.370 - 00:41:59.370]** Vad känner man det?
+
+**[00:41:59.370 - 00:42:00.370]** För läsarna kanske.
+
+**[00:42:00.370 - 00:42:01.370]** Alltså.
+
+**[00:42:01.370 - 00:42:04.370]** Hur ska man lita på att det har funnits ett bolag.
+
+**[00:42:04.370 - 00:42:05.370]** Om man inte vet.
+
+**[00:42:05.370 - 00:42:06.370]** Ja men herregud.
+
+**[00:42:06.370 - 00:42:07.370]** Jag kan visa upp avtal för er.
+
+**[00:42:07.370 - 00:42:09.370]** Och om jag visar upp avtalet för er.
+
+**[00:42:09.370 - 00:42:10.370]** Om ni skriver något annat.
+
+**[00:42:10.370 - 00:42:11.370]** Så kan jag ju säga direkt att.
+
+**[00:42:11.370 - 00:42:12.370]** Då blir det problem ju.
+
+**[00:42:12.370 - 00:42:13.370]** Givetvis.
+
+**[00:42:13.370 - 00:42:14.370]** Då har ni ju gjort.
+
+**[00:42:14.370 - 00:42:15.370]** Alltså.
+
+**[00:42:15.370 - 00:42:16.370]** Inte följt prestetiska regler och allting.
+
+**[00:42:16.370 - 00:42:17.370]** Då har ni skrivit osannningar.
+
+**[00:42:17.370 - 00:42:18.370]** I så fall.
+
+**[00:42:18.370 - 00:42:19.370]** Hur menar du?
+
+**[00:42:19.370 - 00:42:20.370]** Ja men jag.
+
+**[00:42:20.370 - 00:42:24.370]** Jag kan ta fram avtalet mellan oss och den sagda.
+
+**[00:42:24.370 - 00:42:25.370]** Det sagda bolaget.
+
+**[00:42:25.370 - 00:42:26.370]** Där det framgår tydligt.
+
+**[00:42:26.370 - 00:42:27.980]** Ja okej.
+
+**[00:42:27.980 - 00:42:28.980]** Hur ska det bli ett problem?
+
+**[00:42:28.980 - 00:42:32.980]** Menar du med presser till sig regler om det är ett avtal?
+
+**[00:42:32.980 - 00:42:35.540]** Nej alltså det.
+
+**[00:42:35.540 - 00:42:39.540]** Då får ju ni lova mig att ni inte skriver namnet.
+
+**[00:42:39.540 - 00:42:40.540]** I så fall.
+
+**[00:42:40.540 - 00:42:41.540]** För då har jag ju outat någon.
+
+**[00:42:41.540 - 00:42:42.540]** Det är inte.
+
+**[00:42:42.540 - 00:42:43.540]** Jag kan ju inte.
+
+**[00:42:43.540 - 00:42:44.540]** Det kan man väl inte göra det.
+
+**[00:42:44.540 - 00:42:47.540]** Jag har fått råd till mig av äldre människor som kan det här.
+
+**[00:42:47.540 - 00:42:50.540]** Att det inte är min uppgift att säga.
+
+**[00:42:50.540 - 00:42:51.540]** Jag vill hemskt gärna vara ärlig.
+
+**[00:42:51.540 - 00:42:53.540]** Det var ju det jag sa tidigare innan.
+
+**[00:42:53.540 - 00:42:54.540]** Jag vill gärna vara ärlig.
+
+**[00:42:54.540 - 00:42:57.220]** Och berätta vilket bolag det är.
+
+**[00:42:57.220 - 00:42:58.220]** Och vilken adress och allting.
+
+**[00:42:58.220 - 00:42:59.220]** Men.
+
+**[00:42:59.220 - 00:43:01.220]** Det fick jag rakt med att nej.
+
+**[00:43:01.220 - 00:43:02.220]** Det är inte din uppgift.
+
+**[00:43:02.220 - 00:43:03.220]** Det är deras uppgift.
+
+**[00:43:03.220 - 00:43:04.220]** Och deras uppgift.
+
+**[00:43:04.220 - 00:43:05.220]** De kom.
+
+**[00:43:05.220 - 00:43:07.220]** Du skulle veta att de inte är här för att promota ditt bolag.
+
+**[00:43:07.220 - 00:43:08.220]** De vill bara skriva skit.
+
+**[00:43:08.220 - 00:43:10.220]** Nej men nej.
+
+**[00:43:10.220 - 00:43:11.220]** Sade jag då.
+
+**[00:43:11.220 - 00:43:12.220]** Det är inte alls så.
+
+**[00:43:12.220 - 00:43:14.220]** Att det alltid är skit.
+
+**[00:43:14.220 - 00:43:15.220]** Det här sa att peka på den här.
+
+**[00:43:15.220 - 00:43:17.220]** Jag har fått jättefin artikel här.
+
+**[00:43:17.220 - 00:43:18.220]** De vet det tidigare.
+
+**[00:43:18.220 - 00:43:19.220]** Och innan det.
+
+**[00:43:19.220 - 00:43:21.220]** Var det ju att jag byggde antirasist.org.
+
+**[00:43:21.220 - 00:43:22.220]** En portal.
+
+**[00:43:22.220 - 00:43:23.220]** Som samlade nyheter om SD.
+
+**[00:43:23.220 - 00:43:24.220]** Innan de kom in i.
+
+**[00:43:24.220 - 00:43:25.220]** Alltså långt långt innan.
+
+**[00:43:25.220 - 00:43:26.220]** Innan de kom in i riksdagen.
+
+**[00:43:26.220 - 00:43:27.220]** Alltså.
+
+**[00:43:27.220 - 00:43:28.220]** Eller vad allt detta.
+
+**[00:43:28.220 - 00:43:29.220]** Så vi samlar.
+
+**[00:43:29.220 - 00:43:32.220]** Vi är här för att du har riktat väldigt stort tid mot ditt företag.
+
+**[00:43:32.220 - 00:43:36.220]** Jag hör att du försöker liksom hoppa från det.
+
+**[00:43:36.220 - 00:43:37.220]** Det ena till det andra.
+
+**[00:43:37.220 - 00:43:38.220]** Men vi är här.
+
+**[00:43:38.220 - 00:43:40.220]** Jag förstår varför ni är här.
+
+**[00:43:40.220 - 00:43:41.220]** Vi är här.
+
+**[00:43:41.220 - 00:43:42.220]** Vi är här.
+
+**[00:43:42.220 - 00:43:43.220]** Vi är här.
+
+**[00:43:43.220 - 00:43:44.220]** Vi är här.
+
+**[00:43:44.220 - 00:43:45.220]** Vi är här.
+
+**[00:43:45.220 - 00:43:46.220]** Vi är här.
+
+**[00:43:46.220 - 00:43:47.220]** Vi är här.
+
+**[00:43:47.220 - 00:43:48.220]** Vi är här.
+
+**[00:43:48.220 - 00:43:49.220]** Vi är här.
+
+**[00:43:49.220 - 00:43:50.220]** Vi är här.
+
+**[00:43:50.220 - 00:43:51.220]** Vi är här.
+
+**[00:43:51.220 - 00:43:52.220]** Vi är här.
+
+**[00:43:52.220 - 00:43:53.220]** Vi är här.
+
+**[00:43:53.220 - 00:43:54.220]** Vi är här.
+
+**[00:43:54.220 - 00:43:55.220]** Vi är här.
+
+**[00:43:55.220 - 00:43:56.220]** Vi är här.
+
+**[00:43:56.220 - 00:43:57.220]** Vi är här.
+
+**[00:43:57.220 - 00:43:58.220]** Vi är här.
+
+**[00:43:58.220 - 00:43:59.220]** Vi är här.
+
+**[00:43:59.220 - 00:44:00.220]** Vi är här.
+
+**[00:44:00.220 - 00:44:01.220]** Vi är här.
+
+**[00:44:01.220 - 00:44:02.220]** Vi är här.
+
+**[00:44:02.220 - 00:44:03.220]** Vi är här.
+
+**[00:44:03.220 - 00:44:04.220]** Vi är här.
+
+**[00:44:04.220 - 00:44:05.220]** Vi är här.
+
+**[00:44:05.220 - 00:44:06.220]** Vi är här.
+
+**[00:44:06.220 - 00:44:07.220]** Vi är här.
+
+**[00:44:07.220 - 00:44:08.220]** Vi är här.
+
+**[00:44:08.220 - 00:44:09.220]** Vi är här.
+
+**[00:44:09.220 - 00:44:10.220]** Vi är här.
+
+**[00:44:10.220 - 00:44:11.220]** Vi är här.
+
+**[00:44:11.220 - 00:44:12.220]** Vi är här.
+
+**[00:44:12.220 - 00:44:13.760]** Vi är här.
+
+**[00:44:13.760 - 00:44:14.760]** Vi är här.
+
+**[00:44:14.760 - 00:44:17.620]** Vi är här.
+
+**[00:44:17.620 - 00:44:19.620]** Och det är det som vi vill ha svara på.
+
+**[00:44:19.620 - 00:44:20.620]** Alltså.
+
+**[00:44:20.620 - 00:44:25.620]** Men har ni också många recensioner på Google som är väldigt kritiska mot EU och EU?
+
+**[00:44:25.620 - 00:44:26.620]** Det vet vi.
+
+**[00:44:26.620 - 00:44:28.620]** Tre, fyra recensioner.
+
+**[00:44:28.620 - 00:44:30.620]** Ja, jag vet inte exakt hur många det är.
+
+**[00:44:30.620 - 00:44:31.620]** Men det är...
+
+**[00:44:31.620 - 00:44:34.620]** Vi vet så att det är tre till fyra recensioner som är kritiska.
+
+**[00:44:34.620 - 00:44:35.620]** Okej.
+
+**[00:44:35.620 - 00:44:37.620]** Men nu ser vi användningarna till Konsumentverket.
+
+**[00:44:37.620 - 00:44:38.620]** Ja.
+
+**[00:44:38.620 - 00:44:40.620]** Ser det ut som att vi säljer till Konsumenter ärende.
+
+**[00:44:40.620 - 00:44:42.620]** Men det var det som var innebörd i min frukti.
+
+**[00:44:42.620 - 00:44:43.620]** Jo men...
+
+**[00:44:43.620 - 00:44:44.620]** Men förlåt.
+
+**[00:44:44.620 - 00:44:45.620]** Okej.
+
+**[00:44:45.620 - 00:44:46.620]** Okej.
+
+**[00:44:46.620 - 00:44:47.620]** Men bra.
+
+**[00:44:47.620 - 00:44:48.620]** Då svarar jag ändå på Patriks fråga.
+
+**[00:44:48.620 - 00:44:49.620]** Det var det.
+
+**[00:44:49.620 - 00:44:50.620]** Och vi...
+
+**[00:44:50.620 - 00:44:51.620]** Det här är ju ingen nyhet.
+
+**[00:44:51.620 - 00:44:52.620]** Nej.
+
+**[00:44:52.620 - 00:44:53.620]** Men förstår inte...
+
+**[00:44:53.620 - 00:44:54.620]** Det här är ju superviktigt.
+
+**[00:44:54.620 - 00:44:56.620]** Och vi tycker ju det är ju framförallt...
+
+**[00:44:56.620 - 00:44:58.970]** Någonstans...
+
+**[00:44:58.970 - 00:45:02.970]** Vi pratar ju väldigt mycket om att återta kontrollen över varumärket och sådär.
+
+**[00:45:02.970 - 00:45:03.970]** Vi har försökt...
+
+**[00:45:03.970 - 00:45:05.970]** Vi har hjälpt många andra kunder med det.
+
+**[00:45:05.970 - 00:45:07.970]** Det brukar vara en del av vår...
+
+**[00:45:07.970 - 00:45:13.960]** Ja alltså process och när vi berättar för dem vi samarbetar med hur viktigt det är.
+
+**[00:45:13.960 - 00:45:14.960]** Och...
+
+**[00:45:14.960 - 00:45:16.960]** Men att vi kanske har...
+
+**[00:45:16.960 - 00:45:17.960]** Ja...
+
+**[00:45:17.960 - 00:45:19.960]** Glömt av att tänka på det själva.
+
+**[00:45:19.960 - 00:45:22.960]** Men det är någonting vi lägger väldigt mycket ut på.
+
+**[00:45:22.960 - 00:45:27.960]** Ja, vi la ju inte all vår tid och alla våra resurser på vårt egna varumärke.
+
+**[00:45:27.960 - 00:45:33.960]** Vi har ju haft en extrem snabb tillväxt och lagt all vår kärlek och engagemang på våra kunder.
+
+**[00:45:33.960 - 00:45:35.960]** Det syns också i all statistik.
+
+**[00:45:35.960 - 00:45:42.960]** De som har fått en faktura har ju fått det 30 dagar efter att man har synts på Google också.
+
+**[00:45:42.960 - 00:45:44.960]** Föreställd är det.
+
+**[00:45:44.960 - 00:45:46.960]** Och den faktura har varit ut också då?
+
+**[00:45:46.960 - 00:45:47.960]** För en del kunder?
+
+**[00:45:47.960 - 00:45:50.960]** Utan att vara insatt för det?
+
+**[00:45:50.960 - 00:45:51.960]** Ja, nej.
+
+**[00:45:51.960 - 00:45:56.960]** Allt som står ju i avtalet som man har signerat med bankidéer.
+
+**[00:45:56.960 - 00:45:59.960]** Men när man har fått helt annan information från säljaren då?
+
+**[00:45:59.960 - 00:46:04.960]** Att det är ingen bindningstid, det rör sig om en gratismånad bara.
+
+**[00:46:04.960 - 00:46:08.960]** Och sen har man signerat och sen så bör man betala för den här tjänsten i ett år.
+
+**[00:46:08.960 - 00:46:12.860]** Ja, det är av att vi liksom...
+
+**[00:46:12.860 - 00:46:14.860]** Tog kontroll över det här.
+
+**[00:46:14.860 - 00:46:18.860]** Och då har du ju varit i kontakt med någon som har jobbat som säljare här som du säger.
+
+**[00:46:18.860 - 00:46:25.860]** Då har du ju varit under den perioden där vi letade kompetenta människor att kunna kommunicera på ett rätt sätt.
+
+**[00:46:25.860 - 00:46:27.860]** Det finns ju en anledning att de inte jobbar på.
+
+**[00:46:27.860 - 00:46:30.860]** Ja, exakt. Och varför du har pratat med dem.
+
+**[00:46:30.860 - 00:46:33.860]** Och det finns ju också en anledning kanske, om man tänker sig för, till varför...
+
+**[00:46:33.860 - 00:46:36.860]** Hur det kommer sig att vissa anmält oss till Konsumentverket.
+
+**[00:46:36.860 - 00:46:39.980]** Hur... Alltså hur har man det här då?
+
+**[00:46:39.980 - 00:46:41.980]** Om man inte förstår skillnaden på att...
+
+**[00:46:41.980 - 00:46:43.980]** Oj, jag visste ett företag.
+
+**[00:46:43.980 - 00:46:46.980]** Och inte går under konsumentlagen, det är avtalslagen.
+
+**[00:46:46.980 - 00:46:50.210]** Alltså, ni har ju någonstans fått...
+
+**[00:46:50.210 - 00:46:53.210]** Jo, men vänta lite. Era källor då.
+
+**[00:46:53.210 - 00:46:56.210]** Som jag antar att ni inte vill röja.
+
+**[00:46:56.210 - 00:46:59.210]** Det skulle ju lika gärna kunna vara...
+
+**[00:46:59.210 - 00:47:02.210]** Inga alls. För det vet ju inte jag.
+
+**[00:47:02.210 - 00:47:03.210]** Lika lite som ni säger...
+
+**[00:47:03.210 - 00:47:06.210]** Det finns flera personer. Det finns flera anmälningar till Konsumentverket.
+
+**[00:47:06.210 - 00:47:10.210]** Och ni har en del negativa resensioner.
+
+**[00:47:10.210 - 00:47:14.210]** Det här rör ju som ett flertal personer. Det är inte så att det är en person, två personer eller tre personer.
+
+**[00:47:14.210 - 00:47:20.060]** Det är ju ändå många personer som känner sig grundlurade.
+
+**[00:47:20.060 - 00:47:24.060]** Om det är så som du säger, så är det otroligt beklagligt med tanke på att...
+
+**[00:47:24.060 - 00:47:28.060]** Vi har inte fått betalt av dessa människor i så fall.
+
+**[00:47:28.060 - 00:47:32.960]** Om de har känt sig grundlurade har de ju rimligtvis bestridit med.
+
+**[00:47:32.960 - 00:47:34.960]** Antar jag. Eller hur?
+
+**[00:47:34.960 - 00:47:38.470]** Ja, och då har ju inte vi fått någon enda krona.
+
+**[00:47:38.470 - 00:47:40.470]** Men vi har ju levererat tjänsten.
+
+**[00:47:40.470 - 00:47:43.470]** Vi har levererat en klockrent utförd webbplats.
+
+**[00:47:43.470 - 00:47:45.470]** Optimerad för Google.
+
+**[00:47:45.470 - 00:47:50.470]** De har synts på Google och därmed fått också besökare, trafik, eventuellt kunder till och med.
+
+**[00:47:50.470 - 00:47:54.790]** Det ser vi i datan som de har tillgång till.
+
+**[00:47:54.790 - 00:47:57.790]** De har tillgång till en kundportal. De får rapportutskickad till sig varje månad.
+
+**[00:47:57.790 - 00:48:00.790]** Och så menar de på att de har blivit lurade.
+
+**[00:48:00.790 - 00:48:02.790]** Jättekul kanon.
+
+**[00:48:02.790 - 00:48:06.790]** Förstår då du kanske, Matilda, varför jag var så orolig när du hörde av dig?
+
+**[00:48:06.790 - 00:48:10.790]** För jag tänkte att det här kan bli ett jättestort missförstånd i värsta fall.
+
+**[00:48:10.790 - 00:48:12.790]** Som orsakar så pass stor skada.
+
+**[00:48:12.790 - 00:48:18.110]** För både mitt namn, men också hela verksamheten som sådan.
+
+**[00:48:18.110 - 00:48:21.110]** Alltså om detta missförstås.
+
+**[00:48:21.110 - 00:48:25.110]** Och om inte ni gått i botten på riktigt nu med vad det är som hänt här.
+
+**[00:48:25.110 - 00:48:31.110]** Så riskerar ni att skriva en artikel som porträtterar mig och detta bolaget i dålig dagar.
+
+**[00:48:31.110 - 00:48:41.110]** Och då har ni dödat den enda aktören i Norden eller Europa eller till och med världen som ger bort webbplatser kostnadsfritt.
+
+**[00:48:41.110 - 00:48:47.110]** Och där den enda motprestationen är att vi kan väl vara överens om att om du nu syns på Google,
+
+**[00:48:47.110 - 00:48:54.110]** topp 10 och får besökare och genererar affärer, 30 dagar efter så kan du väl betala 42 kronor per den dagen som du syndes.
+
+**[00:48:54.110 - 00:48:57.110]** Och alla säger ja. Det är klart det är inte mer rättvist.
+
+**[00:48:57.110 - 00:49:01.110]** För hur ser branschen ut? Jo, branschen ser som jag sa ut tidigare.
+
+**[00:49:01.110 - 00:49:09.110]** Att man fakturerar i förskottbyråerna ett visst, en viss fast belopp oavsett om det här stackars företaget syns eller inte med sin lagplats.
+
+**[00:49:09.110 - 00:49:10.110]** Oavsett vad.
+
+**[00:49:10.110 - 00:49:12.110]** Men hur har ni säljare här?
+
+**[00:49:12.110 - 00:49:17.140]** Ja, vi kallar det inte för säljare. Affärsutvecklare kallar vi det.
+
+**[00:49:17.140 - 00:49:20.140]** Vad utgår de från förmall?
+
+**[00:49:20.140 - 00:49:25.140]** Vad säger de när de vill ge till kunder? Eller kommunicerar med eventuella kunder?
+
+**[00:49:25.140 - 00:49:27.140]** Har ni någon sån att visa upp?
+
+**[00:49:27.140 - 00:49:29.140]** Alltså de kan ju tjänsten.
+
+**[00:49:29.140 - 00:49:32.140]** Men hur kommunicerar de det här?
+
+**[00:49:32.140 - 00:49:37.140]** Det är ju ändå så att ni kontaktar kunder när ni har den här tjänsten.
+
+**[00:49:37.140 - 00:49:41.140]** Och de faktureras enbart om de sökoptimerar.
+
+**[00:49:41.140 - 00:49:43.140]** Det är det.
+
+**[00:49:43.140 - 00:49:47.140]** Hur kommunicerar ni den betalbiten? Hur kommunicerar ni?
+
+**[00:49:47.140 - 00:49:49.140]** Så här, det är gratis.
+
+**[00:49:49.140 - 00:49:51.140]** Tills ni får en bra sökoptimering.
+
+**[00:49:51.140 - 00:49:53.620]** Då får ni betala. Hur går det till?
+
+**[00:49:53.620 - 00:49:55.620]** Vad säger ni till potentiella kunder?
+
+**[00:49:55.620 - 00:49:59.620]** Att våran tjänst är helt och hållet baserad på resultat eller prestationsbaserad.
+
+**[00:49:59.620 - 00:50:01.620]** I det fallet att den inte presterar.
+
+**[00:50:01.620 - 00:50:03.620]** Och vad är då prestationen i detta?
+
+**[00:50:03.620 - 00:50:05.620]** Ja men att synas på Google.
+
+**[00:50:05.620 - 00:50:07.620]** För det finns väl inget självändamål att ha en hemsida.
+
+**[00:50:07.620 - 00:50:08.620]** Eller hur Bosse?
+
+**[00:50:08.620 - 00:50:09.620]** Nej, precis. Ja vad bra.
+
+**[00:50:09.620 - 00:50:10.620]** Så du vill synas på Google.
+
+**[00:50:10.620 - 00:50:11.620]** Det är därför du har en hemsida.
+
+**[00:50:11.620 - 00:50:12.620]** Därför du vill ha en webb eller?
+
+**[00:50:12.620 - 00:50:13.620]** Ja, precis.
+
+**[00:50:13.620 - 00:50:16.620]** Med de tjänster som är relevanta för dig och din verksamhet.
+
+**[00:50:16.620 - 00:50:19.620]** Som du erbjuder då inom de områdena som du är verksam inom eller?
+
+**[00:50:19.620 - 00:50:20.620]** Ja, vart är jag då?
+
+**[00:50:20.620 - 00:50:21.620]** Göteborg?
+
+**[00:50:21.620 - 00:50:22.620]** Ja.
+
+**[00:50:22.620 - 00:50:23.620]** Och också Mönndal?
+
+**[00:50:23.620 - 00:50:24.620]** Ja.
+
+**[00:50:24.620 - 00:50:25.620]** Okej, toppen.
+
+**[00:50:25.620 - 00:50:26.620]** Och du jobbar med snickeritjänster och altanbyggarna?
+
+**[00:50:26.620 - 00:50:27.620]** Läggar du till att du syns på det.
+
+**[00:50:27.620 - 00:50:30.620]** Om du inte gör det så får du ingen faktura.
+
+**[00:50:30.620 - 00:50:33.620]** Men lyckas vi få upp dig i topp 10 på Google och du får besökare och därmed också kunder.
+
+**[00:50:33.620 - 00:50:37.620]** Kan vi vara överens om att det inte ger en rättvist att du betalar 42 kronor för den dagen du syndes då.
+
+**[00:50:37.620 - 00:50:38.620]** Och då får du en faktura på det.
+
+**[00:50:38.620 - 00:50:40.620]** För det är helt automatiserat.
+
+**[00:50:40.620 - 00:50:41.620]** Enkelt.
+
+**[00:50:41.620 - 00:50:42.620]** Har ni en klinningstid?
+
+**[00:50:42.620 - 00:50:43.620]** 12 månader ja.
+
+**[00:50:43.620 - 00:50:44.620]** 12 månader.
+
+**[00:50:44.620 - 00:50:45.620]** Kommer du ser ni det till kund?
+
+**[00:50:45.620 - 00:50:46.620]** Det är klart vi gör.
+
+**[00:50:46.620 - 00:50:49.620]** Det står i alla bankidesignerade avtal.
+
+**[00:50:49.620 - 00:50:50.620]** Det står i avtal.
+
+**[00:50:50.620 - 00:50:51.620]** Är det muntren också?
+
+**[00:50:51.620 - 00:50:54.520]** Ja det vet jag faktiskt.
+
+**[00:50:54.520 - 00:50:55.520]** Kan inte jag svara på faktiskt.
+
+**[00:50:55.520 - 00:50:56.520]** För det är inte alltså.
+
+**[00:50:56.520 - 00:50:59.350]** Återigen.
+
+**[00:50:59.350 - 00:51:01.350]** Vi jobbar inte med telefonförsäljning.
+
+**[00:51:01.350 - 00:51:02.350]** Nej.
+
+**[00:51:02.350 - 00:51:03.350]** Det har vi aldrig gjort.
+
+**[00:51:03.350 - 00:51:04.350]** Hur är det med transparans för det?
+
+**[00:51:04.350 - 00:51:07.500]** På det här företaget?
+
+**[00:51:07.500 - 00:51:08.500]** Alltså.
+
+**[00:51:08.500 - 00:51:09.500]** Ni skämtar med mig va?
+
+**[00:51:09.500 - 00:51:10.500]** Nej nej nej.
+
+**[00:51:10.500 - 00:51:12.500]** Allt är transparent här.
+
+**[00:51:12.500 - 00:51:13.500]** Det är därför detta.
+
+**[00:51:13.500 - 00:51:15.500]** Jag blev ju alltså.
+
+**[00:51:15.500 - 00:51:16.890]** Ni anar inte kanske.
+
+**[00:51:16.890 - 00:51:19.890]** Är det vanligt att man sitter och smsar som du och jag gjorde det?
+
+**[00:51:19.890 - 00:51:20.890]** Alltså så här.
+
+**[00:51:20.890 - 00:51:23.890]** Alltså jag förstod ju direkt att det här.
+
+**[00:51:23.890 - 00:51:26.890]** Nu är man ute efter att sätta dit oss på något sätt.
+
+**[00:51:26.890 - 00:51:28.890]** Vi är ju för fan inte dom ni ska sätta dit.
+
+**[00:51:28.890 - 00:51:30.890]** Vi har gjort det mest transparenta bolaget.
+
+**[00:51:30.890 - 00:51:32.890]** Jag vill jättegärna vara ärlig mot er.
+
+**[00:51:32.890 - 00:51:33.890]** Men jag har fått rådet.
+
+**[00:51:33.890 - 00:51:36.890]** Alltså när det gäller den här aktören vi anvitade.
+
+**[00:51:36.890 - 00:51:38.890]** Jag till och med pekar i något rätt håll för guds skull.
+
+**[00:51:38.890 - 00:51:40.890]** Det är något rätt håll för guds skull i det här laget.
+
+**[00:51:40.890 - 00:51:41.890]** Min fråga var bara enkel.
+
+**[00:51:41.890 - 00:51:42.890]** Den var.
+
+**[00:51:42.890 - 00:51:43.890]** Har ni en brimningstid?
+
+**[00:51:43.890 - 00:51:44.890]** Ja säger det.
+
+**[00:51:44.890 - 00:51:45.890]** Ja.
+
+**[00:51:45.890 - 00:51:46.890]** Kommunicerar ni det kund?
+
+**[00:51:46.890 - 00:51:47.890]** Ja säger det.
+
+**[00:51:47.890 - 00:51:48.890]** Ja men.
+
+**[00:51:48.890 - 00:51:49.890]** Det står ett avgång att man signerar med bankidé.
+
+**[00:51:49.890 - 00:51:50.890]** Ja.
+
+**[00:51:50.890 - 00:51:51.890]** Då har min fråga.
+
+**[00:51:51.890 - 00:51:52.890]** Säger ni det muntligen?
+
+**[00:51:52.890 - 00:51:53.890]** Det vet jag inte.
+
+**[00:51:53.890 - 00:51:54.890]** Nej men det kan inte jag svara på.
+
+**[00:51:54.890 - 00:51:55.890]** Hur viktigt är det transparent?
+
+**[00:51:55.890 - 00:51:56.890]** Nej men jag.
+
+**[00:51:56.890 - 00:51:57.890]** Jag har en förutsättning.
+
+**[00:51:57.890 - 00:51:58.890]** Alltså jag har en förutsättning.
+
+**[00:51:58.890 - 00:51:59.890]** Säger du säker på att de säger det?
+
+**[00:51:59.890 - 00:52:00.890]** Projekt.
+
+**[00:52:00.890 - 00:52:01.890]** Ja.
+
+**[00:52:01.890 - 00:52:04.890]** Uppstår frågan från den de pratar med så då måste man ju ändå.
+
+**[00:52:04.890 - 00:52:05.890]** Bra men då har jag fått svar på min fråga.
+
+**[00:52:05.890 - 00:52:07.890]** Men behöver kunden fråga det själv då?
+
+**[00:52:07.890 - 00:52:10.890]** Det är inte så att man som säljare måste säga det?
+
+**[00:52:10.890 - 00:52:13.890]** Det är väl snarare att säljarna och affärsutvecklare.
+
+**[00:52:13.890 - 00:52:15.890]** Ja de informerar ju kunden.
+
+**[00:52:15.890 - 00:52:16.890]** Nej tack.
+
+**[00:52:16.890 - 00:52:18.500]** Han är.
+
+**[00:52:18.500 - 00:52:19.500]** Nej.
+
+**[00:52:19.500 - 00:52:22.590]** Och jag kan berätta varför sen.
+
+**[00:52:22.590 - 00:52:23.590]** Efteråt.
+
+**[00:52:23.590 - 00:52:24.590]** Nej men.
+
+**[00:52:24.590 - 00:52:26.590]** Våra säljare då.
+
+**[00:52:26.590 - 00:52:27.590]** Jag tycker att den här tidslinjen är väldigt viktig.
+
+**[00:52:27.590 - 00:52:29.590]** För någonstans här då efter vi har provat detta.
+
+**[00:52:29.590 - 00:52:30.590]** Och i stort fråga är det.
+
+**[00:52:30.590 - 00:52:31.590]** Och i stort fråga är det.
+
+**[00:52:31.590 - 00:52:32.590]** Det är inte ens det.
+
+**[00:52:32.590 - 00:52:33.590]** Nej.
+
+**[00:52:33.590 - 00:52:34.590]** Nej.
+
+**[00:52:34.590 - 00:52:35.590]** Nej.
+
+**[00:52:35.590 - 00:52:36.590]** Nej.
+
+**[00:52:36.590 - 00:52:37.590]** Jag tar det väl.
+
+**[00:52:37.590 - 00:52:38.590]** Våra säljare då.
+
+**[00:52:38.590 - 00:52:39.590]** Informerar kunderna.
+
+**[00:52:39.590 - 00:52:41.520]** Vad frågan.
+
+**[00:52:41.520 - 00:52:42.520]** Vad färsutvecklare återigen.
+
+**[00:52:42.520 - 00:52:44.520]** För det är ingen som har sålt något över telefon.
+
+**[00:52:44.520 - 00:52:49.520]** Vi jobbar inte med telefonkällning och jag är motståndare till det.
+
+**[00:52:49.520 - 00:52:51.520]** Men någonstans var det viktigt.
+
+**[00:52:51.520 - 00:52:54.520]** Jag tycker den här tidslinjen är väldigt viktig.
+
+**[00:52:54.520 - 00:52:56.520]** För någonstans här då efter vi har provat detta.
+
+**[00:52:56.520 - 00:52:57.520]** Och i stort frågetecken.
+
+**[00:52:57.520 - 00:52:59.520]** Och sa nej det här funkar ju fan inte.
+
+**[00:52:59.520 - 00:53:01.520]** Så vi bestämde oss på att göra detta själva.
+
+**[00:53:01.520 - 00:53:02.520]** Och ta kontrollen.
+
+**[00:53:02.520 - 00:53:07.520]** Så den här bryggan mellan både det här bolaget och de här säljarna.
+
+**[00:53:07.520 - 00:53:09.520]** Det fanns ju en kommunikation där.
+
+**[00:53:09.520 - 00:53:12.520]** Men vi kan ju inte säga till dem vad de ska.
+
+**[00:53:12.520 - 00:53:13.520]** Alltså som William förklarade.
+
+**[00:53:13.520 - 00:53:15.520]** Vi kan ju inte berätta på dem hur de ska göra sitt jobb.
+
+**[00:53:15.520 - 00:53:17.520]** De kan ju det själva liksom bäst.
+
+**[00:53:17.520 - 00:53:21.520]** Men när vi märkte att det fanns några här då.
+
+**[00:53:21.520 - 00:53:23.520]** Som kanske var lite rövna i.
+
+**[00:53:23.520 - 00:53:24.520]** Jag vet inte.
+
+**[00:53:24.520 - 00:53:25.520]** Ja.
+
+**[00:53:25.520 - 00:53:26.520]** Har vi hittat här någonstans.
+
+**[00:53:26.520 - 00:53:27.520]** Som var otydliga kanske.
+
+**[00:53:27.520 - 00:53:28.520]** Eller vad som helst.
+
+**[00:53:28.520 - 00:53:30.520]** En grupp som verkligen funkar bra.
+
+**[00:53:30.520 - 00:53:32.520]** Som vi kan lita på varandra.
+
+**[00:53:32.520 - 00:53:36.520]** Det finns kommunikation från första samtalet.
+
+**[00:53:36.520 - 00:53:37.520]** Eller första.
+
+**[00:53:37.520 - 00:53:38.520]** Det kan vara ett mail också.
+
+**[00:53:38.520 - 00:53:39.520]** Det kanske är någon som ringer in.
+
+**[00:53:39.520 - 00:53:40.520]** Allt sparas.
+
+**[00:53:40.520 - 00:53:41.520]** Dokumenteras.
+
+**[00:53:41.520 - 00:53:42.520]** Liksom så här.
+
+**[00:53:42.520 - 00:53:43.520]** Nu har vi då.
+
+**[00:53:43.520 - 00:53:44.620]** Nu tycker vi att.
+
+**[00:53:44.620 - 00:53:47.620]** Nu är vi stolta över den processen som vi sitter på sen.
+
+**[00:53:47.620 - 00:53:49.620]** Kan det vara jul i augusti kanske.
+
+**[00:53:49.620 - 00:53:50.620]** Där en gång.
+
+**[00:53:50.620 - 00:53:51.620]** Ja.
+
+**[00:53:51.620 - 00:53:53.620]** Och stolta över att vi har gjort den här resan.
+
+**[00:53:53.620 - 00:53:55.620]** Och att vi tog oss bort ifrån det där.
+
+**[00:53:55.620 - 00:53:57.620]** Som hände initialt där i början.
+
+**[00:53:57.620 - 00:53:58.620]** Och att vi märkte det till slut.
+
+**[00:53:58.620 - 00:53:59.620]** Att det kom till vår kännedom.
+
+**[00:53:59.620 - 00:54:01.620]** För tänk om det här är fortsatt.
+
+**[00:54:01.620 - 00:54:02.620]** Det var tråkigt.
+
+**[00:54:02.620 - 00:54:03.620]** Det var tråkigt.
+
+**[00:54:03.620 - 00:54:04.620]** Varför det tog för lång tid.
+
+**[00:54:04.620 - 00:54:07.620]** För jag tycker att en och en halv eller två månader är för lång tid.
+
+**[00:54:07.620 - 00:54:09.620]** Alltså om man skulle titta på det objektivt.
+
+**[00:54:09.620 - 00:54:10.620]** Så kan man ju säga.
+
+**[00:54:10.620 - 00:54:11.620]** Det är ju lite lång tid.
+
+**[00:54:11.620 - 00:54:12.620]** Men någonstans.
+
+**[00:54:12.620 - 00:54:13.620]** Varför det gjorde det.
+
+**[00:54:13.620 - 00:54:14.620]** Det var ju för de här.
+
+**[00:54:14.620 - 00:54:15.620]** Vi ville ju att.
+
+**[00:54:15.620 - 00:54:16.620]** Alla skulle få lov att prova detta.
+
+**[00:54:16.620 - 00:54:18.620]** Och se hur bra den här chansen faktiskt är.
+
+**[00:54:18.620 - 00:54:19.620]** Att den faktiskt funkar.
+
+**[00:54:19.620 - 00:54:21.620]** Vi vill inte att folk ska betala för luft.
+
+**[00:54:21.620 - 00:54:23.620]** Förutom att de ska vinna sig tolv månader.
+
+**[00:54:23.620 - 00:54:24.620]** Och få prova den.
+
+**[00:54:24.620 - 00:54:25.620]** Nej.
+
+**[00:54:25.620 - 00:54:26.620]** Prövomånaden var ju.
+
+**[00:54:26.620 - 00:54:27.620]** Alltså det var bara prövomånader.
+
+**[00:54:27.620 - 00:54:31.620]** Ni måste verkligen förstå att vi har försökt med olika.
+
+**[00:54:31.620 - 00:54:34.620]** Alltså vi har ju anpassat vårt erbjudande.
+
+**[00:54:34.620 - 00:54:36.620]** Efter hur marknaden.
+
+**[00:54:36.620 - 00:54:39.620]** Liksom har gett oss feedback och input.
+
+**[00:54:39.620 - 00:54:40.620]** Exempelvis.
+
+**[00:54:40.620 - 00:54:42.620]** Om en kund hör av sig idag eller imorgon.
+
+**[00:54:42.620 - 00:54:43.620]** Och berättar någonting.
+
+**[00:54:43.620 - 00:54:44.620]** Då tar vi till oss det.
+
+**[00:54:44.620 - 00:54:46.620]** Men det är också så att det är kunder som hör av sig.
+
+**[00:54:46.620 - 00:54:48.620]** Till kundtjänst Emma.
+
+**[00:54:48.620 - 00:54:50.620]** Och påstår att hon är min fru.
+
+**[00:54:50.620 - 00:54:51.970]** Och står och skriker.
+
+**[00:54:51.970 - 00:54:52.970]** Alltså saker.
+
+**[00:54:52.970 - 00:54:53.970]** Och berättar om att.
+
+**[00:54:53.970 - 00:54:55.970]** Ja alltså ni har anställt en tjej.
+
+**[00:54:55.970 - 00:54:57.970]** Som pratar sex och lalalala.
+
+**[00:54:57.970 - 00:54:59.970]** Det är ju sinnessjuka människor ibland.
+
+**[00:54:59.970 - 00:55:00.970]** Ursäkta mig.
+
+**[00:55:00.970 - 00:55:02.970]** Vänligen citera kanske inte det då.
+
+**[00:55:02.970 - 00:55:04.970]** Men det måste ju ni också förstå.
+
+**[00:55:04.970 - 00:55:07.970]** Att det är inte alla som är helt friska heller alltså.
+
+**[00:55:07.970 - 00:55:09.970]** Vi har upprättat en polisanmälan här.
+
+**[00:55:09.970 - 00:55:10.970]** Eller.
+
+**[00:55:10.970 - 00:55:13.970]** Jag kan visa er om ni vill.
+
+**[00:55:13.970 - 00:55:14.970]** För att.
+
+**[00:55:14.970 - 00:55:15.970]** Bara för liksom.
+
+**[00:55:15.970 - 00:55:19.600]** Det här är ofredande eller va.
+
+**[00:55:19.600 - 00:55:20.600]** Precis.
+
+**[00:55:20.600 - 00:55:23.890]** Men provmålaren har ni inte mycket.
+
+**[00:55:23.890 - 00:55:24.890]** Nej.
+
+**[00:55:24.890 - 00:55:25.890]** Nej.
+
+**[00:55:25.890 - 00:55:26.890]** Den bröt vi ju direkt.
+
+**[00:55:26.890 - 00:55:28.890]** När vi så fort vi insåg att det här blir ju.
+
+**[00:55:28.890 - 00:55:29.890]** Viising för.
+
+**[00:55:29.890 - 00:55:32.890]** Ska man jobba med sökmotoroptimering.
+
+**[00:55:32.890 - 00:55:33.890]** Och på rätt sätt.
+
+**[00:55:33.890 - 00:55:34.890]** Och inte dopa.
+
+**[00:55:34.890 - 00:55:35.890]** Sajten.
+
+**[00:55:35.890 - 00:55:37.890]** Liksom en massa blänkbyggen och allt detta.
+
+**[00:55:37.890 - 00:55:40.110]** Då tar det tid.
+
+**[00:55:40.110 - 00:55:41.110]** Liksom.
+
+**[00:55:41.110 - 00:55:42.110]** Det är ju.
+
+**[00:55:42.110 - 00:55:44.110]** Det jag skulle säga så att.
+
+**[00:55:44.110 - 00:55:45.110]** Av 999.
+
+**[00:55:45.110 - 00:55:48.110]** Eller av tusen bolag i Sverige.
+
+**[00:55:48.110 - 00:55:49.110]** Som jobbar med detta.
+
+**[00:55:49.110 - 00:55:51.110]** 999 stycken av dem.
+
+**[00:55:51.110 - 00:55:52.110]** Jobbar med vinningstider.
+
+**[00:55:52.110 - 00:55:53.110]** Ja.
+
+**[00:55:53.110 - 00:55:56.300]** När det kommer till just sökmotoroptimering tjänster.
+
+**[00:55:56.300 - 00:55:57.300]** Pråd.
+
+**[00:55:57.300 - 00:56:00.300]** Det här avtalet som kund definierar bankliden.
+
+**[00:56:00.300 - 00:56:01.300]** Det är ju information.
+
+**[00:56:01.300 - 00:56:03.300]** Och avtal i ett.
+
+**[00:56:03.300 - 00:56:04.300]** Ja men två.
+
+**[00:56:04.300 - 00:56:05.300]** Det är ju digitalt då.
+
+**[00:56:05.300 - 00:56:06.300]** Så det är ju.
+
+**[00:56:06.300 - 00:56:07.300]** Säljarna skickar ut det här då.
+
+**[00:56:07.300 - 00:56:08.300]** De förklarar ju att.
+
+**[00:56:08.300 - 00:56:10.300]** Vi kommer skicka ut den här informationen.
+
+**[00:56:10.300 - 00:56:12.300]** Som även är ett avtal.
+
+**[00:56:12.300 - 00:56:14.300]** Så du kan läsa igenom den här i lugn och ro.
+
+**[00:56:14.300 - 00:56:16.300]** Och blicka på den gröna knappen sen.
+
+**[00:56:16.300 - 00:56:17.300]** När du känner dig igenom.
+
+**[00:56:17.300 - 00:56:19.300]** Vart står det om vinningstider?
+
+**[00:56:19.300 - 00:56:20.300]** I mitten ensam.
+
+**[00:56:20.300 - 00:56:21.300]** I mitten?
+
+**[00:56:21.300 - 00:56:22.300]** Nej.
+
+**[00:56:22.300 - 00:56:23.300]** Jag har inte riktigt mitten.
+
+**[00:56:23.300 - 00:56:24.300]** Nej.
+
+**[00:56:24.300 - 00:56:25.300]** Alltså.
+
+**[00:56:25.300 - 00:56:26.300]** Jag ska visa.
+
+**[00:56:26.300 - 00:56:27.300]** Ja.
+
+**[00:56:27.300 - 00:56:28.300]** Jättegärna.
+
+**[00:56:28.300 - 00:56:29.300]** Men med prövomånader då.
+
+**[00:56:29.300 - 00:56:31.300]** Det var alltid tills det tar ju tid.
+
+**[00:56:31.300 - 00:56:32.300]** Och om ni får ta ju tid.
+
+**[00:56:32.300 - 00:56:34.300]** Och börja ränta.
+
+**[00:56:34.300 - 00:56:35.300]** Eller det var inte så livbara på.
+
+**[00:56:35.300 - 00:56:36.300]** Där.
+
+**[00:56:36.300 - 00:56:40.340]** Där ser du.
+
+**[00:56:40.340 - 00:56:41.890]** Ja.
+
+**[00:56:41.890 - 00:56:45.560]** Det förbinder i ett nyttigt tjänster med dess fördelar.
+
+**[00:56:45.560 - 00:56:46.560]** Till anledningen.
+
+**[00:56:46.560 - 00:56:50.560]** Det är ju det som är nyttigt.
+
+**[00:56:50.560 - 00:56:51.560]** Ja.
+
+**[00:56:51.560 - 00:56:53.560]** Så när vi.
+
+**[00:56:53.560 - 00:56:58.560]** Det kunden få med sig för att använda igenom tjänster.
+
+**[00:56:58.560 - 00:56:59.560]** Ja.
+
+**[00:56:59.560 - 00:57:01.560]** Det är så här man får veta det liksom.
+
+**[00:57:01.560 - 00:57:02.560]** Man lär för avtalet.
+
+**[00:57:02.560 - 00:57:04.560]** Det är inget som kommuniceras.
+
+**[00:57:04.560 - 00:57:05.560]** Alltså.
+
+**[00:57:05.560 - 00:57:06.560]** Jag skulle säga så här.
+
+**[00:57:06.560 - 00:57:09.560]** Nu känner jag ju till branschen som sådan.
+
+**[00:57:09.560 - 00:57:12.560]** Och jag är inte säljguru på något sätt.
+
+**[00:57:12.560 - 00:57:16.560]** Men jag vet ju hur man förmedlar den här typen av tjänster.
+
+**[00:57:16.560 - 00:57:19.560]** Kommunikativt om jag uttrycker mig så.
+
+**[00:57:19.560 - 00:57:20.560]** Det.
+
+**[00:57:20.560 - 00:57:24.560]** Jag skulle säga att det är oerhört osannolikt.
+
+**[00:57:24.560 - 00:57:27.560]** Att en kund inte ställt frågan.
+
+**[00:57:27.560 - 00:57:28.560]** Eller en.
+
+**[00:57:28.560 - 00:57:30.560]** Ett företag eller en företagare.
+
+**[00:57:30.560 - 00:57:33.650]** Är det någon bindningstid.
+
+**[00:57:33.650 - 00:57:35.650]** Så i det fall att man har ställt den frågan.
+
+**[00:57:35.650 - 00:57:37.650]** Så ska man ha varit ärlig.
+
+**[00:57:37.650 - 00:57:38.650]** Givetvis.
+
+**[00:57:38.650 - 00:57:40.650]** Om inte annat så står det i avtalet.
+
+**[00:57:40.650 - 00:57:41.650]** Men.
+
+**[00:57:41.650 - 00:57:42.650]** Vi har valt.
+
+**[00:57:42.650 - 00:57:44.650]** Att till skillnad från andra aktörer.
+
+**[00:57:44.650 - 00:57:46.650]** Som finns i Borås.
+
+**[00:57:46.650 - 00:57:47.650]** Det kryllar av dem alltså.
+
+**[00:57:47.650 - 00:57:48.650]** De säljer.
+
+**[00:57:48.650 - 00:57:50.650]** Över lur.
+
+**[00:57:50.650 - 00:57:51.650]** Och spelar in människorna.
+
+**[00:57:51.650 - 00:57:53.650]** Då ingår vi detta dag.
+
+**[00:57:53.650 - 00:57:54.650]** Denna dag.
+
+**[00:57:54.650 - 00:57:55.650]** Ett avtal.
+
+**[00:57:55.650 - 00:57:56.680]** Så går det så här fort va.
+
+**[00:57:56.680 - 00:57:57.680]** Det är en annan femma.
+
+**[00:57:57.680 - 00:58:00.710]** Här har man fått tagit del av ett avtal.
+
+**[00:58:00.710 - 00:58:04.100]** Jag tror inte att man har gått igenom avtalet.
+
+**[00:58:04.100 - 00:58:05.100]** Uppifrån och ner.
+
+**[00:58:05.100 - 00:58:06.100]** Över telefon om det är så.
+
+**[00:58:06.100 - 00:58:07.100]** För att svara på din fråga.
+
+**[00:58:07.100 - 00:58:09.100]** Jag tror att det är osannolikt.
+
+**[00:58:09.100 - 00:58:13.100]** Men jag tycker också att vi ska tänka på vad är rimligt också.
+
+**[00:58:13.100 - 00:58:14.100]** Är det rimligt?
+
+**[00:58:14.100 - 00:58:15.100]** Är det så det går till?
+
+**[00:58:15.100 - 00:58:17.100]** När du går.
+
+**[00:58:17.100 - 00:58:19.100]** Om jag skulle in på Telia nu.
+
+**[00:58:19.100 - 00:58:20.100]** Eller Telenor.
+
+**[00:58:20.100 - 00:58:21.100]** Och beställa någonting.
+
+**[00:58:21.100 - 00:58:22.100]** Går han i kassan.
+
+**[00:58:22.100 - 00:58:23.100]** Eller hon i kassan.
+
+**[00:58:23.100 - 00:58:25.100]** Eller hen i kassan.
+
+**[00:58:25.100 - 00:58:26.100]** I kassan.
+
+**[00:58:26.100 - 00:58:28.100]** Igenom hela allmänna villkor avtalet.
+
+**[00:58:28.100 - 00:58:29.100]** Med mig i uppifrån och ner.
+
+**[00:58:29.100 - 00:58:30.100]** Nej.
+
+**[00:58:30.100 - 00:58:33.100]** Min erfarenhet är att de är väldigt fina med din stud i alla fall.
+
+**[00:58:33.100 - 00:58:34.100]** Om man får se de här.
+
+**[00:58:34.100 - 00:58:36.100]** Och får du ta exempelvis Telia.
+
+**[00:58:36.100 - 00:58:37.100]** Okej.
+
+**[00:58:37.100 - 00:58:38.100]** Ja.
+
+**[00:58:38.100 - 00:58:41.100]** Jag har erfarenhet av att läst massa från konsumentombudsmannen.
+
+**[00:58:41.100 - 00:58:42.100]** På hemsidan där.
+
+**[00:58:42.100 - 00:58:45.100]** Och där finns det ju exempelvis cases som jag har tagit del av.
+
+**[00:58:45.100 - 00:58:48.100]** Där någon i kassan har fått frågan.
+
+**[00:58:48.100 - 00:58:50.100]** Är det gratis surf på det här simkortet.
+
+**[00:58:50.100 - 00:58:51.100]** För det är det viktigaste för mig.
+
+**[00:58:51.100 - 00:58:53.100]** Och sen så har han.
+
+**[00:58:53.100 - 00:58:54.100]** Eller det var nog en han.
+
+**[00:58:54.100 - 00:58:55.100]** I det här fallet då sagt.
+
+**[00:58:55.100 - 00:58:56.100]** Ja det är det.
+
+**[00:58:56.100 - 00:58:57.100]** I kassan.
+
+**[00:58:57.100 - 00:58:58.100]** Min san tydligen.
+
+**[00:58:58.100 - 00:59:00.100]** Och fått avtal till sig.
+
+**[00:59:00.100 - 00:59:01.100]** Kunden signerar.
+
+**[00:59:01.100 - 00:59:03.100]** Och sen så upptäckte kunden att.
+
+**[00:59:03.100 - 00:59:05.100]** Efter någon vecka eller två.
+
+**[00:59:05.100 - 00:59:06.100]** Att surfen är slut.
+
+**[00:59:06.100 - 00:59:07.100]** Och stämmer.
+
+**[00:59:07.100 - 00:59:09.100]** Och så går till konsument.
+
+**[00:59:09.100 - 00:59:10.100]** Eller vad är.
+
+**[00:59:10.100 - 00:59:11.100]** Vad är.
+
+**[00:59:11.100 - 00:59:12.100]** Konsumentverket.
+
+**[00:59:12.100 - 00:59:13.100]** Ja.
+
+**[00:59:13.100 - 00:59:14.100]** Konsumentverket.
+
+**[00:59:14.100 - 00:59:15.100]** Anmäler till det.
+
+**[00:59:15.100 - 00:59:16.100]** Och då.
+
+**[00:59:16.100 - 00:59:17.100]** Och kunden har inte fått rätt.
+
+**[00:59:17.100 - 00:59:19.100]** Någonting heter en röd torr detta.
+
+**[00:59:19.100 - 00:59:20.100]** Det var.
+
+**[00:59:20.100 - 00:59:21.100]** Som vi märkte då.
+
+**[00:59:21.100 - 00:59:22.100]** Det var att vi ville unvika kunder.
+
+**[00:59:22.100 - 00:59:23.100]** Säger.
+
+**[00:59:23.100 - 00:59:24.100]** Som.
+
+**[00:59:24.100 - 00:59:25.100]** Ringer till vår kundtjänst.
+
+**[00:59:25.100 - 00:59:26.100]** Eller till produktion.
+
+**[00:59:26.100 - 00:59:27.100]** Eller till någon av oss då.
+
+**[00:59:27.100 - 00:59:28.100]** Som säger.
+
+**[00:59:28.100 - 00:59:29.100]** Säljans sak.
+
+**[00:59:29.100 - 00:59:30.100]** Mm.
+
+**[00:59:30.100 - 00:59:32.100]** Och det har blivit ett tema här innan.
+
+**[00:59:32.100 - 00:59:33.100]** Säljans sak.
+
+**[00:59:33.100 - 00:59:34.100]** Säljans sak.
+
+**[00:59:34.100 - 00:59:35.100]** Och då.
+
+**[00:59:35.100 - 00:59:36.100]** Tidligt.
+
+**[00:59:36.100 - 00:59:37.100]** Om jag är.
+
+**[00:59:37.100 - 00:59:38.100]** Om jag är.
+
+**[00:59:38.100 - 00:59:39.100]** Om jag är.
+
+**[00:59:39.100 - 00:59:40.100]** Det är därför vi har.
+
+**[00:59:40.100 - 00:59:41.100]** Alltså.
+
+**[00:59:41.100 - 00:59:42.100]** Exakt.
+
+**[00:59:42.100 - 00:59:44.100]** Det är exakt den anledningen till att vi har.
+
+**[00:59:44.100 - 00:59:45.100]** Vi jobbar.
+
+**[00:59:45.100 - 00:59:46.100]** Endast med skriftliga avtal.
+
+**[00:59:46.100 - 00:59:47.100]** Och inte.
+
+**[00:59:47.100 - 00:59:49.100]** Med att spela in.
+
+**[00:59:49.100 - 00:59:50.100]** Denna dagen.
+
+**[00:59:50.100 - 00:59:51.100]** Ingår du och jag.
+
+**[00:59:51.100 - 00:59:52.100]** Ett muntligt avtal.
+
+**[00:59:52.100 - 00:59:53.100]** Lalalala.
+
+**[00:59:53.100 - 00:59:54.100]** Jag startar inspelningen.
+
+**[00:59:54.100 - 00:59:55.670]** Tack så mycket.
+
+**[00:59:55.670 - 00:59:56.670]** Hej och hå.
+
+**[00:59:56.670 - 00:59:57.670]** Jag har valt att bokstavligen.
+
+**[00:59:57.670 - 00:59:58.670]** Aldrig någonsin.
+
+**[00:59:58.670 - 01:00:00.670]** Gör någonting ens.
+
+**[01:00:00.670 - 01:00:01.670]** Närheten av det.
+
+**[01:00:01.670 - 01:00:03.670]** Och bara jobba med.
+
+**[01:00:03.670 - 01:00:04.670]** Digitala.
+
+**[01:00:04.670 - 01:00:05.670]** Svart på vitt.
+
+**[01:00:05.670 - 01:00:07.670]** Bankdesignerade avtal.
+
+**[01:00:07.670 - 01:00:08.670]** Så.
+
+**[01:00:08.670 - 01:00:09.670]** Kära.
+
+**[01:00:09.670 - 01:00:10.800]** Ni.
+
+**[01:00:10.800 - 01:00:13.020]** Vad mer.
+
+**[01:00:13.020 - 01:00:14.020]** Önskar man här då.
+
+**[01:00:14.020 - 01:00:15.020]** Egentligen.
+
+**[01:00:15.020 - 01:00:16.020]** Jag har en fråga.
+
+**[01:00:16.020 - 01:00:17.020]** Hur dyrt kan det här bli.
+
+**[01:00:17.020 - 01:00:18.020]** Föra en kund.
+
+**[01:00:18.020 - 01:00:20.020]** Man får ju välja mellan.
+
+**[01:00:20.020 - 01:00:21.020]** 8 till 18 sökfaser.
+
+**[01:00:21.020 - 01:00:22.020]** Ja.
+
+**[01:00:22.020 - 01:00:23.890]** Jag skulle.
+
+**[01:00:23.890 - 01:00:25.890]** Kunna säga att.
+
+**[01:00:25.890 - 01:00:26.890]** Om vi inte.
+
+**[01:00:26.890 - 01:00:27.890]** Så här då.
+
+**[01:00:27.890 - 01:00:28.890]** Var det.
+
+**[01:00:28.890 - 01:00:30.890]** Kunden eller vi som.
+
+**[01:00:30.890 - 01:00:31.890]** Valde att erbjuda.
+
+**[01:00:31.890 - 01:00:33.890]** 8 till 18 sökfaser.
+
+**[01:00:33.890 - 01:00:34.890]** Det var ju vi.
+
+**[01:00:34.890 - 01:00:35.890]** Det är vi som har tagit fram detta.
+
+**[01:00:35.890 - 01:00:36.890]** Erbjudande.
+
+**[01:00:36.890 - 01:00:37.890]** Vi skulle kunna ha sagt.
+
+**[01:00:37.890 - 01:00:38.890]** Det finns inget.
+
+**[01:00:38.890 - 01:00:39.890]** Tågöme.
+
+**[01:00:39.890 - 01:00:40.890]** Eller hur många sökfaser du vill.
+
+**[01:00:40.890 - 01:00:41.890]** Men hur dyrt kan det bli.
+
+**[01:00:41.890 - 01:00:42.890]** Om man hade fått välja.
+
+**[01:00:42.890 - 01:00:43.890]** Hur många sökfaser som.
+
+**[01:00:43.890 - 01:00:44.890]** Man vill.
+
+**[01:00:44.890 - 01:00:47.490]** Ja det är ju.
+
+**[01:00:47.490 - 01:00:48.490]** 18 är ju.
+
+**[01:00:48.490 - 01:00:49.490]** 8 till 18.
+
+**[01:00:49.490 - 01:00:50.490]** Står du där.
+
+**[01:00:50.490 - 01:00:51.490]** Att du får välja.
+
+**[01:00:51.490 - 01:00:52.490]** Du får välja.
+
+**[01:00:52.490 - 01:00:53.490]** 8 till 18.
+
+**[01:00:53.490 - 01:00:54.490]** Relevanta sökfaser.
+
+**[01:00:54.490 - 01:00:55.490]** För det är din verksamhet.
+
+**[01:00:55.490 - 01:00:56.490]** Det var väljt.
+
+**[01:00:56.490 - 01:00:58.510]** 1 till 10 är 12.
+
+**[01:00:58.510 - 01:00:59.510]** Det är typ det som är.
+
+**[01:00:59.510 - 01:01:00.510]** Ja.
+
+**[01:01:00.510 - 01:01:01.510]** Vissa som blir så på stort.
+
+**[01:01:01.510 - 01:01:02.510]** Men det.
+
+**[01:01:02.510 - 01:01:03.510]** Ja.
+
+**[01:01:03.510 - 01:01:04.510]** Hur mycket kostar det då?
+
+**[01:01:04.510 - 01:01:05.510]** Ja men du.
+
+**[01:01:05.510 - 01:01:06.510]** Vi kan räkna på det.
+
+**[01:01:06.510 - 01:01:07.510]** 18 gånger.
+
+**[01:01:07.510 - 01:01:08.510]** 12 gånger.
+
+**[01:01:08.510 - 01:01:09.510]** Så exempelvis.
+
+**[01:01:09.510 - 01:01:10.510]** 42 gånger.
+
+**[01:01:10.510 - 01:01:11.510]** Vad blir det?
+
+**[01:01:11.510 - 01:01:12.510]** Nej men.
+
+**[01:01:12.510 - 01:01:13.510]** Vänta lite.
+
+**[01:01:13.510 - 01:01:14.510]** Så här.
+
+**[01:01:14.510 - 01:01:15.510]** Det kostar 0 kronor.
+
+**[01:01:15.510 - 01:01:16.510]** För 30 procent av alla.
+
+**[01:01:16.510 - 01:01:17.510]** Våra kunder.
+
+**[01:01:17.510 - 01:01:19.020]** Det är ett svar.
+
+**[01:01:19.020 - 01:01:21.020]** Men det var inte så då.
+
+**[01:01:21.020 - 01:01:24.020]** Nej men det är jävla mycket bättre svar än där du.
+
+**[01:01:24.020 - 01:01:25.020]** Tänker skriva inte.
+
+**[01:01:25.020 - 01:01:26.020]** Men absolut.
+
+**[01:01:26.020 - 01:01:27.020]** Jag kommer svara på den också då.
+
+**[01:01:27.020 - 01:01:28.020]** Så låt säga att man väljer då.
+
+**[01:01:28.020 - 01:01:29.020]** 10 sökfaser.
+
+**[01:01:29.020 - 01:01:30.020]** Eller.
+
+**[01:01:30.020 - 01:01:31.020]** 8 då.
+
+**[01:01:31.020 - 01:01:32.020]** Som de flesta valde.
+
+**[01:01:32.020 - 01:01:33.020]** Och har valt.
+
+**[01:01:33.020 - 01:01:35.020]** Så ser vi att 4 av dem rankar.
+
+**[01:01:35.020 - 01:01:38.020]** 4 sökfaser av 8 rankar topp 10 på Google.
+
+**[01:01:38.020 - 01:01:39.020]** Okej?
+
+**[01:01:39.020 - 01:01:40.020]** Ja.
+
+**[01:01:40.020 - 01:01:41.020]** Då tar vi det gånger 42.
+
+**[01:01:41.020 - 01:01:44.340]** Gånger 365 dagar på ett år.
+
+**[01:01:44.340 - 01:01:47.340]** Om vi leker med tanken att det är helt år de rankar.
+
+**[01:01:47.340 - 01:01:48.340]** Varenda dag alltså.
+
+**[01:01:48.340 - 01:01:49.340]** Om det är 360.
+
+**[01:01:49.340 - 01:01:51.340]** Då är det 360 som kommer på fakturan.
+
+**[01:01:51.340 - 01:01:55.340]** För nu fakturerar vi ju en månad i ett skott alltid och inget annat.
+
+**[01:01:55.340 - 01:01:56.340]** Så men ändå.
+
+**[01:01:56.340 - 01:01:57.340]** För att göra det enkelt för oss.
+
+**[01:01:57.340 - 01:01:58.860]** Så delar vi det på 12.
+
+**[01:01:58.860 - 01:02:01.860]** Då är det 5 110 kronor.
+
+**[01:02:01.860 - 01:02:02.860]** X moms.
+
+**[01:02:02.860 - 01:02:05.860]** Det är alltså ingenting jämfört med branschkutting.
+
+**[01:02:05.860 - 01:02:07.860]** Och hur branschen ser ut överlag.
+
+**[01:02:07.860 - 01:02:08.860]** Det har man rankat på 4.
+
+**[01:02:08.860 - 01:02:09.860]** Och det har man rankat på 4.
+
+**[01:02:09.860 - 01:02:11.860]** Rankar de inte på någonting.
+
+**[01:02:11.860 - 01:02:13.860]** Då betalar de inte ens lant.
+
+**[01:02:13.860 - 01:02:14.860]** Men vi har lagt ner resurser.
+
+**[01:02:14.860 - 01:02:16.860]** Vi har betalat löner till våra anställda.
+
+**[01:02:16.860 - 01:02:17.860]** Vi har betalat skatt.
+
+**[01:02:17.860 - 01:02:19.860]** Vi har betalat servrar.
+
+**[01:02:19.860 - 01:02:22.860]** Och serverkostnader, domänavgifter och rubbet och stubbet.
+
+**[01:02:22.860 - 01:02:24.860]** Men om vi inte lyckades.
+
+**[01:02:24.860 - 01:02:25.860]** Det är det.
+
+**[01:02:25.860 - 01:02:26.860]** Jag har liksom.
+
+**[01:02:26.860 - 01:02:27.860]** Så här.
+
+**[01:02:27.860 - 01:02:30.240]** När jag har jobbat i branschen.
+
+**[01:02:30.240 - 01:02:32.340]** De åren jag har jobbat.
+
+**[01:02:32.340 - 01:02:35.340]** Så har ju alltid varit den största utmaningen.
+
+**[01:02:35.340 - 01:02:36.340]** Att lita på mig.
+
+**[01:02:36.340 - 01:02:38.340]** Jag är duktig på det jag gör.
+
+**[01:02:38.340 - 01:02:40.340]** Det är ju den utmaningen alla byråer har.
+
+**[01:02:40.340 - 01:02:41.340]** Att vi är bäst.
+
+**[01:02:41.340 - 01:02:42.340]** Min sann.
+
+**[01:02:42.340 - 01:02:43.340]** Det är ju så.
+
+**[01:02:43.340 - 01:02:44.340]** Alla ringer ut och säger att vi är bäst.
+
+**[01:02:44.340 - 01:02:45.340]** Eller hur?
+
+**[01:02:45.340 - 01:02:47.340]** Det kan ni väl ändå hålla med om.
+
+**[01:02:47.340 - 01:02:50.340]** Ni har väl också haft säljare som har hört av sig till er.
+
+**[01:02:50.340 - 01:02:53.340]** Försökt sälja in någonting och påstått att de är bäst min sann.
+
+**[01:02:53.340 - 01:02:54.340]** Eller har marknadens bästa erbjudan.
+
+**[01:02:54.340 - 01:02:55.340]** Eller vad vet jag.
+
+**[01:02:55.340 - 01:02:56.340]** Liksom så här.
+
+**[01:02:56.340 - 01:02:58.820]** Det ville vi komma bort från.
+
+**[01:02:58.820 - 01:03:02.820]** Att försöka övertyga människor till att vi är så bra som vi faktiskt är.
+
+**[01:03:02.820 - 01:03:07.390]** Och istället låta vår prestation tala för sig självt.
+
+**[01:03:07.390 - 01:03:09.390]** Presterar inte vi.
+
+**[01:03:09.390 - 01:03:10.390]** Faktureras ingenting.
+
+**[01:03:10.390 - 01:03:12.390]** Men presterar vi.
+
+**[01:03:12.390 - 01:03:13.390]** Och du får värde.
+
+**[01:03:13.390 - 01:03:16.390]** Då måste du ju rimligtvis kunna ta emot en faktura.
+
+**[01:03:16.390 - 01:03:17.390]** Och betala den.
+
+**[01:03:17.390 - 01:03:19.390]** Så att den här tjänsten fortsatt kan överleva.
+
+**[01:03:19.390 - 01:03:21.390]** Och fortsätta ge dig värde.
+
+**[01:03:21.390 - 01:03:23.420]** Och till dig.
+
+**[01:03:23.420 - 01:03:24.420]** Precis som de ger värde till dig.
+
+**[01:03:24.420 - 01:03:25.420]** Till andra också.
+
+**[01:03:25.420 - 01:03:27.420]** De som inte har fått något värde.
+
+**[01:03:27.420 - 01:03:29.420]** Alltså inte syns alls på Google.
+
+**[01:03:29.420 - 01:03:31.420]** Har heller inte fått en faktura.
+
+**[01:03:31.420 - 01:03:33.420]** Eller då inte.
+
+**[01:03:33.420 - 01:03:37.420]** Så har inte det kommit den frasen kommit med på fakturan.
+
+**[01:03:37.420 - 01:03:39.420]** Men vi har fortfarande arbetat med fraser.
+
+**[01:03:39.420 - 01:03:40.420]** Men den är på plats 13.
+
+**[01:03:40.420 - 01:03:42.420]** Så man betalar inte för dem.
+
+**[01:03:42.420 - 01:03:45.420]** Hur många av era kunder har beskrivits i nästa tid?
+
+**[01:03:45.420 - 01:03:47.780]** Det har inte jag någon exakt siffra på tyvärr.
+
+**[01:03:47.780 - 01:03:48.780]** I dagsläget.
+
+**[01:03:48.780 - 01:03:49.780]** Inget svår?
+
+**[01:03:49.780 - 01:03:50.780]** Nej.
+
+**[01:03:50.780 - 01:03:51.780]** Inte exakt.
+
+**[01:03:51.780 - 01:03:52.870]** Men det är ju.
+
+**[01:03:52.870 - 01:03:53.870]** Alltså det är ju.
+
+**[01:03:53.870 - 01:03:54.870]** Majoriteten av dem.
+
+**[01:03:54.870 - 01:03:55.870]** Eller då nästan.
+
+**[01:03:55.870 - 01:03:56.870]** Majoriteten av de inledande kunderna.
+
+**[01:03:56.870 - 01:03:57.870]** Ja det är ju.
+
+**[01:03:57.870 - 01:03:59.870]** Som känner liksom.
+
+**[01:03:59.870 - 01:04:01.870]** Att det är den perioden.
+
+**[01:04:01.870 - 01:04:03.870]** Majoriteten av kunderna.
+
+**[01:04:03.870 - 01:04:04.870]** Problemperioden då.
+
+**[01:04:04.870 - 01:04:05.870]** Om jag uttrycker mig.
+
+**[01:04:05.870 - 01:04:07.870]** Alltså majoriteten av de kunderna.
+
+**[01:04:07.870 - 01:04:08.870]** Som har beskrivits.
+
+**[01:04:08.870 - 01:04:10.870]** Från den perioden.
+
+**[01:04:10.870 - 01:04:13.870]** Hur många kunder hade du i dag?
+
+**[01:04:13.870 - 01:04:16.030]** Ett femtiotal.
+
+**[01:04:16.030 - 01:04:20.500]** Men många utav dem.
+
+**[01:04:20.500 - 01:04:21.500]** Alltså de som.
+
+**[01:04:21.500 - 01:04:23.530]** Typsa upp.
+
+**[01:04:23.530 - 01:04:25.530]** Innan prövotiden var över till exempel.
+
+**[01:04:25.530 - 01:04:26.530]** De.
+
+**[01:04:26.530 - 01:04:27.530]** De.
+
+**[01:04:27.530 - 01:04:28.530]** De.
+
+**[01:04:28.530 - 01:04:29.530]** De.
+
+**[01:04:29.530 - 01:04:30.530]** De.
+
+**[01:04:30.530 - 01:04:31.530]** De har ju fått sin prövotid.
+
+**[01:04:31.530 - 01:04:32.530]** Yes.
+
+**[01:04:32.530 - 01:04:34.910]** Men om prövotiden handlade för över 30 dagar.
+
+**[01:04:34.910 - 01:04:36.910]** Då var de ju bunda i ett år.
+
+**[01:04:36.910 - 01:04:37.910]** Mm.
+
+**[01:04:37.910 - 01:04:39.910]** Och det är ju liksom någonstans.
+
+**[01:04:39.910 - 01:04:40.910]** Det får man ju förstå liksom att.
+
+**[01:04:40.910 - 01:04:43.910]** Det får man ju prova någonting som i regel kostar massa pengar.
+
+**[01:04:43.910 - 01:04:45.910]** Det får man prova kostnadsfritt då.
+
+**[01:04:45.910 - 01:04:47.910]** Om man då anser att.
+
+**[01:04:47.910 - 01:04:49.910]** Alltså har man inte sagt upp det.
+
+**[01:04:49.910 - 01:04:50.910]** Om man inte anser att det är något värde.
+
+**[01:04:50.910 - 01:04:52.910]** Eller vad det nu kan vara.
+
+**[01:04:52.910 - 01:04:54.520]** Ja men.
+
+**[01:04:54.520 - 01:04:57.520]** Då har ju vi ju fortfarande producerat en klockren webbplats.
+
+**[01:04:57.520 - 01:04:59.520]** Och lanserat den och gjort jobbet enligt konsens alla regler.
+
+**[01:04:59.520 - 01:05:01.520]** Och så har man inte heller sagt upp.
+
+**[01:05:01.520 - 01:05:02.520]** Och skrivit.
+
+**[01:05:02.520 - 01:05:04.520]** Det är klart att då är det ju ett avtal som gäller.
+
+**[01:05:04.520 - 01:05:05.520]** Om inte ens det är gällande längre.
+
+**[01:05:05.520 - 01:05:06.520]** Vad ska vi göra då?
+
+**[01:05:06.520 - 01:05:08.520]** Då kan vi lika gärna skjuta oss själva och begrava oss.
+
+**[01:05:08.520 - 01:05:09.520]** Samtidigt.
+
+**[01:05:09.520 - 01:05:11.520]** Ni har ingen aning om hur många som.
+
+**[01:05:11.520 - 01:05:13.520]** Har fortsatt ha eller inte bestrivit sina faktorer.
+
+**[01:05:13.520 - 01:05:16.520]** Efter ni avslutade det här bolaget som ni inte var nöjda med.
+
+**[01:05:16.520 - 01:05:18.520]** Ni har ju inte ett exakt antal.
+
+**[01:05:18.520 - 01:05:21.520]** Men jag kan ju säga att en stor majoritet är nöjda med den här tjänsten.
+
+**[01:05:21.520 - 01:05:23.520]** Av en självklart anledning.
+
+**[01:05:23.520 - 01:05:25.520]** Ingen vill betala för luft återigen.
+
+**[01:05:25.520 - 01:05:27.520]** De som fattat detta.
+
+**[01:05:27.520 - 01:05:29.520]** Har hyllat detta.
+
+**[01:05:29.520 - 01:05:31.520]** De som inte fattat detta.
+
+**[01:05:31.520 - 01:05:33.620]** Har trott att de blivit lurade.
+
+**[01:05:33.620 - 01:05:35.620]** Och skrivit det till er.
+
+**[01:05:35.620 - 01:05:37.620]** Och på Google.
+
+**[01:05:37.620 - 01:05:38.620]** Reviews.
+
+**[01:05:38.620 - 01:05:40.620]** Och det är jättehemskt för oss.
+
+**[01:05:40.620 - 01:05:42.620]** Att vara med om något sånt.
+
+**[01:05:42.620 - 01:05:44.620]** Men jag vet även två utav de här reviewsen.
+
+**[01:05:44.620 - 01:05:46.620]** De har ju hjälpt med att lösa.
+
+**[01:05:46.620 - 01:05:47.620]** Ja.
+
+**[01:05:47.620 - 01:05:49.620]** Vi har ju klart att vi har gått till botten med alla.
+
+**[01:05:49.620 - 01:05:51.620]** Alltså vi har gått till botten med alla som har kommit.
+
+**[01:05:51.620 - 01:05:54.620]** Sen det här med att man inte fått tag på mig och sånt där.
+
+**[01:05:54.620 - 01:05:55.620]** Det är inte.
+
+**[01:05:55.620 - 01:05:56.620]** Alltså.
+
+**[01:05:56.620 - 01:05:57.620]** Nej.
+
+**[01:05:57.620 - 01:06:00.620]** Efter att ha jobbat med halva Djurgården och halva Candissverige.
+
+**[01:06:00.620 - 01:06:03.620]** Och allt av fasen där och varit i Stockholm hela tiden.
+
+**[01:06:03.620 - 01:06:05.620]** Med två barn och en familj.
+
+**[01:06:05.620 - 01:06:06.620]** Jag behöver ta hand om också någonstans.
+
+**[01:06:06.620 - 01:06:08.620]** Jag kan inte vara tillgänglig 24-7.
+
+**[01:06:08.620 - 01:06:12.620]** Och jag har aldrig någonsin i mitt liv skickat ut ett avtal eller offert.
+
+**[01:06:12.620 - 01:06:13.620]** Eller kommit överens med någon.
+
+**[01:06:13.620 - 01:06:15.620]** Eller skakat hand med att jag minns han alltid ska vara tillgänglig.
+
+**[01:06:15.620 - 01:06:16.620]** Ajour på jour.
+
+**[01:06:16.620 - 01:06:17.620]** Dygnet runt.
+
+**[01:06:17.620 - 01:06:19.620]** Alla timmar på dygnet.
+
+**[01:06:19.620 - 01:06:21.620]** Det är helt orimligt.
+
+**[01:06:21.620 - 01:06:22.620]** Och att liksom.
+
+**[01:06:22.620 - 01:06:23.620]** Jag har sett.
+
+**[01:06:23.620 - 01:06:24.620]** mejl.
+
+**[01:06:24.620 - 01:06:25.620]** Mejl.
+
+**[01:06:25.620 - 01:06:26.620]** Exempelvis.
+
+**[01:06:26.620 - 01:06:27.620]** Från någon som sitter och skriver.
+
+**[01:06:27.620 - 01:06:29.620]** Att man inte får tag på vdn.
+
+**[01:06:29.620 - 01:06:31.620]** Och därmed är det oseriöst företag.
+
+**[01:06:31.620 - 01:06:33.620]** Men det tycker jag är helt jävla.
+
+**[01:06:33.620 - 01:06:34.620]** Ursäkta mig.
+
+**[01:06:34.620 - 01:06:36.100]** Det är ju.
+
+**[01:06:36.100 - 01:06:37.100]** Är det verkligen.
+
+**[01:06:37.100 - 01:06:39.100]** Är det verkligen.
+
+**[01:06:39.100 - 01:06:41.100]** Så att det ska vara ett oseriöst företag.
+
+**[01:06:41.100 - 01:06:42.100]** Bara för att man inte.
+
+**[01:06:42.100 - 01:06:44.100]** Får lov att prata med vdn.
+
+**[01:06:44.100 - 01:06:46.100]** Om jag ringer till Spotify.
+
+**[01:06:46.100 - 01:06:47.100]** Eller Klarna nu.
+
+**[01:06:47.100 - 01:06:49.100]** Och kräver att få prata med vdn.
+
+**[01:06:49.100 - 01:06:51.100]** Kommer jag få det då.
+
+**[01:06:51.100 - 01:06:53.100]** Om jag frågar alla på Klarna.
+
+**[01:06:53.100 - 01:06:54.100]** I deras kundtjänst.
+
+**[01:06:54.100 - 01:06:55.100]** Vad de heter.
+
+**[01:06:55.100 - 01:06:56.100]** I afternamn.
+
+**[01:06:56.100 - 01:06:57.100]** Om jag skulle vilja det.
+
+**[01:06:57.100 - 01:06:58.100]** De kommer säga till mig.
+
+**[01:06:58.100 - 01:07:00.100]** Det har inte du med att göra.
+
+**[01:07:00.100 - 01:07:01.100]** Nähe.
+
+**[01:07:01.100 - 01:07:02.100]** Men har du någon överordnad.
+
+**[01:07:02.100 - 01:07:03.100]** Liksom så här.
+
+**[01:07:03.100 - 01:07:04.100]** Men jag har frågat dem.
+
+**[01:07:04.100 - 01:07:05.100]** Vi har ju hjälpt.
+
+**[01:07:05.100 - 01:07:07.100]** Jättemånga kunder med att skapa e-handelsbutiker.
+
+**[01:07:07.100 - 01:07:08.100]** I en kontexträtta.
+
+**[01:07:08.100 - 01:07:10.100]** Och därmed också haft att göra med Klarna.
+
+**[01:07:10.100 - 01:07:12.100]** Så jag vet därför jag pratar av erfarenhet.
+
+**[01:07:12.100 - 01:07:13.100]** Liksom.
+
+**[01:07:13.100 - 01:07:14.100]** Men de här företagen.
+
+**[01:07:14.100 - 01:07:15.100]** De har inga efternamn.
+
+**[01:07:15.100 - 01:07:17.100]** Människorna som jobbar där.
+
+**[01:07:17.100 - 01:07:18.540]** Liksom.
+
+**[01:07:18.540 - 01:07:19.540]** Det finns ingen överordnad.
+
+**[01:07:19.540 - 01:07:20.540]** Ingen chef.
+
+**[01:07:20.540 - 01:07:21.540]** Att prata med.
+
+**[01:07:21.540 - 01:07:23.540]** Men man behöver liksom komma.
+
+**[01:07:23.540 - 01:07:26.640]** Alltså fram till en lösning på ett problem.
+
+**[01:07:26.640 - 01:07:28.640]** Och man kommer ingen vart med människan man pratar med.
+
+**[01:07:28.640 - 01:07:29.640]** Och vdn.
+
+**[01:07:29.640 - 01:07:30.640]** Att få prata med vdn.
+
+**[01:07:30.640 - 01:07:31.640]** Skämtar ni eller?
+
+**[01:07:31.640 - 01:07:32.640]** Vadå.
+
+**[01:07:32.640 - 01:07:33.640]** Ska jag bara ringa Arla och säga tja.
+
+**[01:07:33.640 - 01:07:35.640]** Jag vill snacka med vdn.
+
+**[01:07:35.640 - 01:07:36.640]** Nej det går inte tyvärr.
+
+**[01:07:36.640 - 01:07:37.640]** Hanin.
+
+**[01:07:37.640 - 01:07:38.640]** Dessutom i det här fallet.
+
+**[01:07:38.640 - 01:07:39.640]** För att vara helt ärlig.
+
+**[01:07:39.640 - 01:07:40.640]** Så var jag dessutom i Rådås.
+
+**[01:07:40.640 - 01:07:43.640]** Så en människa har försökt få tag på mig.
+
+**[01:07:43.640 - 01:07:45.090]** Skrivit i mejl.
+
+**[01:07:45.090 - 01:07:46.090]** Att det.
+
+**[01:07:46.090 - 01:07:48.090]** Inte är möjligt att komma i kontakt med vd.
+
+**[01:07:48.090 - 01:07:50.090]** Och så sitter jag med min familj på Rådås.
+
+**[01:07:50.090 - 01:07:51.090]** Första gången på åtta år.
+
+**[01:07:51.090 - 01:07:52.090]** Så tar jag en resa.
+
+**[01:07:52.090 - 01:07:54.090]** Det kan ni gå in på min Instagram och kolla själva.
+
+**[01:07:54.090 - 01:07:57.340]** Men känns fakturan tidigare då eller?
+
+**[01:07:57.340 - 01:08:00.340]** Den är helt grundad i det faktiska resultatet.
+
+**[01:08:00.340 - 01:08:02.340]** Vi vill göra den så tidigt som möjligt.
+
+**[01:08:02.340 - 01:08:03.340]** Så då kommer vi på dig en idé.
+
+**[01:08:03.340 - 01:08:04.340]** Då är det ju smart.
+
+**[01:08:04.340 - 01:08:06.340]** Om man inte beskriver de fraserna då.
+
+**[01:08:06.340 - 01:08:07.340]** Rakt upp och ner.
+
+**[01:08:07.340 - 01:08:08.340]** Det här är dagarna.
+
+**[01:08:08.340 - 01:08:11.340]** Du har synts på de här fraserna.
+
+**[01:08:11.340 - 01:08:12.340]** Och det här har kostat.
+
+**[01:08:12.340 - 01:08:13.340]** Så har det varit 13 dagar.
+
+**[01:08:13.340 - 01:08:15.340]** Inte 30 då står det där.
+
+**[01:08:15.340 - 01:08:16.340]** Och det här är ju.
+
+**[01:08:16.340 - 01:08:19.340]** Den genereras ju genom en API mellan.
+
+**[01:08:19.340 - 01:08:21.340]** Portnox och Google.
+
+**[01:08:21.340 - 01:08:24.340]** Så det är ju en automatiserad färdsektor.
+
+**[01:08:24.340 - 01:08:25.340]** Det är ju det som är coola.
+
+**[01:08:25.340 - 01:08:27.340]** Men om jag ska ställa en ärlig fråga.
+
+**[01:08:27.340 - 01:08:28.340]** Så här då till dig Matilda.
+
+**[01:08:28.340 - 01:08:32.300]** Förstår du nu lite min oro inför detta?
+
+**[01:08:32.300 - 01:08:34.300]** Att vi har ju anlitat en aktör.
+
+**[01:08:34.300 - 01:08:36.300]** Initialt liksom.
+
+**[01:08:36.300 - 01:08:38.300]** Som vi insåg gjorde bort sig uppenbarligen.
+
+**[01:08:38.300 - 01:08:42.300]** Sen gick vi till botten och tagit kontakt med alla de här kunderna.
+
+**[01:08:42.300 - 01:08:43.300]** Som det berört.
+
+**[01:08:43.300 - 01:08:44.300]** Alla dem.
+
+**[01:08:44.300 - 01:08:45.300]** Alla, ja.
+
+**[01:08:45.300 - 01:08:47.300]** Och sen om man inte uppfattat det.
+
+**[01:08:47.300 - 01:08:48.300]** Då beklagar jag det.
+
+**[01:08:48.300 - 01:08:49.300]** Då har man ju problem med att inte uppfatta korrekt.
+
+**[01:08:49.300 - 01:08:51.300]** Fatta korrekt saker.
+
+**[01:08:51.300 - 01:08:53.300]** Ja alltså en uppsägning.
+
+**[01:08:53.300 - 01:08:55.400]** När den har kommit in.
+
+**[01:08:55.400 - 01:08:56.400]** Då är det ju precis.
+
+**[01:08:56.400 - 01:08:58.400]** Om du lyser en bil.
+
+**[01:08:58.400 - 01:09:00.780]** Eller om du hyr en lägenhet.
+
+**[01:09:00.780 - 01:09:01.780]** Och du säger upp den lägenheten.
+
+**[01:09:01.780 - 01:09:02.780]** Har du inte uppsägningstid.
+
+**[01:09:02.780 - 01:09:04.780]** Har du inte ett avtal som löper.
+
+**[01:09:04.780 - 01:09:06.780]** Hur lång är uppsägningstiden?
+
+**[01:09:06.780 - 01:09:08.780]** Jo men alltså.
+
+**[01:09:08.780 - 01:09:09.780]** Då har vi väl.
+
+**[01:09:09.780 - 01:09:11.780]** Om du binder dig på en lägenhet i ett år.
+
+**[01:09:11.780 - 01:09:14.780]** Och efter tre månader så ringer du och säger upp lägenheten.
+
+**[01:09:14.780 - 01:09:18.010]** Är inte bindningstiden fortfarande ett år för dig.
+
+**[01:09:18.010 - 01:09:20.040]** Det du kommer få tillbaks av.
+
+**[01:09:20.040 - 01:09:21.040]** Är väl att.
+
+**[01:09:21.040 - 01:09:23.040]** Ja men då har vi mottagit din uppsägning.
+
+**[01:09:23.040 - 01:09:27.100]** Det finns även de som då känner att de har gått med på.
+
+**[01:09:27.100 - 01:09:29.230]** En prov månad.
+
+**[01:09:29.230 - 01:09:30.230]** Det är det de har sett.
+
+**[01:09:30.230 - 01:09:32.230]** För jag har pratat med.
+
+**[01:09:32.230 - 01:09:33.230]** Det är det de som har sagt.
+
+**[01:09:33.230 - 01:09:35.230]** Att de har fått minskinformation.
+
+**[01:09:35.230 - 01:09:36.420]** Om att.
+
+**[01:09:36.420 - 01:09:37.420]** Det du har sådana för månader.
+
+**[01:09:37.420 - 01:09:39.420]** Som kan avslutas automatiskt.
+
+**[01:09:39.420 - 01:09:41.420]** Ja då är det definitivt.
+
+**[01:09:41.420 - 01:09:42.420]** Ja.
+
+**[01:09:42.420 - 01:09:44.420]** I det precis initiala skedet där.
+
+**[01:09:44.420 - 01:09:46.420]** Och detta har varit ju bortom vår kontroll.
+
+**[01:09:46.420 - 01:09:47.420]** Men när det kom till vår.
+
+**[01:09:47.420 - 01:09:49.420]** Känner de att det inte sker på rätt.
+
+**[01:09:49.420 - 01:09:50.420]** Premisser.
+
+**[01:09:50.420 - 01:09:51.420]** Eller någonting.
+
+**[01:09:51.420 - 01:09:52.420]** Det är någonting som inte stämmer.
+
+**[01:09:52.420 - 01:09:53.420]** Det osar.
+
+**[01:09:53.420 - 01:09:54.420]** Vad säger man.
+
+**[01:09:54.420 - 01:09:56.420]** Alltså det började.
+
+**[01:09:56.420 - 01:09:57.420]** Det började med något mejl.
+
+**[01:09:57.420 - 01:09:58.420]** Någon kundtjänstgrej.
+
+**[01:09:58.420 - 01:09:59.420]** Eller vad det nu kan ha varit.
+
+**[01:09:59.420 - 01:10:00.420]** Kommer inte ihåg exakt.
+
+**[01:10:00.420 - 01:10:01.420]** Jo.
+
+**[01:10:01.420 - 01:10:02.420]** Men det här med återkoppla.
+
+**[01:10:02.420 - 01:10:04.420]** Det var där det började.
+
+**[01:10:04.420 - 01:10:05.420]** Ja.
+
+**[01:10:05.420 - 01:10:07.420]** Det var då vi märkte att det här är något.
+
+**[01:10:07.420 - 01:10:09.420]** Vi ringer om 28 dagar eller något sånt där.
+
+**[01:10:09.420 - 01:10:10.420]** Har de ju sagt.
+
+**[01:10:10.420 - 01:10:12.420]** Det är ju löften som i så fall.
+
+**[01:10:12.420 - 01:10:13.420]** De får hålla.
+
+**[01:10:13.420 - 01:10:14.420]** Som har lovat detta.
+
+**[01:10:14.420 - 01:10:15.420]** Ja.
+
+**[01:10:15.420 - 01:10:16.420]** Skapa falket.
+
+**[01:10:16.420 - 01:10:18.420]** Vi har inte de resurserna eller möjligheter att åter.
+
+**[01:10:18.420 - 01:10:19.420]** Hur ska vi kunna.
+
+**[01:10:19.420 - 01:10:21.420]** Det är helt omöjligt för oss.
+
+**[01:10:21.420 - 01:10:22.420]** En sådan sak.
+
+**[01:10:22.420 - 01:10:24.420]** Vi behöver ju sitta och producera en hel hemsida.
+
+**[01:10:24.420 - 01:10:27.420]** Se till att den rankar på Google för att ens se hur många pengar.
+
+**[01:10:27.420 - 01:10:29.420]** Tre eller fyra månader efteråt.
+
+**[01:10:29.420 - 01:10:30.420]** För det ska ranka också.
+
+**[01:10:30.420 - 01:10:32.420]** Det ska hinna lanseras med.
+
+**[01:10:32.420 - 01:10:33.420]** Men.
+
+**[01:10:33.420 - 01:10:34.420]** Så att.
+
+**[01:10:34.420 - 01:10:35.420]** Det är därför.
+
+**[01:10:35.420 - 01:10:37.420]** Vi upplever att det finns en risk här.
+
+**[01:10:37.420 - 01:10:38.420]** Att Boråstidning kommer hit.
+
+**[01:10:38.420 - 01:10:40.420]** Missförstått hela skiten.
+
+**[01:10:40.420 - 01:10:42.420]** Skriver en jävla skitartikel om oss.
+
+**[01:10:42.420 - 01:10:44.420]** Dödar det finaste som har hänt Borås i princip.
+
+**[01:10:44.420 - 01:10:46.420]** Och det svenska näringslivet och det digitala.
+
+**[01:10:46.420 - 01:10:47.420]** Just like that.
+
+**[01:10:47.420 - 01:10:49.420]** När det egentligen är.
+
+**[01:10:49.420 - 01:10:51.420]** Det här som har hänt.
+
+**[01:10:51.420 - 01:10:53.420]** Och samtidigt så har jag rådgivare runt omkring mig som säger.
+
+**[01:10:53.420 - 01:10:54.420]** Du får inte.
+
+**[01:10:54.420 - 01:10:55.420]** Du får inte.
+
+**[01:10:55.420 - 01:10:56.420]** Du får inte säga.
+
+**[01:10:56.420 - 01:10:57.420]** Vilket bolag du anlitat.
+
+**[01:10:57.420 - 01:10:58.420]** Varför inte då.
+
+**[01:10:58.420 - 01:11:00.420]** Jag vill säga både bolagsnamn och adress.
+
+**[01:11:00.420 - 01:11:02.420]** Jag vill skicka dit dem så de får göra en vallraffa för fan.
+
+**[01:11:02.420 - 01:11:03.420]** De kommer kunna.
+
+**[01:11:03.420 - 01:11:04.420]** Herregud vilket reportage.
+
+**[01:11:04.420 - 01:11:08.420]** För jag är numera blivit klokare och vet vad det är för för.
+
+**[01:11:08.420 - 01:11:09.420]** Förbannad.
+
+**[01:11:09.420 - 01:11:10.420]** Ursäkta.
+
+**[01:11:10.420 - 01:11:11.420]** Bolag jag råkade anlita då.
+
+**[01:11:11.420 - 01:11:12.420]** Det ansvaret tar jag.
+
+**[01:11:12.420 - 01:11:14.420]** till hundra procent som vd.
+
+**[01:11:14.420 - 01:11:16.420]** För detta bolaget Nordic Digitalization.
+
+**[01:11:16.420 - 01:11:17.420]** Jag tänker fortfarande.
+
+**[01:11:17.420 - 01:11:19.420]** Att jag gjorde ett felaktigt beslut.
+
+**[01:11:19.420 - 01:11:20.420]** Precis.
+
+**[01:11:20.420 - 01:11:21.420]** Jag tog ett beslut.
+
+**[01:11:21.420 - 01:11:24.420]** Och funderar jättemysnöjda och vill då säga upp sina avtal.
+
+**[01:11:24.420 - 01:11:25.420]** Det går inte.
+
+**[01:11:25.420 - 01:11:27.420]** Det är klart det går.
+
+**[01:11:27.420 - 01:11:28.420]** Att det faktiskt har gått ett år.
+
+**[01:11:28.420 - 01:11:31.420]** Nej men avtalstiden är ju ett år.
+
+**[01:11:31.420 - 01:11:34.420]** Men vi kommer inte bryta det även om det är så att kunderna känner sig grundbyggdade.
+
+**[01:11:34.420 - 01:11:39.420]** Också av ett bolag som du själv säger att vi är väldigt nyssnöjda då.
+
+**[01:11:39.420 - 01:11:44.510]** Nej men det går inte att uttala sig.
+
+**[01:11:44.510 - 01:11:45.510]** För ni måste förstå.
+
+**[01:11:45.510 - 01:11:46.510]** Det är många.
+
+**[01:11:46.510 - 01:11:47.510]** Vi anser att det gör det.
+
+**[01:11:47.510 - 01:11:49.510]** Alltså fattar ingen här.
+
+**[01:11:49.510 - 01:11:54.510]** Alltså hur många risker det är att vi blir missförstådda som existerar här.
+
+**[01:11:54.510 - 01:11:59.770]** Nej men istället för att det då är prestationsbaserat så kan.
+
+**[01:11:59.770 - 01:12:00.770]** Så har vi med datumon.
+
+**[01:12:00.770 - 01:12:02.770]** Men då är det linjärt.
+
+**[01:12:02.770 - 01:12:03.770]** Så att du vet.
+
+**[01:12:03.770 - 01:12:06.770]** En stabil plan om du ogillar att det flukterar.
+
+**[01:12:06.770 - 01:12:07.770]** Liksom.
+
+**[01:12:07.770 - 01:12:11.770]** Men då är det först efter att man har visat en prestation.
+
+**[01:12:11.770 - 01:12:12.770]** Att de.
+
+**[01:12:12.770 - 01:12:14.770]** Det är det som är grejen.
+
+**[01:12:14.770 - 01:12:17.770]** Vi vill inte att kunderna ska köpa grisen i säcken.
+
+**[01:12:17.770 - 01:12:18.770]** Alltså tänk om alla.
+
+**[01:12:18.770 - 01:12:20.770]** Tänk om ni kunde ha gjort så också.
+
+**[01:12:20.770 - 01:12:21.770]** Att ni liksom.
+
+**[01:12:21.770 - 01:12:23.770]** Får bara betalt.
+
+**[01:12:23.770 - 01:12:24.770]** Betalt.
+
+**[01:12:24.770 - 01:12:27.770]** Per antalet personer som bokstavligen läst.
+
+**[01:12:27.770 - 01:12:29.770]** Eran upplaga i.
+
+**[01:12:29.770 - 01:12:31.770]** Låt säga i tryckt format.
+
+**[01:12:31.770 - 01:12:33.770]** För att i det tryckta formatet har ni implementerat ett chip.
+
+**[01:12:33.770 - 01:12:35.770]** Som gör att man ser.
+
+**[01:12:35.770 - 01:12:36.770]** Som ser varandra persons ögon.
+
+**[01:12:36.770 - 01:12:38.770]** Ögon hur de går.
+
+**[01:12:38.770 - 01:12:39.770]** Liksom så här.
+
+**[01:12:39.770 - 01:12:43.080]** Baserat på det tar ni betalt.
+
+**[01:12:43.080 - 01:12:44.080]** Bokstavligen liksom.
+
+**[01:12:44.080 - 01:12:46.080]** Det är som om jag nu ska jämföra.
+
+**[01:12:46.080 - 01:12:48.080]** Alltså försöka i alla fall jämföra.
+
+**[01:12:48.080 - 01:12:50.080]** Och det är vad vi har skapat här.
+
+**[01:12:50.080 - 01:12:53.080]** Vi har skapat någonting som bara fakturerar när det presterat.
+
+**[01:12:53.080 - 01:12:54.080]** Redan.
+
+**[01:12:54.080 - 01:12:55.080]** Jag tar ett exempel.
+
+**[01:12:55.080 - 01:12:57.080]** I Borås så har vi en frisörsalong.
+
+**[01:12:57.080 - 01:12:58.080]** Som har våran tjänst.
+
+**[01:12:58.080 - 01:12:59.080]** Och hade vi.
+
+**[01:12:59.080 - 01:13:00.080]** Hur många var det?
+
+**[01:13:00.080 - 01:13:01.080]** Fyrtiotal.
+
+**[01:13:01.080 - 01:13:02.080]** Ett fyrtiotal förfrågningar.
+
+**[01:13:02.080 - 01:13:04.080]** Som man hade fått under en 30 dagars period.
+
+**[01:13:04.080 - 01:13:05.080]** Bakåt sett.
+
+**[01:13:05.080 - 01:13:07.080]** Fakturan var på.
+
+**[01:13:07.080 - 01:13:08.080]** 2 900 någonstans.
+
+**[01:13:08.080 - 01:13:09.080]** Ex moms.
+
+**[01:13:09.080 - 01:13:12.080]** Och det var ett fyrtiotal förfrågningar.
+
+**[01:13:12.080 - 01:13:14.080]** Som vi ser i datan.
+
+**[01:13:14.080 - 01:13:15.080]** Alltså man har gått in.
+
+**[01:13:15.080 - 01:13:17.080]** Man har så sökt frisörsalongbrås.
+
+**[01:13:17.080 - 01:13:18.080]** Eller hårförlängningbrås.
+
+**[01:13:18.080 - 01:13:19.080]** Eller hårfärgningbrås.
+
+**[01:13:19.080 - 01:13:21.080]** Eller vad det nu kan vara.
+
+**[01:13:21.080 - 01:13:23.140]** Klickat på den här sajten.
+
+**[01:13:23.140 - 01:13:24.140]** Våran kund.
+
+**[01:13:24.140 - 01:13:25.140]** Och man använder våran platform.
+
+**[01:13:25.140 - 01:13:28.100]** De är topp 10 på Google.
+
+**[01:13:28.100 - 01:13:30.100]** Använt formuläret.
+
+**[01:13:30.100 - 01:13:31.100]** Valt.
+
+**[01:13:31.100 - 01:13:33.100]** Jag av alla tjänster som man kan välja där.
+
+**[01:13:33.100 - 01:13:35.100]** Jag vill ha hårförlängning.
+
+**[01:13:35.100 - 01:13:36.100]** Klick.
+
+**[01:13:36.100 - 01:13:37.620]** Och bokat en tid.
+
+**[01:13:37.620 - 01:13:39.620]** Och sedan 30 dagar efteråt.
+
+**[01:13:39.620 - 01:13:41.620]** Så har de fått.
+
+**[01:13:41.620 - 01:13:43.620]** En faktura ställts ut.
+
+**[01:13:43.620 - 01:13:44.620]** Till det här bolaget då.
+
+**[01:13:44.620 - 01:13:46.620]** Alltså föreställer att de syns i 30 dagar.
+
+**[01:13:46.620 - 01:13:48.620]** På hårförlängningar.
+
+**[01:13:48.620 - 01:13:50.620]** Det kommer in människor dagligen.
+
+**[01:13:50.620 - 01:13:52.620]** Och drar sitt kort.
+
+**[01:13:52.620 - 01:13:53.620]** I kassan.
+
+**[01:13:53.620 - 01:13:56.580]** Så de pengarna kommer direkt in på deras konto.
+
+**[01:13:56.580 - 01:13:59.580]** Och hela 30 dagar efter detta.
+
+**[01:13:59.580 - 01:14:01.580]** Så får de en faktura ifrån oss.
+
+**[01:14:01.580 - 01:14:02.580]** På 2 900 kronor ex mom.
+
+**[01:14:02.580 - 01:14:04.580]** Som avser föregående månads resultat.
+
+**[01:14:04.580 - 01:14:07.740]** Att ni syns på Google i 30 dagar.
+
+**[01:14:07.740 - 01:14:09.740]** Då har ju de redan fått.
+
+**[01:14:09.740 - 01:14:12.790]** 10 gånger pengarna kanske.
+
+**[01:14:12.790 - 01:14:14.790]** På kontot AI i form av kunder.
+
+**[01:14:14.790 - 01:14:16.790]** Och betalar oss 2 och 9 av det.
+
+**[01:14:16.790 - 01:14:17.790]** Förstår ni vad jag menar.
+
+**[01:14:17.790 - 01:14:19.790]** Alltså det har hunnit komma kunder och dra sitt kort.
+
+**[01:14:19.790 - 01:14:21.790]** För de har googlat ju.
+
+**[01:14:21.790 - 01:14:22.790]** Och hittat.
+
+**[01:14:22.790 - 01:14:23.790]** Och gått hit.
+
+**[01:14:23.790 - 01:14:24.790]** Och dratt kortet.
+
+**[01:14:24.790 - 01:14:25.790]** Och det har vi ju data på.
+
+**[01:14:25.790 - 01:14:27.860]** Så jag menar det kan inte bli mer rättvist än så här.
+
+**[01:14:27.860 - 01:14:31.860]** Och om det är någon som har ett förslag på hur det skulle kunna bli mer rättvist än så här.
+
+**[01:14:31.860 - 01:14:33.860]** Så jag är väldigt mottaglig för det.
+
+**[01:14:33.860 - 01:14:35.860]** Men efter att ni dröts med det här bolaget.
+
+**[01:14:35.860 - 01:14:36.860]** Ja.
+
+**[01:14:36.860 - 01:14:40.860]** Hur har ni då gjort för att kommunicera med kund som ska hända igen då?
+
+**[01:14:40.860 - 01:14:43.860]** Har ni någon aktuella förmall och visa oss?
+
+**[01:14:43.860 - 01:14:45.860]** Nej vi har inga mallar.
+
+**[01:14:45.860 - 01:14:46.860]** Jag vet inte riktigt vad.
+
+**[01:14:46.860 - 01:14:48.860]** Vad får de ni anställer?
+
+**[01:14:48.860 - 01:14:49.860]** Ja.
+
+**[01:14:49.860 - 01:14:50.860]** De får en utbildning.
+
+**[01:14:50.860 - 01:14:51.860]** Alltså muntligen.
+
+**[01:14:51.860 - 01:14:53.860]** Och där vi visar upp på tvn.
+
+**[01:14:53.860 - 01:14:54.860]** Det här så här känns den ut.
+
+**[01:14:54.860 - 01:14:55.860]** Så här fungerar den.
+
+**[01:14:55.860 - 01:14:58.860]** Så här fungerar sökmotoroptimering generellt sett.
+
+**[01:15:00.860 - 01:15:03.860]** Ni får absolut inte lova någonting.
+
+**[01:15:03.860 - 01:15:04.860]** Alltså saker och ting.
+
+**[01:15:04.860 - 01:15:06.860]** Ni kan lova att.
+
+**[01:15:06.860 - 01:15:09.860]** Saker som att jag lovar att göra mitt bästa.
+
+**[01:15:09.860 - 01:15:12.860]** Eller att det här teamet kommer göra sitt bästa.
+
+**[01:15:12.860 - 01:15:22.860]** Någonstans så måste man tänka på att vi utformar den här chansen för att man inte ens ska kunna fula sig och slåva saker man inte kan hålla.
+
+**[01:15:22.860 - 01:15:25.860]** Jag trodde dock i all ärlighetens namn.
+
+**[01:15:25.860 - 01:15:27.860]** Aldrig i mitt huvud.
+
+**[01:15:27.860 - 01:15:29.860]** Att någon idiot ursäkta skulle sitta och säga.
+
+**[01:15:29.860 - 01:15:33.110]** Ja men jag ringer dem 28 dagar och skit i det.
+
+**[01:15:33.110 - 01:15:36.110]** Det kom oss till vår kännedom alldeles för sent.
+
+**[01:15:36.110 - 01:15:40.110]** Men eftersom bildningstiden har varit en grej som kunderna har känt sig lurade av.
+
+**[01:15:40.110 - 01:15:43.110]** Har ni ändrat på något sätt hur ni kommunicerat kring det än idag?
+
+**[01:15:43.110 - 01:15:46.110]** Jag tror att ni är jätteäpport och supertidiga med det här.
+
+**[01:15:46.110 - 01:15:48.110]** Det är bara att tro.
+
+**[01:15:48.110 - 01:15:54.110]** Men jag ser ingen anledning av att varför skulle vi inte se det.
+
+**[01:15:54.110 - 01:15:56.110]** Nej, nej.
+
+**[01:15:56.110 - 01:15:58.110]** Vi vill ju bara väl här.
+
+**[01:15:58.110 - 01:16:02.110]** Och det är det som är den största farvågan att ni inte ska förstå det.
+
+**[01:16:02.110 - 01:16:05.110]** Att ni ska gå på två, tre eller fyra eller vad det nu kan vara.
+
+**[01:16:05.110 - 01:16:06.110]** Jag vet inte.
+
+**[01:16:06.110 - 01:16:09.110]** Vad det är för människor eller vilka ni har varit i kontakt med liksom.
+
+**[01:16:09.110 - 01:16:12.110]** Och sen det är klart att om en säljare inte presterar som ni uttrycker det.
+
+**[01:16:12.110 - 01:16:14.110]** Jag säger affärsutvecklare återigen.
+
+**[01:16:14.110 - 01:16:15.110]** Men strunt samma.
+
+**[01:16:15.110 - 01:16:16.110]** Okej, det där laget.
+
+**[01:16:16.110 - 01:16:17.110]** Kärt barnbånga namn.
+
+**[01:16:17.110 - 01:16:21.110]** Om den personen har fulat sig eller på något sätt sagt någonting.
+
+**[01:16:21.110 - 01:16:23.110]** Och så har vi kvalitetskontroll.
+
+**[01:16:23.110 - 01:16:25.430]** Och så har vi lyssnat och tänkt.
+
+**[01:16:25.430 - 01:16:29.430]** Nu har människan lovat eller sagt något som inte stämmer eller agerat.
+
+**[01:16:29.430 - 01:16:32.430]** Det var ju en person exempelvis som pratade iranska fick vi höra.
+
+**[01:16:32.430 - 01:16:33.430]** Med flera.
+
+**[01:16:33.430 - 01:16:35.430]** Alltså det var så man betedde sig då.
+
+**[01:16:35.430 - 01:16:37.430]** Hur ska jag kunna veta iranska?
+
+**[01:16:37.430 - 01:16:38.430]** Jag kan inte.
+
+**[01:16:38.430 - 01:16:40.430]** Så då fick den här människan gå.
+
+**[01:16:40.430 - 01:16:41.430]** Såklart.
+
+**[01:16:41.430 - 01:16:43.430]** Är det henne ni har varit i kontakt med?
+
+**[01:16:43.430 - 01:16:44.460]** Muna.
+
+**[01:16:44.460 - 01:16:46.460]** Det här med säljmallar.
+
+**[01:16:46.460 - 01:16:47.460]** Titta Matilda.
+
+**[01:16:47.460 - 01:16:49.460]** Hon pratar iranska med människorna.
+
+**[01:16:49.460 - 01:16:50.460]** Hur ska jag kunna veta vad hon säger?
+
+**[01:16:50.460 - 01:16:52.460]** Jag vet inte att du kommer göra det.
+
+**[01:16:52.460 - 01:16:54.460]** Men jag ser i dina ögonen att det är hon.
+
+**[01:16:54.460 - 01:16:55.880]** Så.
+
+**[01:16:55.880 - 01:16:56.880]** Men ja.
+
+**[01:16:56.880 - 01:16:57.880]** Tyvärr.
+
+**[01:16:57.880 - 01:16:58.880]** Men jag är ledsen.
+
+**[01:16:58.880 - 01:16:59.880]** Så det här med säljmall då.
+
+**[01:16:59.880 - 01:17:02.880]** Eftersom vi har pratat med en person som har ett anställt i ditt bolag.
+
+**[01:17:02.880 - 01:17:04.880]** Nordic Digitalization.
+
+**[01:17:04.880 - 01:17:06.880]** Då säger ni att du inte håller med om dig då.
+
+**[01:17:06.880 - 01:17:08.880]** Du säger att det inte finns någon säljmall.
+
+**[01:17:08.880 - 01:17:10.880]** Det har ju varit säljmall.
+
+**[01:17:10.880 - 01:17:12.880]** Det har ju varit säljchef som har varit med.
+
+**[01:17:12.880 - 01:17:13.880]** Precis i början där.
+
+**[01:17:13.880 - 01:17:16.880]** Så anställde jag en person som skulle bli säljchef.
+
+**[01:17:16.880 - 01:17:19.880]** Eller som skulle ha en befattning som säljchef här.
+
+**[01:17:19.880 - 01:17:20.880]** Alltså.
+
+**[01:17:20.880 - 01:17:21.880]** Ni frågar helt enkelt.
+
+**[01:17:21.880 - 01:17:22.880]** Ha hand om detta.
+
+**[01:17:22.880 - 01:17:23.880]** Ni får helt enkelt.
+
+**[01:17:23.880 - 01:17:24.880]** Är det inte enskilda ansvar för att ni har haft säljmallar över huvud taget.
+
+**[01:17:24.880 - 01:17:26.880]** Men du säger att ni inte har det.
+
+**[01:17:26.880 - 01:17:27.880]** Ni får ha en multiutbildning.
+
+**[01:17:27.880 - 01:17:28.880]** Hur är det?
+
+**[01:17:28.880 - 01:17:29.880]** Hur är det?
+
+**[01:17:29.880 - 01:17:30.880]** Alltså har ni haft säljmallar eller inte?
+
+**[01:17:30.880 - 01:17:31.880]** Just nu eller då?
+
+**[01:17:31.880 - 01:17:32.880]** Just nu eller då?
+
+**[01:17:32.880 - 01:17:34.880]** När ni tog över efter det här bolagen.
+
+**[01:17:34.880 - 01:17:36.880]** För de hade ju förbarnligen något som var säljmall.
+
+**[01:17:36.880 - 01:17:37.880]** Eller?
+
+**[01:17:37.880 - 01:17:38.880]** Ja.
+
+**[01:17:38.880 - 01:17:39.880]** Vi var ju själv.
+
+**[01:17:39.880 - 01:17:42.880]** Alltså varför vi tog fram en sån mall.
+
+**[01:17:42.880 - 01:17:44.880]** Eller kanske var mer riktlinje.
+
+**[01:17:44.880 - 01:17:46.880]** Det var ni som tog fram den alltså?
+
+**[01:17:46.880 - 01:17:47.880]** Nej men alltså.
+
+**[01:17:47.880 - 01:17:49.880]** Vi är ju något sånt i sig.
+
+**[01:17:49.880 - 01:17:54.880]** För vi tänkte att vi måste själva kunna förklara vår egen tjänst.
+
+**[01:17:54.880 - 01:17:57.880]** Jag vet inte om vi pratade om olika saker.
+
+**[01:17:57.880 - 01:17:59.880]** Det var ju väldigt nytt.
+
+**[01:17:59.880 - 01:18:03.880]** Vi visste knappast själv och vilket håll vi skulle dra åt egentligen.
+
+**[01:18:03.880 - 01:18:08.880]** Hur vi skulle skapa identitet om bolaget om varumärket och sådär.
+
+**[01:18:08.880 - 01:18:12.880]** I samband med det så spreds det någonting.
+
+**[01:18:12.880 - 01:18:15.880]** Men var de sa till kunderna.
+
+**[01:18:15.880 - 01:18:21.880]** Det får ju den dåvarande...
+
+**[01:18:21.880 - 01:18:25.740]** Alltså det bolaget vi anbitar eller vad du menade?
+
+**[01:18:25.740 - 01:18:28.740]** Nej jag tänkte på den säljschefen vi anbitar.
+
+**[01:18:28.740 - 01:18:29.740]** Ja.
+
+**[01:18:29.740 - 01:18:30.740]** Men jag tolkar i alla fall.
+
+**[01:18:30.740 - 01:18:33.740]** I alla fall era svar på den kritik vi ställer frågor om.
+
+**[01:18:33.740 - 01:18:36.740]** Är att det antingen är det bolagets spel som vi anlitar det.
+
+**[01:18:36.740 - 01:18:38.740]** Eller enskilda säljare i spel.
+
+**[01:18:38.740 - 01:18:40.740]** Ni tar inte ansvar för det som har kommunicerat.
+
+**[01:18:40.740 - 01:18:42.740]** Till de som har anlitat er övrig.
+
+**[01:18:42.740 - 01:18:44.740]** Jo.
+
+**[01:18:44.740 - 01:18:50.740]** När du säger så så är det självklart att jag i egenskap av vd har det yttersta ansvaret för detta bolag och allt som sker här.
+
+**[01:18:50.740 - 01:18:55.740]** Även om det är någon som spränger sig själv i luften så är det för guds skull mitt ansvar.
+
+**[01:18:55.740 - 01:18:57.740]** Vill jag vara tydlig med.
+
+**[01:18:57.740 - 01:19:01.740]** Men jag tycker också någonstans att man bör ta i beaktning vad är rimligt.
+
+**[01:19:01.740 - 01:19:05.740]** Liksom att en person ska ha koll på allt.
+
+**[01:19:05.740 - 01:19:08.740]** Även kunna alla språk veta vad i ranska...
+
+**[01:19:08.740 - 01:19:09.740]** Alltså jag kan inte iranska.
+
+**[01:19:09.740 - 01:19:10.740]** Jag är ledsen.
+
+**[01:19:10.740 - 01:19:14.740]** Så även om jag har gjort allt i god tro och försökt kvalitetskontrollera.
+
+**[01:19:14.740 - 01:19:17.740]** Hur ska jag kvalitetskontrollera ett iranskt samtal?
+
+**[01:19:17.740 - 01:19:18.740]** Eller förlåt.
+
+**[01:19:18.740 - 01:19:20.740]** Det gjorde vi inte i början.
+
+**[01:19:20.740 - 01:19:22.740]** Det gör vi nu där iåt.
+
+**[01:19:22.740 - 01:19:24.740]** För vi har lärt oss.
+
+**[01:19:24.740 - 01:19:27.740]** Och därför är det så tråkigt att detta kommer nu.
+
+**[01:19:27.740 - 01:19:30.740]** När vi vet att problemen som ni rimligtvis har...
+
+**[01:19:30.740 - 01:19:35.740]** De problematiska kunderna eller de som upplever att de blivit lurade på något sätt eller vad de nu kan vara.
+
+**[01:19:35.740 - 01:19:37.740]** Eller så här.
+
+**[01:19:37.740 - 01:19:41.740]** Det är ju antagligen företagare från början av året.
+
+**[01:19:41.740 - 01:19:46.740]** Men tid har gått sedan dess och vi har implementerat ett eget team in house här.
+
+**[01:19:46.740 - 01:19:49.740]** Som har tagit action på varenda missnöjd människa.
+
+**[01:19:49.740 - 01:19:54.740]** Och så har vi tagit kontrollen över hur vi kommunicerar ut vår tjänst till företag.
+
+**[01:19:54.740 - 01:19:57.740]** Fram och med den dagen.
+
+**[01:19:57.740 - 01:19:59.740]** Men det är klart att det var en rekryteringsprocess.
+
+**[01:19:59.740 - 01:20:03.740]** Och emellan här, typ där någonstans, så drog jag in en herre.
+
+**[01:20:03.740 - 01:20:07.740]** Som jag skulle ansvara för hela den här biten.
+
+**[01:20:07.740 - 01:20:10.740]** För jag har inte den kompetensen att ansvara för allt detta.
+
+**[01:20:10.740 - 01:20:12.740]** Och är kreatör i grunden.
+
+**[01:20:12.740 - 01:20:17.740]** Och här, som jag sa innan, så är det programmerare och AD och utvecklare, copywriter och så allt möjligt.
+
+**[01:20:17.740 - 01:20:20.740]** Så att då anställde jag den här personen.
+
+**[01:20:20.740 - 01:20:25.740]** Och gav honom ansvaret för att kommunicera ut vår produkt på marknaden.
+
+**[01:20:25.740 - 01:20:29.840]** Om han då har tagit fram vad ni kallar mallar.
+
+**[01:20:29.840 - 01:20:31.840]** Jag vet inte vad det är.
+
+**[01:20:31.840 - 01:20:33.840]** Manus kanske ni syftar på eller någonting. Jag vet inte.
+
+**[01:20:33.840 - 01:20:36.840]** Det må hända. Det vet jag inte.
+
+**[01:20:36.840 - 01:20:38.840]** Men han är inte kvar i alla fall.
+
+**[01:20:38.840 - 01:20:41.840]** Han har fått sparken bokstav betalat.
+
+**[01:20:41.840 - 01:20:48.840]** För att vi upptäckte ojämntligheter med hur han coachade eller vad man nu säger.
+
+**[01:20:48.840 - 01:20:50.840]** Muna som jag nämnde tidigare då.
+
+**[01:20:50.840 - 01:20:55.840]** Så det får ni vara snälla och kan kanske inte publicera ett namn som inte...
+
+**[01:20:55.840 - 01:20:58.840]** Men den här personen jag pratade om i alla fall som pratade granska.
+
+**[01:20:58.840 - 01:21:02.350]** Det som du sa att du inte ville kommentera.
+
+**[01:21:02.350 - 01:21:03.350]** Ja.
+
+**[01:21:03.350 - 01:21:09.380]** Hon blev ju anställd av den här personen på ansvarsbeslattningen.
+
+**[01:21:09.380 - 01:21:11.380]** Den här säljchefen då, om jag uttrycker mig så.
+
+**[01:21:11.380 - 01:21:13.820]** Som jag anställde.
+
+**[01:21:13.820 - 01:21:17.820]** Och om han har gett henne någon informat om mall eller skrivit eller någonting.
+
+**[01:21:17.820 - 01:21:19.820]** Det är omöjligt för mig att veta.
+
+**[01:21:19.820 - 01:21:22.820]** För jag kan återigen inte i granska.
+
+**[01:21:22.820 - 01:21:25.820]** Det enda jag kunde göra var att se.
+
+**[01:21:25.820 - 01:21:28.980]** Okej, så Muna har gjort en affär.
+
+**[01:21:28.980 - 01:21:30.980]** Vi har ett skriftligt avtal på svenska.
+
+**[01:21:30.980 - 01:21:32.980]** Det är inte på iranska, det är det som gör det sjuka.
+
+**[01:21:32.980 - 01:21:35.980]** Den är signerat med bankgid av en person.
+
+**[01:21:35.980 - 01:21:39.980]** Men nu har den personen mejlat in massa konstigheter som inte makes no sense.
+
+**[01:21:39.980 - 01:21:40.980]** Basically.
+
+**[01:21:40.980 - 01:21:41.980]** Så vad är problemet här?
+
+**[01:21:41.980 - 01:21:44.980]** Så när vi går in och ska försöka lyssna på vad som har sagts.
+
+**[01:21:44.980 - 01:21:47.980]** Så upptäcker vi att, oh my god, hon sitter och pratar iranska.
+
+**[01:21:47.980 - 01:21:49.980]** Vad fan ska vi göra nu?
+
+**[01:21:49.980 - 01:21:51.980]** Då kan man ju säga jätteenkelt då.
+
+**[01:21:51.980 - 01:21:53.980]** Då borde ni väl ha anlitat en tolk.
+
+**[01:21:53.980 - 01:21:55.980]** Men det är inte så enkelt.
+
+**[01:21:55.980 - 01:21:56.980]** Det funkar inte så.
+
+**[01:21:56.980 - 01:21:57.980]** Det går fort här.
+
+**[01:21:57.980 - 01:21:58.980]** Speciellt i det digitala.
+
+**[01:21:58.980 - 01:22:00.980]** Och det är krav på oss alla som vi ska leverera.
+
+**[01:22:00.980 - 01:22:02.980]** Vi hinner inte anlita en tolk.
+
+**[01:22:02.980 - 01:22:04.980]** Utan det första vi gjorde då var.
+
+**[01:22:04.980 - 01:22:06.980]** Pratar du iranska med människan?
+
+**[01:22:06.980 - 01:22:08.980]** Ja, vi kan inte ens avgöra vad du har sagt.
+
+**[01:22:08.980 - 01:22:09.980]** Det står ord mot ord.
+
+**[01:22:09.980 - 01:22:10.980]** Och hon säger den här kunden.
+
+**[01:22:10.980 - 01:22:12.980]** Att du har sagt det du har sagt.
+
+**[01:22:12.980 - 01:22:14.980]** Då måste vi lita för den här kunden.
+
+**[01:22:14.980 - 01:22:16.980]** Så vi, avtalet är inte giltigt.
+
+**[01:22:16.980 - 01:22:18.980]** Och vi har aldrig gått vidare med något sånt där.
+
+**[01:22:18.980 - 01:22:22.980]** Och det är den röda flaggan med vart vi reagerat på.
+
+**[01:22:22.980 - 01:22:23.980]** Att de pratade på i dag.
+
+**[01:22:23.980 - 01:22:25.980]** Det var ju för våra återförsäljare.
+
+**[01:22:25.980 - 01:22:29.980]** Eller några där som jobbade där innan på det här bolaget.
+
+**[01:22:29.980 - 01:22:31.980]** Så vi pratade på arabiska.
+
+**[01:22:31.980 - 01:22:33.980]** Och då kunde vi inte heller.
+
+**[01:22:33.980 - 01:22:35.980]** Så det blev som en röd flagga.
+
+**[01:22:35.980 - 01:22:38.980]** Åh nej, det är något språk som inte vi förstår.
+
+**[01:22:38.980 - 01:22:40.980]** Då är det lite bra att avsluta det på en gång.
+
+**[01:22:40.980 - 01:22:41.980]** Ja.
+
+**[01:22:41.980 - 01:22:44.980]** Men vi märkte ju också att det fanns problem med.
+
+**[01:22:44.980 - 01:22:49.980]** Eller om det var arabiska som bolaget anlitar för sälj.
+
+**[01:22:49.980 - 01:22:50.980]** Det var väl något?
+
+**[01:22:50.980 - 01:22:51.980]** Nej, det var väl det.
+
+**[01:22:51.980 - 01:22:55.980]** Jo, en säljare som vi bara vet att jag gjorde rätt.
+
+**[01:22:55.980 - 01:22:56.980]** Okej.
+
+**[01:22:56.980 - 01:23:02.560]** Men det var ju viktigt i alla fall att ta över den kvaliteten.
+
+**[01:23:02.560 - 01:23:04.560]** Det som, bara för att liksom säga.
+
+**[01:23:04.560 - 01:23:06.560]** Det vi någonstans kom fram till var ju att okej.
+
+**[01:23:06.560 - 01:23:10.560]** Så även om, för vi vill ju, vi jobbar ju med skriftliga avtal.
+
+**[01:23:10.560 - 01:23:16.560]** Bokstavligt talat för att undvika alla sorters möjliga missuppfattningar per telefon.
+
+**[01:23:16.560 - 01:23:18.560]** Och allt detta liksom.
+
+**[01:23:18.560 - 01:23:22.560]** Och att det inte ska vara så att, hej jag äter Pelikan.
+
+**[01:23:22.560 - 01:23:26.560]** Och jag kommer skita ut guldtackor varje dag morgon till frukost liksom till dig.
+
+**[01:23:26.560 - 01:23:28.560]** Det ska ju inte liksom vara det som gäller.
+
+**[01:23:28.560 - 01:23:30.560]** Utan det ska ju vara det som är skrivet.
+
+**[01:23:30.560 - 01:23:33.560]** Och det är det som är avtalet.
+
+**[01:23:33.560 - 01:23:35.560]** Så vi vill inte, det är liksom.
+
+**[01:23:35.560 - 01:23:39.560]** Vi har ju valt att jobba med digitala bankidesignerade avtal.
+
+**[01:23:39.560 - 01:23:42.560]** För att undvika allt det som hänt nu.
+
+**[01:23:42.560 - 01:23:43.560]** Att vi sitter här.
+
+**[01:23:43.560 - 01:23:44.560]** Säljans A.
+
+**[01:23:44.560 - 01:23:47.560]** Men det är ju totalt skitsamma vad säljans A egentligen.
+
+**[01:23:47.560 - 01:23:50.560]** Om jag ska vara sån i grund och botten.
+
+**[01:23:50.560 - 01:23:51.560]** Det är ju avtalet som gäller.
+
+**[01:23:51.560 - 01:23:54.560]** Däremot så är det klart att man måste ta ansvar.
+
+**[01:23:54.560 - 01:23:56.560]** Vilket jag gjort och vi är har gjort.
+
+**[01:23:56.560 - 01:23:59.560]** Vi har ju ringt upp människorna som har uttryckt att de är missnöjda på något sätt.
+
+**[01:23:59.560 - 01:24:00.560]** Eller känner sig ju lurade.
+
+**[01:24:00.560 - 01:24:01.560]** Och ärligt talat.
+
+**[01:24:01.560 - 01:24:03.560]** När vi har något samförstånd med kunderna så.
+
+**[01:24:03.560 - 01:24:04.560]** Du vet.
+
+**[01:24:04.560 - 01:24:05.560]** Har du sett vad du har fått?
+
+**[01:24:05.560 - 01:24:06.560]** Frågar jag.
+
+**[01:24:06.560 - 01:24:07.560]** Nej.
+
+**[01:24:07.560 - 01:24:08.560]** Vad du har fått till dig.
+
+**[01:24:08.560 - 01:24:12.560]** Men de här välkomst sms och mejlet har du inte öppnat.
+
+**[01:24:12.560 - 01:24:13.560]** Jag vet inte.
+
+**[01:24:13.560 - 01:24:14.560]** Jag har mycket att göra.
+
+**[01:24:14.560 - 01:24:15.560]** Det vet alla.
+
+**[01:24:15.560 - 01:24:19.560]** Okej men gå in på den här domänen så kan du vara vänlig.
+
+**[01:24:19.560 - 01:24:21.560]** Det funkar jättebra i mobilen om du gör det.
+
+**[01:24:21.560 - 01:24:23.170]** Och så går de in.
+
+**[01:24:23.170 - 01:24:25.170]** Oj vad fint.
+
+**[01:24:25.170 - 01:24:26.170]** Vad kul att du tycker det.
+
+**[01:24:26.170 - 01:24:27.170]** Det är det här du har.
+
+**[01:24:27.170 - 01:24:29.170]** Visste du inte om det eller?
+
+**[01:24:29.170 - 01:24:30.170]** Nej.
+
+**[01:24:30.170 - 01:24:34.170]** Okej då har de helt plötsligt förstått och blivit jättenöjda och vill ha kvar tjänsten.
+
+**[01:24:34.170 - 01:24:35.200]** Givetvis.
+
+**[01:24:35.200 - 01:24:42.200]** Männen som jag folkade är att man som kund bör läsa avtalet noga när man har säljande telefon.
+
+**[01:24:42.200 - 01:24:47.710]** Alltså det tror jag är väl basically goes without saying överlag.
+
+**[01:24:47.710 - 01:24:50.710]** Alltså i alla branscher oavsett vem det är.
+
+**[01:24:50.710 - 01:24:52.710]** Det är väl typ som en oskriven regel va?
+
+**[01:24:52.710 - 01:24:53.710]** Eller?
+
+**[01:24:53.710 - 01:24:54.710]** I princip.
+
+**[01:24:54.710 - 01:24:55.710]** Eller?
+
+**[01:24:55.710 - 01:24:57.710]** Men även nu som noggrann har transparens.
+
+**[01:24:57.710 - 01:24:58.710]** Förlåt?
+
+**[01:24:58.710 - 01:25:00.710]** Jag tänker nu som noggrann har transparens.
+
+**[01:25:00.710 - 01:25:04.710]** Varför kan man inte vara transparent i samtalet och varför det krävas att man ska vara ojäljande?
+
+**[01:25:04.710 - 01:25:05.710]** Vänta lite.
+
+**[01:25:05.710 - 01:25:09.710]** Det är ingen som har instruerat någon att inte vara transparent.
+
+**[01:25:09.710 - 01:25:16.710]** Och jag har varit väldigt tydlig med att det som har hänt är att vi har anlitat ett annat bolag som har skött det här.
+
+**[01:25:16.710 - 01:25:18.710]** Om ni är ute efter den typen av transparens.
+
+**[01:25:18.710 - 01:25:20.710]** Alltså vad är det för transparens man?
+
+**[01:25:20.710 - 01:25:23.670]** Alltså om man är transparent där eller inte.
+
+**[01:25:23.670 - 01:25:25.670]** Då får ni gå till detta bolag.
+
+**[01:25:25.670 - 01:25:29.670]** Ni får ju ta reda på vilket bolag det är i så fall som vi har anlitat för detta.
+
+**[01:25:29.670 - 01:25:30.670]** Och gå till botten.
+
+**[01:25:30.670 - 01:25:32.670]** Men jag kan ju ge ett tips i alla fall.
+
+**[01:25:32.670 - 01:25:33.670]** Okej?
+
+**[01:25:33.670 - 01:25:34.670]** För Guds skull.
+
+**[01:25:34.670 - 01:25:36.670]** Trots att jag fick fråga till mig.
+
+**[01:25:36.670 - 01:25:42.670]** Det finns kopplingar till bolaget Visibli.
+
+**[01:25:42.670 - 01:25:46.560]** I detta bolag.
+
+**[01:25:46.560 - 01:25:49.490]** Och Visibli är ju som ni vet.
+
+**[01:25:49.490 - 01:25:55.490]** Ni har ju skrivit väldigt många gånger om Visibli och hur de jobbar och vad det är för skit de håller på med.
+
+**[01:25:55.490 - 01:26:05.490]** Ni måste förstå att det sista, den sista ambitionen jag har eller det sista utfallet eller det sista jag vill är att bli jämförd.
+
+**[01:26:05.490 - 01:26:10.130]** Eller ens överhuvudtaget i samma. Jag vet inte ens hur jag ska uttrycka mig här.
+
+**[01:26:10.130 - 01:26:12.130]** Ja precis det är så.
+
+**[01:26:12.130 - 01:26:14.130]** Hur var det anlitat det här bolaget ändå?
+
+**[01:26:14.130 - 01:26:16.580]** Inte visibli.
+
+**[01:26:16.580 - 01:26:18.580]** Det är med det här bolaget som du också sa jämfört med.
+
+**[01:26:18.580 - 01:26:19.580]** Ja det var ju i god ro.
+
+**[01:26:19.580 - 01:26:20.580]** Ja.
+
+**[01:26:20.580 - 01:26:22.580]** Då hade man det lite.
+
+**[01:26:22.580 - 01:26:25.580]** Men ni var heller inte helt överens om hur länge ni anlitat det bolaget?
+
+**[01:26:25.580 - 01:26:27.580]** Ja precis.
+
+**[01:26:27.580 - 01:26:30.580]** Ni lanserade evanget i Tadaru sa du eller hur?
+
+**[01:26:30.580 - 01:26:31.580]** Precis.
+
+**[01:26:31.580 - 01:26:32.580]** Ja.
+
+**[01:26:32.580 - 01:26:37.580]** Jag såg att de senaste avtalen som fick resulter från dem var maj faktiskt.
+
+**[01:26:37.580 - 01:26:38.580]** Maj?
+
+**[01:26:38.580 - 01:26:39.580]** Ja.
+
+**[01:26:39.580 - 01:26:42.120]** Ja nämen precis.
+
+**[01:26:42.120 - 01:26:46.700]** Jag vet inte vad var det för något.
+
+**[01:26:46.700 - 01:26:48.700]** Men det var det mars som det började.
+
+**[01:26:48.700 - 01:26:51.760]** Varför har mars fastnat hos mig idag?
+
+**[01:26:51.760 - 01:26:55.820]** Ja du har ju data för dig så det är ju lite här på om det är så.
+
+**[01:26:55.820 - 01:26:57.820]** Det här är maj så är det maj men.
+
+**[01:26:57.820 - 01:26:59.820]** Vad är det som säger till mig att.
+
+**[01:26:59.820 - 01:27:05.820]** De senaste avtalen med den typen av kommunikation som vi fick om var i maj.
+
+**[01:27:05.820 - 01:27:06.820]** Okej.
+
+**[01:27:06.820 - 01:27:09.820]** Och då därav bestämde vi oss att ha avslutning av samma grej.
+
+**[01:27:09.820 - 01:27:15.820]** Men du var det inte så att vi började hitta för att vi har några ugglor i mossen människor från mars hit internt?
+
+**[01:27:15.820 - 01:27:16.820]** Jo.
+
+**[01:27:16.820 - 01:27:21.820]** Under en övergångsperiod så var det ju att vi hade både här inne och den andra aktören.
+
+**[01:27:21.820 - 01:27:23.820]** Och så klippte vi i maj.
+
+**[01:27:23.820 - 01:27:27.820]** Det har varit skit mycket jobb i alla fall om inte annat.
+
+**[01:27:27.820 - 01:27:29.820]** Det är jävligt mycket att ha koll på.
+
+**[01:27:29.820 - 01:27:30.820]** Det är jättemycket.
+
+**[01:27:30.820 - 01:27:35.820]** Och vi sitter liksom här och har gjort detta och jobbat ihjäl oss och ger bort saker.
+
+**[01:27:35.820 - 01:27:38.820]** Och sen får vi höra att vi bluffar och vi vågar och allt det här.
+
+**[01:27:38.820 - 01:27:39.820]** Det är inte rättvist.
+
+**[01:27:39.820 - 01:27:41.820]** Det är fruktansvärt.
+
+**[01:27:41.820 - 01:27:44.920]** Vad är det för att få utsättas för det?
+
+**[01:27:44.920 - 01:27:50.700]** Ja, kunskapen.
+
+**[01:27:50.700 - 01:27:53.700]** Kunskapsklyftan är för stor.
+
+**[01:27:53.700 - 01:27:56.700]** Jag är ledsen men det är lite så här.
+
+**[01:27:56.700 - 01:27:57.700]** Om jag säger så här.
+
+**[01:27:57.700 - 01:27:59.700]** Jag hade inte kunnat avgöra.
+
+**[01:27:59.700 - 01:28:04.700]** Om jag anlitar en byggfirma för att bygga en altan åt mig.
+
+**[01:28:04.700 - 01:28:07.660]** Och jag frågar efteråt när jag kommer hem.
+
+**[01:28:07.660 - 01:28:09.660]** Den är färdig och allting.
+
+**[01:28:09.660 - 01:28:10.660]** Åh, vilken fin altan.
+
+**[01:28:10.660 - 01:28:12.660]** Kommer den här hålla nu eller?
+
+**[01:28:12.660 - 01:28:14.750]** Är det lugnt att hoppa eller?
+
+**[01:28:14.750 - 01:28:17.750]** Och byggherren säger, ja det är lugnt den håller.
+
+**[01:28:17.750 - 01:28:24.820]** Jag är inte kvalificerad att avgöra ifall den här människan säger sanningen till mig eller inte.
+
+**[01:28:24.820 - 01:28:30.880]** Jag får ju blint, likför såklart, lita på att den här människan i god tro säger sanningen.
+
+**[01:28:30.880 - 01:28:31.880]** Klart den håller.
+
+**[01:28:31.880 - 01:28:32.880]** Och så hoppar jag.
+
+**[01:28:32.880 - 01:28:35.010]** Och så brakar det.
+
+**[01:28:35.010 - 01:28:41.010]** Menar du att kunskapsklyftan är för stor mellan kund och er vad gäller tjänsten eller vad gäller avtalet?
+
+**[01:28:41.010 - 01:28:46.010]** Vad gäller allt som har med webbplatser på nätet att göra.
+
+**[01:28:46.010 - 01:28:51.010]** Sök motor optimering, hur det går till, hur branschen fungerar överlag när man anlitar byråer.
+
+**[01:28:51.010 - 01:28:53.010]** Alltså hur det funkar i stort.
+
+**[01:28:53.010 - 01:28:54.010]** Överlag.
+
+**[01:28:54.010 - 01:28:56.100]** Hela rubbet alltså.
+
+**[01:28:56.100 - 01:29:01.030]** Det är ju därför vi existerar för att få ordning och reda på det här.
+
+**[01:29:01.030 - 01:29:09.420]** Man har ju alltså det är så otroligt många företagare som inte förstått och inte bemörat sig att ens vilja förstå.
+
+**[01:29:09.420 - 01:29:12.420]** Höll jag på att säga hur viktigt det är med det digitala.
+
+**[01:29:12.420 - 01:29:16.420]** Istället så går man in och kör det här inför en poenir och tror att det ska räcka och så vidare.
+
+**[01:29:16.420 - 01:29:18.420]** Sen skiter man i resten liksom.
+
+**[01:29:18.420 - 01:29:22.420]** Och när man ringer upp och säger att det är att din hemsida den bryter mot lagen just nu.
+
+**[01:29:22.420 - 01:29:24.420]** Den är inte säker.
+
+**[01:29:24.420 - 01:29:26.420]** Det är inget säker certifikat.
+
+**[01:29:26.420 - 01:29:28.420]** Det finns ju faktiskt.
+
+**[01:29:28.420 - 01:29:30.420]** Jag vill inte måla fram på väggen i onödan.
+
+**[01:29:30.420 - 01:29:31.420]** Låt säga.
+
+**[01:29:31.420 - 01:29:34.420]** Om man nu har sagt en gång till en person och han skete vilket så handlar på ändå.
+
+**[01:29:34.420 - 01:29:37.420]** Men jag behöver inte måla fram på väggen i onödan.
+
+**[01:29:37.420 - 01:29:44.420]** Men det är väl bättre att jag ringer här och informerar dig om detta så att du kan ta tag i detta än att datainspektionen ska göra av sig till dig och du får vite.
+
+**[01:29:44.420 - 01:29:48.580]** För det är ju sedan 2018 som ni vet lagstiftat det här.
+
+**[01:29:48.580 - 01:29:49.580]** Att man ska ha säkert.
+
+**[01:29:49.580 - 01:29:52.580]** Det ska vara det här säkra låset ju på hemsida.
+
+**[01:29:52.580 - 01:29:55.500]** Ni vet ju vad jag menar eller?
+
+**[01:29:55.500 - 01:29:56.500]** Ja.
+
+**[01:29:56.500 - 01:29:57.500]** Där uppe.
+
+**[01:29:57.500 - 01:29:58.500]** Och att det ska vara cookie notice.
+
+**[01:29:58.500 - 01:30:00.500]** Moj integritetspolicy ska finnas.
+
+**[01:30:00.500 - 01:30:02.500]** Det har ju våran tjänst.
+
+**[01:30:02.500 - 01:30:04.500]** Men det har ju inte alla webbplatser.
+
+**[01:30:04.500 - 01:30:05.500]** De bryter mot lag.
+
+**[01:30:05.500 - 01:30:07.570]** Vi vill få ni mådera på det här.
+
+**[01:30:07.570 - 01:30:09.570]** Hur kan ni ge bort gratis?
+
+**[01:30:09.570 - 01:30:14.530]** Alltså det gör ni inte. Ni säljer en tjänst.
+
+**[01:30:14.530 - 01:30:18.530]** Berätta för mig hur vi säljer en tjänst då så kan du kanske upplysa mig om ni vill göra det.
+
+**[01:30:18.530 - 01:30:20.530]** Det är bindningstid på tolv månader.
+
+**[01:30:20.530 - 01:30:22.620]** Hur säljer vi tjänsten?
+
+**[01:30:22.620 - 01:30:25.620]** Ni tar ju betalt för sökoptimeringen.
+
+**[01:30:25.620 - 01:30:31.780]** Du menar ni ge bort gratis i det fall det inte blir något utfall. Eller?
+
+**[01:30:31.780 - 01:30:34.780]** Ja, man får ju nyttja den här tjänsten kostnadsfritt.
+
+**[01:30:34.780 - 01:30:36.780]** Och utan resultat så är det gratis.
+
+**[01:30:36.780 - 01:30:38.780]** Ja, det har jag pratat.
+
+**[01:30:38.780 - 01:30:45.170]** Men i vanliga fall så får du betala för en hemsida x antal tusen kronor.
+
+**[01:30:45.170 - 01:30:47.170]** Och sen så får du säga
+
+**[01:30:47.170 - 01:30:49.170]** Jag vill också synas på Google.
+
+**[01:30:49.170 - 01:30:51.170]** Jaha, säger byrån.
+
+**[01:30:51.170 - 01:30:55.170]** Och då får du betala månadsvis eller kvartalsvis för att den här byrån ska jobba aktivt med SEO.
+
+**[01:30:55.170 - 01:30:57.170]** Eller sökmotoroptimering.
+
+**[01:30:57.170 - 01:30:59.170]** Men det är ingen som garanterar dig.
+
+**[01:30:59.170 - 01:31:01.170]** Eller det finns tyvärr i Borås.
+
+**[01:31:01.170 - 01:31:03.170]** Till och med i Borås.
+
+**[01:31:03.170 - 01:31:07.170]** Det är ju då som garanterar och lovar förstasiderplaceringar och skit.
+
+**[01:31:07.170 - 01:31:13.330]** Vilket är också en av anledningen till varför vi lanserade en tjänst
+
+**[01:31:13.330 - 01:31:17.330]** Det känns som det inte ens ska kunna vara möjligt att göra en sådan fuling.
+
+**[01:31:17.330 - 01:31:19.330]** Att lova på sådana saker.
+
+**[01:31:19.330 - 01:31:21.330]** Vad händer efter de här tolv månaderna?
+
+**[01:31:21.330 - 01:31:24.680]** Avslutas alla kunder då?
+
+**[01:31:24.680 - 01:31:26.680]** Eller det inte man om?
+
+**[01:31:26.680 - 01:31:35.710]** Ja, nu i Dari så blir det ju de första kunderna som har förutsat att de är kvar och nöjda och sådär.
+
+**[01:31:35.710 - 01:31:37.710]** Vi kommer ju ringa ut dem liksom.
+
+**[01:31:37.710 - 01:31:41.780]** För det är en på 25 sjuke på denna månader.
+
+**[01:31:41.780 - 01:31:45.780]** Om det finns en plan på det och så frågar man om man vill fortsätta det för länge eller sådär.
+
+**[01:31:45.780 - 01:31:55.150]** Men vår viktigaste mål är att ha nytta kunder och det är det vi genomsyrar.
+
+**[01:31:55.150 - 01:31:59.150]** Och det är ju därför det här att det har blivit sådana små lupp på det här nu.
+
+**[01:31:59.150 - 01:32:01.280]** Det är ju skittråkigt liksom.
+
+**[01:32:01.280 - 01:32:03.280]** Ja, det är ju fruktansvärt oerhettvist.
+
+**[01:32:03.280 - 01:32:08.280]** Även om jag som sagt har ansvar för de mindre kanske bra beslut jag har fattat som vd.
+
+**[01:32:08.280 - 01:32:13.280]** Men jag har i alla fall agerat och tagit action på allting och gjort allt jag kunnat.
+
+**[01:32:13.280 - 01:32:15.280]** Och jag har bekostat jättemycket här.
+
+**[01:32:15.280 - 01:32:17.280]** Och det är vi som inte fått betalt heller.
+
+**[01:32:17.280 - 01:32:19.280]** Och det glömmer man ofta att ta upp här.
+
+**[01:32:19.280 - 01:32:22.280]** Så om ni har varit i kontakt med människor, de har ju inte betalat oss ändå.
+
+**[01:32:22.280 - 01:32:27.280]** Ändå ska vi få dålig press eller dålig publicitet.
+
+**[01:32:27.280 - 01:32:29.280]** Bli kallade för bluffare.
+
+**[01:32:29.280 - 01:32:32.280]** Bli hotade i telefon av människor också.
+
+**[01:32:32.280 - 01:32:34.280]** Och ge bort saker gratis.
+
+**[01:32:34.280 - 01:32:37.280]** Och finansiera skiten själva så att man är totalt torsk i princip.
+
+**[01:32:37.280 - 01:32:40.280]** Eller så kommer din fråga med hur går det för, hur mår dina bolag ekonomiskt.
+
+**[01:32:40.280 - 01:32:42.280]** Ja men gå in på alla bolag och kolla hur mycket skit.
+
+**[01:32:42.280 - 01:32:44.280]** Det är ju hur jävla rött som helst.
+
+**[01:32:44.280 - 01:32:47.280]** Det har investerats jättemycket pengar i detta.
+
+**[01:32:47.280 - 01:32:51.280]** Ni fick ju väldigt hård kritik från revision för advarsmedia.
+
+**[01:32:51.280 - 01:32:55.280]** Ni hade väldigt stor brist i deras interna kontroll.
+
+**[01:32:55.280 - 01:33:01.280]** Du, okej du menar en, förlåt, PVCs revisorberättelse?
+
+**[01:33:01.280 - 01:33:02.280]** Ja.
+
+**[01:33:02.280 - 01:33:03.280]** Mattias Lengberg?
+
+**[01:33:03.280 - 01:33:04.280]** Nej det var han inte, det var en kvinna.
+
+**[01:33:04.280 - 01:33:06.280]** Ja den senaste bokslutet tänker du på då?
+
+**[01:33:06.280 - 01:33:07.280]** Precis ja.
+
+**[01:33:07.280 - 01:33:11.280]** Ja det, minns ni när jag berättade att vi anlitades av alla de här aktörerna på Djurgården,
+
+**[01:33:11.280 - 01:33:13.280]** Abba, museet, Vikinga Liv och så vidare.
+
+**[01:33:13.280 - 01:33:17.280]** Och sen kommer det en pandemi som slår ut hela vår kundbas.
+
+**[01:33:17.280 - 01:33:23.280]** Då styrde vi om till att sälja, alltså att skapa värde för oss själva genom att kicka upp e-handelsbutiker.
+
+**[01:33:23.470 - 01:33:24.470]** Mm.
+
+**[01:33:24.470 - 01:33:26.470]** Och sälja e-handelsprodukter.
+
+**[01:33:26.470 - 01:33:36.760]** Våran emellertid dock så visste inte jag eller vi överlag här att vårat dåvarande ekonomisystem inte kunde bokföra produktförsäljning.
+
+**[01:33:36.760 - 01:33:39.760]** Så vi bytte istället till Fortnox och så var saken löst där.
+
+**[01:33:39.760 - 01:33:50.320]** Så det är därför han har utgöpt sig där.
+
+**[01:33:50.320 - 01:33:52.670]** Är det Advarsmedia?
+
+**[01:33:52.670 - 01:33:54.670]** Det är Nordic Digitalisation.
+
+**[01:33:54.670 - 01:33:57.670]** På hemsidan så händer man till Advarsmedia.
+
+**[01:33:57.670 - 01:34:03.200]** Vartå menar du? Längst ner eller?
+
+**[01:34:03.200 - 01:34:06.860]** Allmänna villkor.
+
+**[01:34:06.860 - 01:34:11.860]** Ja, men jag har pratat om att fixa webbsidan, vår egen rad, helt länge.
+
+**[01:34:11.860 - 01:34:14.280]** Men vi får se.
+
+**[01:34:14.280 - 01:34:16.280]** Ja, det är en jättebra notering faktiskt.
+
+**[01:34:16.280 - 01:34:18.280]** Ja, väldigt. Verkligen.
+
+**[01:34:18.280 - 01:34:19.280]** Det ska vara nådligt.
+
+**[01:34:19.280 - 01:34:22.110]** Allmänna villkor, hur ser jag?
+
+**[01:34:22.110 - 01:34:33.470]** Ja, nu har vi gjort bort oss här och tagit våra allmänna villkor som vi har haft.
+
+**[01:34:33.470 - 01:34:34.470]** Och sen...
+
+**[01:34:34.470 - 01:34:36.500]** Ja, det är ju...
+
+**[01:34:36.500 - 01:34:37.500]** Nej, det är ju...
+
+**[01:34:37.500 - 01:34:38.500]** Eller vad jag tror att det kan vara.
+
+**[01:34:38.500 - 01:34:39.500]** Nej.
+
+**[01:34:39.500 - 01:34:40.500]** Att det står, eller är det Advarsmedia.
+
+**[01:34:40.500 - 01:34:44.500]** Det är ju säkerligen på grund av att Nordic i bolaget...
+
+**[01:34:44.500 - 01:34:47.500]** Inte vara klart. Så kan det vara.
+
+**[01:34:47.890 - 01:34:49.890]** När vi lanserar webben.
+
+**[01:34:49.890 - 01:34:51.890]** Det är ju vatten eller någonting?
+
+**[01:34:51.890 - 01:34:52.890]** Nej, det är bra.
+
+**[01:34:52.890 - 01:34:53.890]** Nej, det är bra. Tack så mycket.
+
+**[01:34:53.890 - 01:34:55.890]** Men det var bra att du sa.
+
+**[01:34:55.890 - 01:34:56.890]** Det kan gå in och ändra direkt.
+
+**[01:34:56.890 - 01:34:58.890]** Advarsmedia-bolaget.
+
+**[01:34:58.890 - 01:35:01.980]** Advarsmedia-bolaget.
+
+**[01:35:01.980 - 01:35:05.980]** Det är inte upp till mig heller ensam att avgöra vad som kommer hända med det.
+
+**[01:35:05.980 - 01:35:07.980]** Men som vi ser det så...
+
+**[01:35:07.980 - 01:35:16.480]** Mot bakgrunden av att någonstans det bolaget har ju blivit...
+
+**[01:35:16.480 - 01:35:18.480]** Det har gjort ett jävla skifte.
+
+**[01:35:18.480 - 01:35:19.480]** Alltså ett väldigt stort skifte.
+
+**[01:35:19.480 - 01:35:20.480]** Två gånger egentligen.
+
+**[01:35:20.480 - 01:35:26.480]** Från specialistbyrå till e-handelsbutiker till Nu Datta-initiativet som vi kör.
+
+**[01:35:26.480 - 01:35:31.480]** Och det har ju finansierat allting det bolaget om man säger då.
+
+**[01:35:31.480 - 01:35:33.480]** Så det är ju bara rätt allting.
+
+**[01:35:33.480 - 01:35:37.480]** Men du har gått in med väldigt mycket ting i att lägga till skott i det bolaget.
+
+**[01:35:37.480 - 01:35:38.480]** Ja.
+
+**[01:35:38.480 - 01:35:43.020]** Men det är ändå Nordic som står bakom i Rocket.
+
+**[01:35:43.020 - 01:35:44.020]** I Rocket.
+
+**[01:35:44.020 - 01:35:45.020]** I Rocket, förlåt.
+
+**[01:35:45.020 - 01:35:46.020]** Nej, det är lugnt.
+
+**[01:35:46.020 - 01:35:47.020]** Nej, det är lugnt.
+
+**[01:35:47.020 - 01:35:51.020]** Jag känner mig så mörbultad av det här skiten ändå som det är.
+
+**[01:35:51.020 - 01:35:53.020]** Så att ja.
+
+**[01:35:53.020 - 01:35:56.020]** Nej, alltså det är uppdelat.
+
+**[01:35:56.020 - 01:35:58.020]** Alltså...
+
+**[01:35:58.020 - 01:36:08.190]** Advice Media förknippas ju med en specialistbyrå inom nöjesbranschen liksom.
+
+**[01:36:08.190 - 01:36:12.190]** Som jobbar med väldigt anmärkningsvärda människor och så vidare.
+
+**[01:36:12.190 - 01:36:14.190]** Eller varumärken ABBA till exempel.
+
+**[01:36:14.190 - 01:36:17.190]** Återigen tillbaka till det här när jag hörde av mig angående det här.
+
+**[01:36:17.190 - 01:36:19.190]** Att hallå, ni har en byrå här, bt.
+
+**[01:36:19.190 - 01:36:22.190]** Som sitter i en anrik byggnad här på våning tre.
+
+**[01:36:22.190 - 01:36:26.190]** Det är bara Nordea och några andra stora som sitter här.
+
+**[01:36:26.190 - 01:36:28.190]** Det är inte så att man heller fick komma i tur som helst.
+
+**[01:36:28.190 - 01:36:32.420]** Utan det var ett styrelsebeslut som krävdes för att ens få pyra den här våningen om man säger.
+
+**[01:36:32.420 - 01:36:34.420]** Eller våran lokal.
+
+**[01:36:34.420 - 01:36:37.420]** Och ABBA, som är ett av världens största varumärken, anlitar oss.
+
+**[01:36:37.420 - 01:36:40.420]** Vi är bokstavligen deras marknadsavdelning.
+
+**[01:36:40.420 - 01:36:43.540]** Med samtliga utav deras verksamheter.
+
+**[01:36:43.540 - 01:36:44.540]** Är inte det anmärkningsvärt?
+
+**[01:36:44.540 - 01:36:45.540]** Finns det inget nyhetsvärde i det?
+
+**[01:36:45.540 - 01:36:47.540]** Ingen som hör av sig.
+
+**[01:36:47.540 - 01:36:48.540]** All right.
+
+**[01:36:48.540 - 01:36:56.540]** Investerar vi kraftigt i HR som är en person som är otroligt mån om allas personalhälsa.
+
+**[01:36:56.540 - 01:37:02.580]** Och pratar med människor för att det är så viktigt med att kreatörer får prata med dem.
+
+**[01:37:02.580 - 01:37:05.580]** Och ger den här personen det största kontoret och allt det här.
+
+**[01:37:05.580 - 01:37:10.580]** Och den personen har hört av sig också till er för att prata om att titta här har vi ett nytänkande företag.
+
+**[01:37:10.580 - 01:37:16.580]** Som investerar jättemycket i sina anställda och den personalhälsan och så vidare.
+
+**[01:37:16.580 - 01:37:18.580]** Och lyfter detta.
+
+**[01:37:18.580 - 01:37:19.580]** Det har ni fått mejl på. Ingen som svarar.
+
+**[01:37:19.580 - 01:37:21.580]** Istället hör ni av er kritik för det här.
+
+**[01:37:21.580 - 01:37:25.580]** Och så får jag höra av mina rådgivare som varit med i gamet ganska länge.
+
+**[01:37:25.580 - 01:37:27.610]** Där de säger till mig.
+
+**[01:37:27.610 - 01:37:31.610]** Alltså, och det är spriddas gudan människor som inte har med varandra att göra ens här.
+
+**[01:37:31.610 - 01:37:32.610]** De säger till mig.
+
+**[01:37:32.610 - 01:37:36.610]** Ja men vad fan om du är helt naiv om du tror att de kommer hit för att skriva något bra med er.
+
+**[01:37:36.610 - 01:37:40.610]** De är ute efter att kvadda hela ert varumärke.
+
+**[01:37:40.610 - 01:37:42.610]** Det är de som har ett skop liksom.
+
+**[01:37:42.610 - 01:37:43.610]** Va?
+
+**[01:37:43.610 - 01:37:44.610]** Säger jag.
+
+**[01:37:44.610 - 01:37:45.610]** Nej, varför skulle de göra det?
+
+**[01:37:45.610 - 01:37:47.610]** Nej men du, det fattar alla du.
+
+**[01:37:47.610 - 01:37:48.610]** Säger man till mig.
+
+**[01:37:48.610 - 01:37:49.610]** Nej, det tycker inte jag.
+
+**[01:37:49.610 - 01:37:50.610]** Vi kollar här.
+
+**[01:37:50.610 - 01:37:51.610]** Det var en jättefin artikel.
+
+**[01:37:51.610 - 01:37:52.610]** Jag håller inte alls med dig.
+
+**[01:37:52.610 - 01:37:54.610]** Vi var här för att du ska få bemöta kritik.
+
+**[01:37:54.610 - 01:37:56.610]** Inget annat.
+
+**[01:37:56.610 - 01:37:57.610]** Ja men ni förstår.
+
+**[01:37:57.610 - 01:37:59.610]** Förstår ni vad jag menar med det i alla fall.
+
+**[01:37:59.610 - 01:38:00.610]** Alltså om inte annat du Matilda.
+
+**[01:38:00.610 - 01:38:01.610]** För vi har smsat.
+
+**[01:38:01.610 - 01:38:02.610]** Du och jag.
+
+**[01:38:02.610 - 01:38:04.610]** Ja jag har satt sms.
+
+**[01:38:04.610 - 01:38:06.610]** Men precis som Jenny säger så.
+
+**[01:38:06.610 - 01:38:12.610]** Vi har tagit till mig från markitiken och vill ge dig i fansen och berätta din syn på det.
+
+**[01:38:12.610 - 01:38:13.610]** Ja.
+
+**[01:38:13.610 - 01:38:17.660]** Det är därför det är sånt här.
+
+**[01:38:17.660 - 01:38:18.660]** Det har vi.
+
+**[01:38:18.660 - 01:38:20.940]** Ja jag ser på.
+
+**[01:38:20.940 - 01:38:25.240]** Men okej så om jag får fråga.
+
+**[01:38:25.240 - 01:38:26.240]** Hur har vi allt det här?
+
+**[01:38:26.240 - 01:38:27.240]** Ja vad fungerar vi?
+
+**[01:38:27.240 - 01:38:28.620]** Det är det vi gör det.
+
+**[01:38:28.620 - 01:38:33.490]** Jag vet inte hur det fungerar juridiskt men det här delar av.
+
+**[01:38:33.490 - 01:38:36.490]** Sen har vi redan GDP eller Jantren eller sånt här.
+
+**[01:38:36.490 - 01:38:39.870]** Vilken bolag är det?
+
+**[01:38:39.870 - 01:38:41.870]** Alltså vi kommer inte publicera det här.
+
+**[01:38:41.870 - 01:38:42.870]** Nej nej nej nej.
+
+**[01:38:42.870 - 01:38:45.870]** Det har väl inte med det att göra heller.
+
+**[01:38:45.870 - 01:38:49.770]** För alla allmänna villkor med det här.
+
+**[01:38:49.770 - 01:38:50.770]** Ja.
+
+**[01:38:50.770 - 01:38:55.200]** Ja det då.
+
+**[01:38:55.200 - 01:38:56.200]** Ja.
+
+**[01:38:56.200 - 01:38:58.200]** Ja visst.
+
+**[01:38:58.200 - 01:39:01.060]** Alltså kunden då som har.
+
+**[01:39:01.060 - 01:39:02.060]** Ja ja.
+
+**[01:39:02.060 - 01:39:03.060]** Ja absolut.
+
+**[01:39:03.060 - 01:39:22.200]** Känner ni liksom att vi har fått någon klarhet eller någon typ av
+
+**[01:39:22.200 - 01:39:25.650]** liksom efter detta.
+
+**[01:39:25.650 - 01:39:28.650]** Mot bakgrund av att någonstans ni kom hit.
+
+**[01:39:28.650 - 01:39:34.340]** Jag tycker vi har fått svar på varför.
+
+**[01:39:34.340 - 01:39:36.340]** Ja men jag menar svar då.
+
+**[01:39:36.340 - 01:39:40.340]** Det var väl bra och kul att du känner det eller ni.
+
+**[01:39:40.340 - 01:39:42.340]** Men jag menar alltså har ni fått en hel.
+
+**[01:39:42.340 - 01:39:45.340]** En mer helhetsbild över.
+
+**[01:39:45.340 - 01:39:50.650]** För någonstans så var det väl inte detta.
+
+**[01:39:50.650 - 01:39:52.650]** Alltså ni visste väl inte om detta.
+
+**[01:39:52.650 - 01:39:54.650]** Eller har ni fått höra att vi hade anlitat en.
+
+**[01:39:54.650 - 01:39:56.650]** en annan aktör initialt och så vidare.
+
+**[01:39:56.650 - 01:40:00.650]** Eller av annan part eller vad det nu kan vara.
+
+**[01:40:00.650 - 01:40:02.650]** Eller var det nyheter för er också.
+
+**[01:40:02.650 - 01:40:04.650]** Att ni hade anlitat ett annat bolag.
+
+**[01:40:04.650 - 01:40:05.650]** Ja i början.
+
+**[01:40:05.650 - 01:40:06.650]** Eller vad det var.
+
+**[01:40:06.650 - 01:40:07.650]** Nej det var.
+
+**[01:40:07.650 - 01:40:08.650]** Det har visst ni inte.
+
+**[01:40:08.650 - 01:40:09.650]** Nej.
+
+**[01:40:09.650 - 01:40:10.650]** Jag bara undrar.
+
+**[01:40:10.650 - 01:40:11.650]** Min fråga blir alltså inte.
+
+**[01:40:11.650 - 01:40:12.650]** Förlåt om det misstolkades då.
+
+**[01:40:12.650 - 01:40:13.650]** Men min fråga blir alltså.
+
+**[01:40:13.650 - 01:40:17.650]** Känner ni att ni har fått en lite mer övergripande bild av situationen.
+
+**[01:40:17.650 - 01:40:23.680]** mer än att det skulle vara ett förbannat bluffbolag som har ploppat upp i Borås.
+
+**[01:40:23.680 - 01:40:25.680]** Jag menar titta er omkring liksom.
+
+**[01:40:25.680 - 01:40:28.680]** Ser det ut som att vi bluffar någon av oss här.
+
+**[01:40:28.680 - 01:40:35.640]** Bjuder man in på det här viset som jag gjorde.
+
+**[01:40:35.640 - 01:40:36.640]** Kom hit.
+
+**[01:40:36.640 - 01:40:37.640]** Ni är välkomna.
+
+**[01:40:37.640 - 01:40:38.640]** Jag har hört av oss flera gånger.
+
+**[01:40:38.640 - 01:40:40.640]** Det är ingen som svarar.
+
+**[01:40:40.640 - 01:40:43.500]** Men det går fort liksom.
+
+**[01:40:43.500 - 01:40:48.500]** Det är någon som inte har bättre saker för sig om dagen hör av sig då.
+
+**[01:40:48.500 - 01:40:49.500]** Och med kritik.
+
+**[01:40:49.500 - 01:40:51.500]** Kan ni svara för om ni har hört av er tidigare.
+
+**[01:40:51.500 - 01:40:53.500]** För det är ju inte som du vet om.
+
+**[01:40:53.500 - 01:40:54.500]** Tack så mycket.
+
+**[01:40:54.500 - 01:40:56.500]** Nej men jag frågar.
+
+**[01:40:56.500 - 01:40:58.500]** Ja okej.
+
+**[01:40:58.500 - 01:41:01.570]** Nej men oavsett var.
+
+**[01:41:01.570 - 01:41:03.570]** Någonstans.
+
+**[01:41:03.570 - 01:41:05.570]** Måste jag ju fråga liksom.
+
+**[01:41:05.570 - 01:41:07.570]** Det behöver ju inte ni svara på heller såklart.
+
+**[01:41:07.570 - 01:41:09.570]** Men jag tycker ändå jag har varit väldigt ärlig.
+
+**[01:41:09.570 - 01:41:11.570]** Och transparent i det här.
+
+**[01:41:11.570 - 01:41:12.570]** Det enda jag inte har sagt egentligen.
+
+**[01:41:12.570 - 01:41:14.570]** Det var ju vilket bolag som vi anlitat.
+
+**[01:41:14.570 - 01:41:17.570]** Men jag har pekat er åt den riktningen.
+
+**[01:41:17.570 - 01:41:20.570]** Och sagt att det har kopplingar i alla fall.
+
+**[01:41:20.570 - 01:41:21.570]** Till visst jubi.
+
+**[01:41:21.570 - 01:41:23.570]** Inte ägarna på visst jubi på något sånt.
+
+**[01:41:23.570 - 01:41:24.570]** Inte något sånt.
+
+**[01:41:24.570 - 01:41:26.570]** Utan det är alltså människor som jobbat här tidigare.
+
+**[01:41:26.570 - 01:41:28.570]** Så det är liksom inget jag har vetat om.
+
+**[01:41:28.570 - 01:41:30.570]** Eller någonting sånt heller.
+
+**[01:41:30.570 - 01:41:31.570]** Så det är liksom.
+
+**[01:41:31.570 - 01:41:32.570]** Sen du stöller frågan och ändå gjorde du det.
+
+**[01:41:32.570 - 01:41:33.570]** Liksom vet.
+
+**[01:41:33.570 - 01:41:35.570]** Det blir sådana här grejer som stör mig lite.
+
+**[01:41:35.570 - 01:41:36.570]** Förlåt mig alltså.
+
+**[01:41:36.570 - 01:41:37.570]** Jag vill bara vara ärlig mot att säga det.
+
+**[01:41:37.570 - 01:41:38.570]** För det känns som att du är ute efter ett satan.
+
+**[01:41:38.570 - 01:41:40.570]** Sattar dit mig när vi inte gjort något fel.
+
+**[01:41:40.570 - 01:41:41.570]** Någonstans.
+
+**[01:41:41.570 - 01:41:42.570]** Och de felen vi.
+
+**[01:41:42.570 - 01:41:43.570]** Ja jag förstår.
+
+**[01:41:43.570 - 01:41:45.570]** Men de felen som vi eventuellt har gjort.
+
+**[01:41:45.570 - 01:41:47.570]** Då har vi faktiskt tagit och axlat.
+
+**[01:41:47.570 - 01:41:48.570]** Och tagit hand om.
+
+**[01:41:48.570 - 01:41:49.570]** Och det kommer ni få säga.
+
+**[01:41:49.570 - 01:41:51.570]** Alltså som vi har sagt hela tiden.
+
+**[01:41:51.570 - 01:41:52.570]** Vi.
+
+**[01:41:52.570 - 01:41:55.570]** Det riktas mycket kritik mot ditt företag.
+
+**[01:41:55.570 - 01:41:57.570]** Vi kommer hit till att ge er.
+
+**[01:41:57.570 - 01:41:58.570]** Får få höra era bästa argument.
+
+**[01:41:58.570 - 01:42:00.570]** Och svar på varför det är så.
+
+**[01:42:00.570 - 01:42:01.570]** Och de har ni fått ge.
+
+**[01:42:01.570 - 01:42:02.570]** Det är.
+
+**[01:42:02.570 - 01:42:03.570]** Ni har svarat.
+
+**[01:42:03.570 - 01:42:04.570]** Ja.
+
+**[01:42:04.570 - 01:42:06.570]** Det är bara så enkelt.
+
+**[01:42:06.570 - 01:42:07.570]** Men kritiken.
+
+**[01:42:07.570 - 01:42:08.570]** Ja.
+
+**[01:42:08.570 - 01:42:09.570]** Precis.
+
+**[01:42:09.570 - 01:42:10.570]** Att många kunder är besvikna.
+
+**[01:42:10.570 - 01:42:11.570]** Anmälning är ett konsumentverk.
+
+**[01:42:11.570 - 01:42:21.570]** Vi har pratat med säljare som säger att de har fått intruktioner om att säga en sak till kund.
+
+**[01:42:21.570 - 01:42:25.570]** Som inte har infattat din tid och liknande.
+
+**[01:42:25.570 - 01:42:27.570]** Och det är precis det vi har frågat om hela tiden.
+
+**[01:42:27.570 - 01:42:29.570]** Och det jag sa innan om bolaget.
+
+**[01:42:29.570 - 01:42:30.570]** Jag frågade.
+
+**[01:42:30.570 - 01:42:32.570]** Det var ändå du som anställde dem.
+
+**[01:42:32.570 - 01:42:33.570]** Det är väl en ringig fråga.
+
+**[01:42:33.570 - 01:42:35.570]** Det är ju du som har yttersta ansvaret för.
+
+**[01:42:35.570 - 01:42:39.570]** Jag anställde den personen som skulle ansvara för.
+
+**[01:42:39.570 - 01:42:41.570]** Att hitta ett team.
+
+**[01:42:41.570 - 01:42:43.570]** För att kommunicera ut vår tjänst.
+
+**[01:42:43.570 - 01:42:44.570]** Den personen anställde jag.
+
+**[01:42:44.570 - 01:42:46.570]** Anställde inte Muna exempelvis.
+
+**[01:42:46.570 - 01:42:48.570]** Den tjejen som pratade på iranska med alla.
+
+**[01:42:48.570 - 01:42:50.570]** Det fick jag reda på i efterhand.
+
+**[01:42:50.570 - 01:42:52.570]** Att hon pratade på iranska med folk.
+
+**[01:42:52.570 - 01:42:53.570]** Vilket oroade mig.
+
+**[01:42:53.570 - 01:42:56.570]** Och när jag märkte att kunderna hör av sig och säger saker som är helt klart.
+
+**[01:42:56.570 - 01:42:58.570]** Saker som är helt främmande för oss.
+
+**[01:42:58.570 - 01:43:02.570]** Så var det inte ens en tanke om att jag ska anlita en tolk.
+
+**[01:43:02.570 - 01:43:04.570]** Utan det var liksom vi klipper här och nu.
+
+**[01:43:04.570 - 01:43:05.570]** Med den här tjejen.
+
+**[01:43:05.570 - 01:43:07.570]** Mot bakgrund till detta.
+
+**[01:43:07.570 - 01:43:10.570]** Och det är klart att hon blev ledsen antagligen.
+
+**[01:43:10.570 - 01:43:12.570]** Och hört av sig till er då.
+
+**[01:43:12.570 - 01:43:14.570]** Det är ju återigen.
+
+**[01:43:14.570 - 01:43:15.570]** Vi vet ju alla.
+
+**[01:43:15.570 - 01:43:18.570]** De som är missnöjda skriker högst.
+
+**[01:43:18.570 - 01:43:20.570]** Det jag någonstans önskar be er.
+
+**[01:43:20.570 - 01:43:25.570]** Är att ta hänsyn någonstans till situationen som helhet.
+
+**[01:43:25.570 - 01:43:26.570]** Alltså som sådan.
+
+**[01:43:26.570 - 01:43:30.570]** Och förstå någonstans att det här är ett gäng kreatörer.
+
+**[01:43:30.570 - 01:43:34.570]** Som bara vill väl och faktiskt vill skapa en rejäl förändring till bättre.
+
+**[01:43:34.570 - 01:43:35.570]** För att öka.
+
+**[01:43:35.570 - 01:43:38.570]** Vi alla vet att det är viktigt med en digital närvaro som funkar.
+
+**[01:43:38.570 - 01:43:39.570]** Och att man syns.
+
+**[01:43:39.570 - 01:43:40.570]** Att man inte bara skiter i det.
+
+**[01:43:40.570 - 01:43:41.570]** Vi alla vet det.
+
+**[01:43:41.570 - 01:43:44.570]** Vi tillhör den generationen som förstår vikten av att det är viktigt.
+
+**[01:43:44.570 - 01:43:45.570]** Eller hur?
+
+**[01:43:45.570 - 01:43:46.570]** Ja men det är vad vi vill.
+
+**[01:43:46.570 - 01:43:47.570]** Sen anlitar vi.
+
+**[01:43:47.570 - 01:43:48.570]** Och då har vi kunder i andra ämnen.
+
+**[01:43:48.570 - 01:43:49.570]** Men vet du vad?
+
+**[01:43:49.570 - 01:43:50.570]** Alltså så här.
+
+**[01:43:50.570 - 01:43:51.570]** Det är bara att det är lite min.
+
+**[01:43:51.570 - 01:43:52.570]** Ja men jag måste.
+
+**[01:43:52.570 - 01:43:54.570]** Vart har jag tjänat pengar kära du?
+
+**[01:43:54.570 - 01:43:55.570]** Hur mår dina bolag ekonomiskt?
+
+**[01:43:55.570 - 01:43:58.630]** Det finns ju en anledning till varför den frågan är ställt så.
+
+**[01:43:58.630 - 01:44:02.780]** Det är ju en ny och det är ju det startade i februari.
+
+**[01:44:02.780 - 01:44:05.780]** Ja men varför har du ställt frågan om man får fråga dig där.
+
+**[01:44:05.780 - 01:44:07.780]** Hur kommer du säga att du ställde frågan?
+
+**[01:44:07.780 - 01:44:08.780]** För att det är relevant.
+
+**[01:44:08.780 - 01:44:10.780]** På vilket sätt är det relevant?
+
+**[01:44:10.780 - 01:44:13.780]** Det är relevant för att ni har ju den här tjänsten.
+
+**[01:44:13.780 - 01:44:18.780]** Och ni har väl en hoppning av att ni ska tjäna pengar på det som ni har startat.
+
+**[01:44:18.780 - 01:44:20.780]** Det är inte huvud.
+
+**[01:44:20.780 - 01:44:21.780]** Alltså så här.
+
+**[01:44:21.780 - 01:44:23.780]** Jag är känd av dem som känner mig.
+
+**[01:44:23.780 - 01:44:25.780]** Att pengar är en tjänst.
+
+**[01:44:25.780 - 01:44:26.780]** Det är ju det här.
+
+**[01:44:26.780 - 01:44:28.780]** Jag är känd av dem som känner mig.
+
+**[01:44:28.780 - 01:44:32.780]** Att pengar det är ett kvitto på att man har gjort någonting bra.
+
+**[01:44:32.780 - 01:44:33.780]** That's it.
+
+**[01:44:33.780 - 01:44:36.780]** Det har aldrig varit min ambition att tjäna pengar.
+
+**[01:44:36.780 - 01:44:45.780]** Det tror jag att Advice Media AB på alla bolag väldigt tydligt visar alla människor med två ögon och har en fungerande syn.
+
+**[01:44:45.780 - 01:44:48.980]** Pengar gör inte vi detta för.
+
+**[01:44:48.980 - 01:44:53.980]** Jag är extremt passionerad vad gäller att få ordning och reda på det digitala.
+
+**[01:44:53.980 - 01:44:57.980]** Så att företagare ska ha en riktigt bra webb.
+
+**[01:44:57.980 - 01:45:01.260]** Som helst syns och genererar affärer på Google.
+
+**[01:45:01.260 - 01:45:02.260]** Om jag säger så.
+
+**[01:45:02.260 - 01:45:03.260]** Om det inte gör det.
+
+**[01:45:03.260 - 01:45:05.260]** Då tycker inte jag man ska betala.
+
+**[01:45:05.260 - 01:45:06.260]** Man ska inte betala för luft.
+
+**[01:45:06.260 - 01:45:08.260]** Det är vad vi har gjort här.
+
+**[01:45:08.260 - 01:45:10.260]** Sen har vi inte expertis.
+
+**[01:45:10.260 - 01:45:12.260]** Att prata och kommunicera och sälja till folk.
+
+**[01:45:12.260 - 01:45:16.260]** Där fick vi att i all god tro anvita ett annat bolag.
+
+**[01:45:16.260 - 01:45:18.260]** Upptäcker att det är oegentligheter.
+
+**[01:45:18.260 - 01:45:19.260]** Klipper med dem.
+
+**[01:45:19.260 - 01:45:21.260]** Har en rekryteringsprocess som pågår.
+
+**[01:45:21.260 - 01:45:22.260]** Det här är väldigt snabbt.
+
+**[01:45:22.260 - 01:45:24.260]** Det går fort här.
+
+**[01:45:24.260 - 01:45:25.260]** Du vet månad, månad, månad.
+
+**[01:45:25.260 - 01:45:27.260]** Sen kommer också en semestermånad mitt i allting.
+
+**[01:45:27.260 - 01:45:29.390]** Och nu sitter vi här i november.
+
+**[01:45:29.390 - 01:45:30.390]** Så jag menar.
+
+**[01:45:30.390 - 01:45:32.390]** Det är extremt kort tid.
+
+**[01:45:32.390 - 01:45:38.390]** Ska ni för fatta en artikel baserat på åtta månader av ett nyfött bolag.
+
+**[01:45:38.390 - 01:45:41.390]** Ni ska sparka sönder en nyfött bebis bokstavligt talat.
+
+**[01:45:41.390 - 01:45:43.390]** Om ni avser skriva någonting.
+
+**[01:45:43.390 - 01:45:44.390]** Återigen.
+
+**[01:45:44.390 - 01:45:46.390]** Kritiken ni har fått till er.
+
+**[01:45:46.390 - 01:45:49.390]** Handlar ju inte om våran tjänst som vi har byggt.
+
+**[01:45:49.390 - 01:45:51.390]** Och där mitt ansvar sträcker sig till.
+
+**[01:45:51.390 - 01:45:53.390]** Mitt ansvar sträcker sig till.
+
+**[01:45:53.390 - 01:45:55.390]** Vad det är för tjänst vi erbjuder.
+
+**[01:45:55.390 - 01:45:58.390]** Och också vilka dumma eller bra beslut jag tar.
+
+**[01:45:58.390 - 01:46:01.390]** I form av om jag går till rätt eller fel aktör.
+
+**[01:46:01.390 - 01:46:03.390]** Och säger kan ni hjälpa oss med.
+
+**[01:46:03.390 - 01:46:17.350]** Det är ju det vi är mest motörd.
+
+**[01:46:17.350 - 01:46:18.350]** Alltså jag är livrad.
+
+**[01:46:18.350 - 01:46:21.350]** Jag ser ju på er att ni inte är 60 plus.
+
+**[01:46:21.350 - 01:46:24.350]** Antingen så spelar ni eller så fattar ni.
+
+**[01:46:24.350 - 01:46:27.350]** Ni kan inte omöjligtvis inte förstå det här.
+
+**[01:46:27.350 - 01:46:29.350]** Vad det är vi håller på med här.
+
+**[01:46:29.350 - 01:46:31.350]** Och vad vår ambition här är.
+
+**[01:46:31.350 - 01:46:33.350]** Alltså vi ger bort sakerna gratis.
+
+**[01:46:33.350 - 01:46:36.350]** Och ifall de här människorna får någonting.
+
+**[01:46:36.350 - 01:46:38.350]** Alltså ifall de får kunder.
+
+**[01:46:38.350 - 01:46:39.350]** Så ställs det ut en faktura.
+
+**[01:46:39.350 - 01:46:40.350]** Annars gör de inte det.
+
+**[01:46:40.350 - 01:46:42.350]** Men även om ni bortar gratis.
+
+**[01:46:42.350 - 01:46:43.350]** Är ju ingen miss nu då.
+
+**[01:46:43.350 - 01:46:47.770]** Och jag beklagar i så fall att man upplever det.
+
+**[01:46:47.770 - 01:46:50.770]** Det är dock skillnad på en upplevelse.
+
+**[01:46:50.770 - 01:46:51.770]** Om jag säger så här.
+
+**[01:46:51.770 - 01:46:54.770]** Det är skillnad på att jag skulle vara provokativ.
+
+**[01:46:54.770 - 01:46:56.770]** Eller upplevas som provokativ.
+
+**[01:46:56.770 - 01:46:58.890]** Förstår ni vad jag menar?
+
+**[01:46:58.890 - 01:47:00.890]** Det är skillnad på att uppleva sig.
+
+**[01:47:00.890 - 01:47:01.890]** Att bli blivit lurad.
+
+**[01:47:01.890 - 01:47:03.890]** Jag kan uppleva.
+
+**[01:47:03.890 - 01:47:06.400]** Jättemycket just nu.
+
+**[01:47:06.400 - 01:47:08.400]** Jag kan uppleva mig psykiskt misshandlad.
+
+**[01:47:08.400 - 01:47:10.400]** Och hotad.
+
+**[01:47:10.400 - 01:47:11.400]** Och tryckt mot väggen.
+
+**[01:47:11.400 - 01:47:12.400]** Och allt möjligt av er.
+
+**[01:47:12.400 - 01:47:15.400]** Innebär det de facto på definition att det är sant?
+
+**[01:47:15.400 - 01:47:16.400]** Det gör det ju inte.
+
+**[01:47:16.400 - 01:47:17.400]** Eller hur?
+
+**[01:47:17.400 - 01:47:18.400]** Så då anser jag.
+
+**[01:47:18.400 - 01:47:19.400]** Då ställer jag frågan rakt ut.
+
+**[01:47:19.400 - 01:47:23.400]** Är inte ert uppdrag att faktiskt skriva det så sant som möjligt.
+
+**[01:47:23.400 - 01:47:25.400]** En artikel som är så sanningstenlig som möjligt.
+
+**[01:47:25.400 - 01:47:27.400]** Och som går i led med verkligheten.
+
+**[01:47:27.400 - 01:47:29.400]** Som möjligt i alla fall.
+
+**[01:47:29.400 - 01:47:31.400]** Det är väl ambitionen om inte annat eller?
+
+**[01:47:31.400 - 01:47:33.400]** Eller har ni som avsikt att förhålla er till pressetiska regler?
+
+**[01:47:33.400 - 01:47:35.400]** Om jag ställer frågan så.
+
+**[01:47:35.400 - 01:47:36.400]** Vi har fått svara.
+
+**[01:47:36.400 - 01:47:38.400]** Vi har antecknat vad du har svarat.
+
+**[01:47:38.400 - 01:47:40.720]** Vi har hört vad du har svarat.
+
+**[01:47:40.720 - 01:47:41.720]** Är det?
+
+**[01:47:41.720 - 01:47:42.720]** Får jag fråga?
+
+**[01:47:42.720 - 01:47:45.720]** Menar du på allvar att du inte tänker svara på frågan?
+
+**[01:47:45.720 - 01:47:51.720]** Avser ni förhålla er till de pressetiska reglerna som finns att förhålla sig?
+
+**[01:47:51.720 - 01:47:52.720]** Är det inte avordom?
+
+**[01:47:52.720 - 01:47:54.720]** Eller varför skulle vi inte följa de pressetiska reglerna?
+
+**[01:47:54.720 - 01:47:56.720]** Det är en ja och nej fråga någonstans.
+
+**[01:47:56.720 - 01:47:57.720]** Jätteenkelt.
+
+**[01:47:57.720 - 01:48:00.720]** Det är självklart att vi följer de pressetiska reglerna.
+
+**[01:48:00.720 - 01:48:01.720]** Men vad har det?
+
+**[01:48:01.720 - 01:48:03.720]** Jag förstår inte vad det är.
+
+**[01:48:03.720 - 01:48:05.720]** Vad har det med saken att göra?
+
+**[01:48:05.720 - 01:48:07.720]** Eller vad är din fråga?
+
+**[01:48:07.720 - 01:48:11.720]** För att de pressetiska reglerna innefattar att man ska ge en rättvis bild.
+
+**[01:48:11.720 - 01:48:15.720]** Man ska höra båda sidor och därefter ge en rättvis bild.
+
+**[01:48:15.720 - 01:48:16.720]** Ja, precis.
+
+**[01:48:16.720 - 01:48:17.720]** Vi hör vad du säger.
+
+**[01:48:17.720 - 01:48:19.720]** Vi har skrivit ner vad du har sagt.
+
+**[01:48:19.720 - 01:48:21.720]** Ja, men okej.
+
+**[01:48:21.720 - 01:48:24.720]** Jag kanske tar händelserna i färgväg och i så fall ber jag om ursäkt.
+
+**[01:48:24.720 - 01:48:28.720]** Men jag utgår ju någonstans ifrån att ni har som avsikt att skriva en dålig artikel mot oss.
+
+**[01:48:28.720 - 01:48:32.720]** När vi sitter här och försöker förklara för er och må om igen.
+
+**[01:48:32.720 - 01:48:34.720]** Och höll på att slita av med håret.
+
+**[01:48:34.720 - 01:48:36.720]** Vi har ju byggt en tjänst.
+
+**[01:48:36.720 - 01:48:39.720]** Det är den vi levererar, den vi producerar.
+
+**[01:48:39.720 - 01:48:44.720]** Vi har anlitat ett annat bolag som ska ha löst de andra bitarna som inte vi är experter på.
+
+**[01:48:44.720 - 01:48:50.720]** Då är det väl det bolaget som ska få stå till svars för vad man har lovat och inte.
+
+**[01:48:50.720 - 01:48:54.720]** Vi har hållit oss till det löftet som står i det avtalet.
+
+**[01:48:54.720 - 01:48:55.720]** För det är det vi har fått.
+
+**[01:48:55.720 - 01:48:57.720]** Det här är det enda vi har fått.
+
+**[01:48:57.720 - 01:48:58.720]** Vi får det här till oss.
+
+**[01:48:58.720 - 01:48:59.720]** Skicka.
+
+**[01:48:59.720 - 01:49:01.780]** Hej från det här bolaget då.
+
+**[01:49:01.780 - 01:49:03.780]** Så här är min kund.
+
+**[01:49:03.780 - 01:49:05.870]** Inget annat.
+
+**[01:49:05.870 - 01:49:09.870]** Och då har vi följt precis det som står för i det avtalet.
+
+**[01:49:09.870 - 01:49:11.870]** Varenda liten punkt har vi nått.
+
+**[01:49:11.870 - 01:49:13.870]** Eller vi har träffat det man säger då.
+
+**[01:49:13.870 - 01:49:14.870]** Ja.
+
+**[01:49:14.870 - 01:49:18.870]** Det är lite där jag undrar.
+
+**[01:49:18.870 - 01:49:26.870]** Ska ni skriva om, alltså en negativ kritik om ett bolag som inte har genomfört detta så kallade sälj som ni uttrycker er då.
+
+**[01:49:26.870 - 01:49:32.350]** Men som bara har mottagit en beställning och genomfört allting i enlighet med det avtalet som står där.
+
+**[01:49:32.350 - 01:49:33.860]** Allt rätt.
+
+**[01:49:33.860 - 01:49:35.860]** Och sedan inte ens fått betalt.
+
+**[01:49:35.860 - 01:49:37.860]** Så vi får inte betalt från kunden.
+
+**[01:49:37.860 - 01:49:39.860]** För att de upplever att de är lurade då.
+
+**[01:49:39.860 - 01:49:42.860]** Ni missuppfattar oss totalt och skriver en skitartikel låt säga.
+
+**[01:49:42.860 - 01:49:44.860]** Som inte alls stämmer överens med verkligheten egentligen.
+
+**[01:49:44.860 - 01:49:47.860]** Vilket är beklagligt i så fall om det skulle vara så fallet här.
+
+**[01:49:47.860 - 01:49:52.140]** Och det här säljbolaget då.
+
+**[01:49:52.140 - 01:49:55.140]** Som jag har fått alla råd i världen att inte outa.
+
+**[01:49:55.140 - 01:49:58.140]** Men som jag pekar däråt och säger att det har med visst vilja att göra.
+
+**[01:49:58.140 - 01:50:01.140]** Jag är nära på att dra en till jävla ledtråd eller någonting.
+
+**[01:50:01.140 - 01:50:03.140]** För att jag vill verkligen som jag nämnde för det.
+
+**[01:50:03.140 - 01:50:05.140]** Jag tror det är femte gånger jag nämnde det.
+
+**[01:50:05.140 - 01:50:07.140]** Jag vill vara ärlig och säga och transparent.
+
+**[01:50:07.140 - 01:50:08.140]** Ni frågar mig om transparens innan.
+
+**[01:50:08.140 - 01:50:09.140]** Och han skrattar.
+
+**[01:50:09.140 - 01:50:10.140]** Varför gjorde han det?
+
+**[01:50:10.140 - 01:50:12.140]** För att göra den mest transparenta personen de här människorna känner.
+
+**[01:50:12.140 - 01:50:16.510]** Jag vill ge er detta.
+
+**[01:50:16.510 - 01:50:17.510]** Jag vill säga.
+
+**[01:50:17.510 - 01:50:18.510]** Där sitter de.
+
+**[01:50:18.510 - 01:50:19.510]** Gå dit.
+
+**[01:50:19.510 - 01:50:21.510]** Mitt ansvar sträcker sig som vd för detta bolaget.
+
+**[01:50:21.510 - 01:50:23.510]** Att jag var dum nog och inte visste bättre.
+
+**[01:50:23.510 - 01:50:27.510]** Jag återigen inte kvalificerar att avgöra som jag jämför innan.
+
+**[01:50:27.510 - 01:50:29.510]** Jag kan inte veta om en altan är bra byggd eller inte.
+
+**[01:50:29.510 - 01:50:31.510]** Eller om en husgrund är bra eller inte.
+
+**[01:50:31.510 - 01:50:33.510]** Jag är inte elektriker.
+
+**[01:50:33.510 - 01:50:35.510]** Jag fattar inte sånt här kära vänner.
+
+**[01:50:35.510 - 01:50:36.510]** Jag vet inte.
+
+**[01:50:36.510 - 01:50:38.510]** Så vi gick till dem som vi ansåg borde rimligtvis veta.
+
+**[01:50:38.510 - 01:50:39.510]** Eller hur?
+
+**[01:50:39.510 - 01:50:41.510]** Vi har fått ställa frågor.
+
+**[01:50:41.510 - 01:50:42.510]** Vi har fått ställa dem.
+
+**[01:50:42.510 - 01:50:43.510]** Vi har svarat.
+
+**[01:50:43.510 - 01:50:45.510]** Gått så.
+
+**[01:50:45.510 - 01:50:46.510]** Nej.
+
+**[01:50:46.510 - 01:50:47.510]** Gått så.
+
+**[01:50:47.510 - 01:50:50.510]** Jag har en fråga till som jag skulle ställa bara.
+
+**[01:50:50.510 - 01:50:54.510]** Och det är ju då den här personen som jag pratat med.
+
+**[01:50:54.510 - 01:50:56.510]** Som tidigare jobbat som säljare.
+
+**[01:50:56.510 - 01:51:00.510]** Får en massa samtal från utbröda fynden.
+
+**[01:51:00.510 - 01:51:01.510]** Även långt efter.
+
+**[01:51:01.510 - 01:51:05.510]** Och jag undrar hur ni ställer det till det.
+
+**[01:51:05.510 - 01:51:07.510]** Vi har hört av oss till dem.
+
+**[01:51:07.510 - 01:51:09.670]** Samtliga alltså.
+
+**[01:51:09.670 - 01:51:10.670]** Och har rätt ut allting.
+
+**[01:51:10.670 - 01:51:12.670]** Så det är inget nytt för oss.
+
+**[01:51:12.670 - 01:51:15.670]** Hon har hört av sig efter sin anställning till oss flertalet gånger.
+
+**[01:51:15.670 - 01:51:18.670]** Hon har varit här till och med med sin sambo.
+
+**[01:51:18.670 - 01:51:19.670]** Och bett om hjälp om detta.
+
+**[01:51:19.670 - 01:51:20.670]** Att hon har blivit kontakt.
+
+**[01:51:20.670 - 01:51:21.670]** Och vi.
+
+**[01:51:21.670 - 01:51:22.670]** Alltså är det tallat så har det varit väldigt.
+
+**[01:51:22.670 - 01:51:23.670]** Så för oss har det varit.
+
+**[01:51:23.670 - 01:51:24.670]** Vad fan är det frågan om.
+
+**[01:51:24.670 - 01:51:26.670]** Vad är det för någon människa som ringer och hotar dig.
+
+**[01:51:26.670 - 01:51:28.670]** Och skit på din fritid och grejer.
+
+**[01:51:28.670 - 01:51:30.670]** De har inte ens betalat oss här.
+
+**[01:51:30.670 - 01:51:31.670]** Det är ingen som har lurat dem.
+
+**[01:51:31.670 - 01:51:33.670]** Och så ringer vi upp och tar taxion på detta.
+
+**[01:51:33.670 - 01:51:34.670]** Och löst den biten.
+
+**[01:51:34.670 - 01:51:35.960]** Vi har löst den biten.
+
+**[01:51:35.960 - 01:51:37.960]** Jag tycker synd om han är med.
+
+**[01:51:37.960 - 01:51:40.060]** Samtidigt så.
+
+**[01:51:40.060 - 01:51:41.060]** Ja.
+
+**[01:51:41.060 - 01:51:44.780]** Någonstans.
+
+**[01:51:44.780 - 01:51:45.780]** Så.
+
+**[01:51:45.780 - 01:51:46.780]** Det är kul.
+
+**[01:51:46.780 - 01:51:47.940]** Ja.
+
+**[01:51:47.940 - 01:51:48.940]** Ingen tycker synd om det här.
+
+**[01:51:48.940 - 01:51:49.940]** Om oss heller.
+
+**[01:51:49.940 - 01:51:50.940]** Men ja.
+
+**[01:51:50.940 - 01:51:52.940]** Hon har ju fått sin lön liksom.
+
+**[01:51:52.940 - 01:51:53.940]** Hon har ju fått.
+
+**[01:51:53.940 - 01:51:54.940]** Ja.
+
+**[01:51:54.940 - 01:51:55.940]** Vi har faktiskt.
+
+**[01:51:55.940 - 01:51:56.940]** Ja precis.
+
+**[01:51:56.940 - 01:51:57.940]** Det är svaret i alla fall.
+
+**[01:51:57.940 - 01:51:58.940]** Vi har gått.
+
+**[01:51:58.940 - 01:52:00.940]** Varenda missnöjd kund har vi tagit kontakt med.
+
+**[01:52:00.940 - 01:52:03.940]** Därför blev jag lite förvånad när det var.
+
+**[01:52:03.940 - 01:52:09.210]** Att man inte har fått kontakt med oss.
+
+**[01:52:09.210 - 01:52:10.210]** Eller vad det var.
+
+**[01:52:10.210 - 01:52:11.210]** Eller.
+
+**[01:52:11.210 - 01:52:13.210]** En återkommande företaget.
+
+**[01:52:13.210 - 01:52:14.210]** Säger upp sin avtal.
+
+**[01:52:14.210 - 01:52:15.210]** Nej.
+
+**[01:52:15.210 - 01:52:16.210]** Det fungerar.
+
+**[01:52:16.210 - 01:52:17.210]** Av några sälmallar.
+
+**[01:52:17.210 - 01:52:18.210]** Jag vet inte.
+
+**[01:52:18.210 - 01:52:19.210]** Ja.
+
+**[01:52:19.210 - 01:52:20.210]** Det har vi fått kontakt då.
+
+**[01:52:20.210 - 01:52:21.210]** Ja.
+
+**[01:52:21.210 - 01:52:22.210]** Där.
+
+**[01:52:22.210 - 01:52:23.210]** Flera som jag har pratat med.
+
+**[01:52:23.210 - 01:52:24.210]** Har återkommande försökt.
+
+**[01:52:24.210 - 01:52:25.210]** Kontakta dig och företaget.
+
+**[01:52:25.210 - 01:52:26.210]** För att säga upp.
+
+**[01:52:26.210 - 01:52:27.210]** Sina avtal.
+
+**[01:52:27.210 - 01:52:28.210]** Nu känner jag sig lurade.
+
+**[01:52:28.210 - 01:52:29.210]** Men avtalen avslutas inte.
+
+**[01:52:29.210 - 01:52:30.210]** Varför inte.
+
+**[01:52:30.210 - 01:52:31.210]** Ja.
+
+**[01:52:31.210 - 01:52:32.210]** Avslut.
+
+**[01:52:32.210 - 01:52:33.210]** Det är.
+
+**[01:52:33.210 - 01:52:34.210]** De som har hört av sig.
+
+**[01:52:34.210 - 01:52:36.210]** Till oss med att säga upp sitt avtal.
+
+**[01:52:36.210 - 01:52:38.210]** Har ju fått en bekräftelse på att ditt avtal är uppsagt.
+
+**[01:52:38.210 - 01:52:40.210]** Men det löper ju fortfarande.
+
+**[01:52:40.210 - 01:52:41.210]** 12 månader.
+
+**[01:52:41.210 - 01:52:42.210]** Precis som en.
+
+**[01:52:42.210 - 01:52:43.210]** Lägenhet där vi hyrar.
+
+**[01:52:43.210 - 01:52:44.210]** Om det inte.
+
+**[01:52:44.210 - 01:52:46.660]** Om det inte har varit under provperioden.
+
+**[01:52:46.660 - 01:52:47.660]** När vi körde det.
+
+**[01:52:47.660 - 01:52:48.660]** Väldigt.
+
+**[01:52:48.660 - 01:52:49.660]** Vi provade det.
+
+**[01:52:49.660 - 01:52:51.660]** Under en väldigt kort tid.
+
+**[01:52:51.660 - 01:52:53.660]** Sen insåg vi väldigt snabbt.
+
+**[01:52:53.660 - 01:52:54.660]** Alltså okej.
+
+**[01:52:54.660 - 01:52:55.660]** Det här går ju inte.
+
+**[01:52:55.660 - 01:52:56.660]** Provperiod.
+
+**[01:52:56.660 - 01:52:57.660]** What the fuck.
+
+**[01:52:57.660 - 01:52:58.660]** Om det går riktigt.
+
+**[01:52:58.660 - 01:53:00.660]** Har ni förklarat lite kunderna då också.
+
+**[01:53:00.660 - 01:53:01.660]** När de har haft avsynheten.
+
+**[01:53:01.660 - 01:53:02.660]** Ja.
+
+**[01:53:02.660 - 01:53:03.660]** När de har avslutat det.
+
+**[01:53:03.660 - 01:53:04.660]** Men det löper ändå.
+
+**[01:53:04.660 - 01:53:05.660]** All månader ut.
+
+**[01:53:05.660 - 01:53:06.660]** Ja.
+
+**[01:53:06.660 - 01:53:08.660]** Både såväl på telefon vad jag vet.
+
+**[01:53:08.660 - 01:53:10.660]** Och de gångerna jag har hört.
+
+**[01:53:10.660 - 01:53:11.660]** Och det som har kommit till mig.
+
+**[01:53:11.660 - 01:53:13.660]** Men också i skrift framförallt.
+
+**[01:53:13.660 - 01:53:14.660]** För någonstans där.
+
+**[01:53:14.660 - 01:53:16.660]** Så har vi ju skapat mejl.
+
+**[01:53:16.660 - 01:53:17.660]** Som är för skalbarhetens skull.
+
+**[01:53:17.660 - 01:53:19.660]** Vi behöver inte upprätta ett nytt mejl.
+
+**[01:53:19.660 - 01:53:21.660]** Varandra gång någon hör av sig och ser upp.
+
+**[01:53:21.660 - 01:53:23.660]** Utan det är klart att vi har skrivit ett standard mejl.
+
+**[01:53:23.660 - 01:53:25.660]** Att vi har mottagit din uppsägning.
+
+**[01:53:25.660 - 01:53:27.660]** Vändligen klicka på den här enkäten.
+
+**[01:53:27.660 - 01:53:29.660]** För vi vill bli bättre och bättre.
+
+**[01:53:29.660 - 01:53:30.660]** Och är mottagliga för feedback.
+
+**[01:53:30.660 - 01:53:32.660]** Och vill veta hur det kommer sig att du ser upp.
+
+**[01:53:32.660 - 01:53:34.660]** Och där ställer vi frågor som.
+
+**[01:53:34.660 - 01:53:36.660]** Så här känner du till alternativen.
+
+**[01:53:36.660 - 01:53:37.660]** Liksom.
+
+**[01:53:37.660 - 01:53:38.660]** Och så svarar de.
+
+**[01:53:38.660 - 01:53:39.660]** Nej.
+
+**[01:53:39.660 - 01:53:40.660]** Okej.
+
+**[01:53:40.660 - 01:53:41.660]** Liksom.
+
+**[01:53:41.660 - 01:53:44.660]** Anser du att tjänsten i rocket är orättvis på något sätt.
+
+**[01:53:44.660 - 01:53:45.980]** Nej.
+
+**[01:53:45.980 - 01:53:49.190]** Alltså ni hade.
+
+**[01:53:49.190 - 01:53:50.190]** Jag skämtar inte.
+
+**[01:53:50.190 - 01:53:53.190]** Om jag hade skrivit ut alla de här.
+
+**[01:53:53.190 - 01:53:54.190]** Alltså.
+
+**[01:53:54.190 - 01:53:56.190]** Vad det nu kan vara ett 20-tal.
+
+**[01:53:56.190 - 01:53:59.900]** Som har använt det här uppsägningsformuläret.
+
+**[01:53:59.900 - 01:54:01.900]** I sin uppsägningsprocess då.
+
+**[01:54:01.900 - 01:54:02.900]** Om man säger.
+
+**[01:54:02.900 - 01:54:03.900]** Så hade ni också börjat tänka.
+
+**[01:54:03.900 - 01:54:05.900]** Kan vi verkligen publicera detta här.
+
+**[01:54:05.900 - 01:54:06.900]** Det här är ju.
+
+**[01:54:06.900 - 01:54:07.900]** Alltså.
+
+**[01:54:07.900 - 01:54:08.900]** Vad är det för människor.
+
+**[01:54:08.900 - 01:54:09.900]** De här.
+
+**[01:54:09.900 - 01:54:10.900]** Det här.
+
+**[01:54:10.900 - 01:54:11.900]** Det här bolaget.
+
+**[01:54:11.900 - 01:54:12.900]** De anlitar i början där.
+
+**[01:54:12.900 - 01:54:13.900]** Har ringt upp egentligen.
+
+**[01:54:13.900 - 01:54:14.900]** För.
+
+**[01:54:14.900 - 01:54:15.900]** Man kan ifrågasätta.
+
+**[01:54:15.900 - 01:54:16.900]** All.
+
+**[01:54:16.900 - 01:54:17.900]** All.
+
+**[01:54:17.900 - 01:54:18.900]** All.
+
+**[01:54:18.900 - 01:54:20.120]** All.
+
+**[01:54:20.120 - 01:54:21.120]** Jag skämpar inte alltså.
+
+**[01:54:21.120 - 01:54:22.120]** Det är bokstavligt talat.
+
+**[01:54:22.120 - 01:54:23.120]** Frågor.
+
+**[01:54:23.120 - 01:54:24.120]** Som är så konkreta och tydliga.
+
+**[01:54:24.120 - 01:54:26.120]** Anser du att tjänsten är orättvis på något sätt.
+
+**[01:54:26.120 - 01:54:27.120]** Nej.
+
+**[01:54:27.120 - 01:54:28.120]** Ja eller nej.
+
+**[01:54:28.120 - 01:54:29.120]** Nej.
+
+**[01:54:29.120 - 01:54:30.120]** Okej.
+
+**[01:54:30.120 - 01:54:31.120]** Och så ändå.
+
+**[01:54:31.120 - 01:54:32.150]** Är de liksom.
+
+**[01:54:32.150 - 01:54:33.280]** Det.
+
+**[01:54:33.280 - 01:54:35.280]** Det är lite det som jag önskat att.
+
+**[01:54:35.280 - 01:54:36.280]** Okej.
+
+**[01:54:36.280 - 01:54:37.280]** Men vad fasen.
+
+**[01:54:37.280 - 01:54:38.280]** Kan vi inte bara gå till bete.
+
+**[01:54:38.280 - 01:54:39.280]** Kan vi inte gå till media.
+
+**[01:54:39.280 - 01:54:40.280]** Kan vi inte.
+
+**[01:54:40.280 - 01:54:41.280]** Vi behöver hjälp här.
+
+**[01:54:41.280 - 01:54:43.280]** För vi har ju stött på världens utmaning.
+
+**[01:54:43.280 - 01:54:45.280]** Vi försöker göra någonting jättefint här.
+
+**[01:54:45.280 - 01:54:47.280]** Och digitalisera hela näringslivet.
+
+**[01:54:47.280 - 01:54:48.280]** Kan vi gå tillbaka.
+
+**[01:54:48.280 - 01:54:49.280]** Varje företag.
+
+**[01:54:49.280 - 01:54:50.280]** Oavsett ambition.
+
+**[01:54:50.280 - 01:54:51.280]** Omsättning.
+
+**[01:54:51.280 - 01:54:52.280]** Bransch.
+
+**[01:54:52.280 - 01:54:53.280]** De ska ha rätt till en klockren webb.
+
+**[01:54:53.280 - 01:54:54.280]** De ska ha rätten till det.
+
+**[01:54:54.280 - 01:54:56.280]** Och det ska inte behöva kosta hundratusen spänn.
+
+**[01:54:56.280 - 01:54:57.280]** För fan.
+
+**[01:54:57.280 - 01:54:58.280]** Det ska.
+
+**[01:54:58.280 - 01:54:59.280]** Fan.
+
+**[01:54:59.280 - 01:55:00.280]** Vi löser det så att de får det gratis till och med.
+
+**[01:55:00.280 - 01:55:01.280]** Och om det ger dem värde.
+
+**[01:55:01.280 - 01:55:02.280]** Då kan de betala tillbaks.
+
+**[01:55:02.280 - 01:55:03.280]** Då blir det win-win ju.
+
+**[01:55:03.280 - 01:55:04.280]** Så har vi ju tänkt.
+
+**[01:55:04.280 - 01:55:06.280]** Ni frågade mig i början här.
+
+**[01:55:06.280 - 01:55:09.280]** Om jag har sociala eller sociala medel med jobb om det.
+
+**[01:55:09.280 - 01:55:13.280]** Och det är ju en jättestor anledning till att vi böja.
+
+**[01:55:13.280 - 01:55:15.280]** Ta över våra egna marknadsföringsdelar.
+
+**[01:55:15.280 - 01:55:17.280]** Eller ta kontrollen över det.
+
+**[01:55:17.280 - 01:55:18.280]** För att kunna kontrollera närheten.
+
+**[01:55:18.280 - 01:55:20.280]** För att berätta en så ärlig och så tydlig bild.
+
+**[01:55:20.280 - 01:55:22.280]** Om vad våra känslor faktiskt är.
+
+**[01:55:22.280 - 01:55:25.280]** Det första jag sa när jag fick ditt.
+
+**[01:55:25.280 - 01:55:28.280]** Eller när det kom till min kännedom.
+
+**[01:55:28.280 - 01:55:29.280]** Det var från min fru.
+
+**[01:55:29.280 - 01:55:32.280]** Det kanske du har listat ut.
+
+**[01:55:32.280 - 01:55:35.280]** I och med att det var säkert den samma dag tror jag.
+
+**[01:55:35.280 - 01:55:37.280]** Eller så fort de berättade för mig i alla fall.
+
+**[01:55:37.280 - 01:55:39.280]** Att började av det så började jag kolla runt.
+
+**[01:55:39.280 - 01:55:40.280]** Och bara okej.
+
+**[01:55:40.280 - 01:55:41.280]** Jag använder inte i Rocket-mailen.
+
+**[01:55:41.280 - 01:55:42.280]** Tyvärr.
+
+**[01:55:42.280 - 01:55:43.280]** Så ofta.
+
+**[01:55:43.280 - 01:55:44.280]** Så.
+
+**[01:55:44.280 - 01:55:47.540]** Det första jag sa var här.
+
+**[01:55:47.540 - 01:55:49.540]** Bland alla.
+
+**[01:55:49.540 - 01:55:50.540]** Så jag bara kolla.
+
+**[01:55:50.540 - 01:55:52.540]** Vi skulle ha haft fucking en Youtube-kanal.
+
+**[01:55:52.540 - 01:55:54.540]** Och bara dokumentera hela skiten.
+
+**[01:55:54.540 - 01:55:56.540]** Allting från start till slut.
+
+**[01:55:56.540 - 01:55:58.540]** Då hade vi haft all jävla skit.
+
+**[01:55:58.540 - 01:56:00.540]** Då är det skitsamma vad ni skriver om jag ska vara helt ärlig.
+
+**[01:56:00.540 - 01:56:01.540]** För då finns det.
+
+**[01:56:01.540 - 01:56:03.540]** Vi har inte filmat färdigt.
+
+**[01:56:03.540 - 01:56:04.540]** Liksom.
+
+**[01:56:04.540 - 01:56:05.540]** Vi har dokumenterat allting.
+
+**[01:56:05.540 - 01:56:07.540]** Hur mycket alla människor här har kämpat.
+
+**[01:56:07.540 - 01:56:09.540]** Hur mycket vi har fått offra här.
+
+**[01:56:09.540 - 01:56:11.540]** För att lösa en sån här tjänst.
+
+**[01:56:11.540 - 01:56:12.540]** Som nu är.
+
+**[01:56:12.540 - 01:56:14.540]** Riskerar att bli totalkvaddad.
+
+**[01:56:14.540 - 01:56:15.540]** Av ett missförstånd.
+
+**[01:56:15.540 - 01:56:16.540]** Eller någon.
+
+**[01:56:16.540 - 01:56:18.540]** Gammal säljare.
+
+**[01:56:18.540 - 01:56:19.540]** Höjande.
+
+**[01:56:19.540 - 01:56:20.540]** Hur sjukt det är.
+
+**[01:56:20.540 - 01:56:22.540]** En säljare blir av med sitt jobb.
+
+**[01:56:22.540 - 01:56:23.540]** Och går till media.
+
+**[01:56:23.540 - 01:56:24.540]** Men gud.
+
+**[01:56:24.540 - 01:56:26.540]** Alltså det är inte så att man går till media och säger.
+
+**[01:56:26.540 - 01:56:29.540]** Jag älskar verkligen det här företaget som sparkade mig.
+
+**[01:56:29.540 - 01:56:32.540]** För att jag nådde alltid upp till mina mål.
+
+**[01:56:32.540 - 01:56:33.540]** Eller vad.
+
+**[01:56:33.540 - 01:56:34.540]** Nej.
+
+**[01:56:34.540 - 01:56:35.540]** Det finns ju en anledning.
+
+**[01:56:35.540 - 01:56:37.540]** Man måste ju ställa sig frågan.
+
+**[01:56:37.540 - 01:56:41.540]** Vad är anledningen bakom att denna person valde att komma till oss.
+
+**[01:56:41.540 - 01:56:43.540]** Och berätta om detta.
+
+**[01:56:43.540 - 01:56:46.540]** Är det någonting som människan gör i affekt kanske.
+
+**[01:56:46.540 - 01:56:48.570]** Ska vi verkligen gå.
+
+**[01:56:48.570 - 01:56:50.570]** På allt det här människan säger.
+
+**[01:56:50.570 - 01:56:51.570]** Nej det är klart då.
+
+**[01:56:51.570 - 01:56:52.570]** Då säger ni att ni inte gör ju.
+
+**[01:56:52.570 - 01:56:54.570]** För att ni vill höra båda sidor.
+
+**[01:56:54.570 - 01:56:56.570]** Och det respekterar jag verkligen.
+
+**[01:56:56.570 - 01:56:57.790]** Men.
+
+**[01:56:57.790 - 01:56:59.790]** Det jag är så i min helskotta rädd för.
+
+**[01:56:59.790 - 01:57:00.790]** Det är att ni.
+
+**[01:57:00.790 - 01:57:02.790]** Att ni missförstår hela den här grejen.
+
+**[01:57:02.790 - 01:57:05.790]** Och att ni kvaddar detta som har investerats.
+
+**[01:57:05.790 - 01:57:06.790]** Det.
+
+**[01:57:06.790 - 01:57:07.790]** Det kommer inte investeras mer.
+
+**[01:57:07.790 - 01:57:08.790]** Än 30.
+
+**[01:57:08.790 - 01:57:09.890]** Mille.
+
+**[01:57:09.890 - 01:57:10.920]** På det här.
+
+**[01:57:10.920 - 01:57:12.920]** Det är 30 miljoner som har investerats i detta.
+
+**[01:57:12.920 - 01:57:13.920]** För att bygga.
+
+**[01:57:13.920 - 01:57:14.920]** För att.
+
+**[01:57:14.920 - 01:57:15.920]** För att.
+
+**[01:57:15.920 - 01:57:16.920]** För att.
+
+**[01:57:16.920 - 01:57:17.920]** För att.
+
+**[01:57:17.920 - 01:57:18.920]** För att.
+
+**[01:57:18.920 - 01:57:19.920]** För att.
+
+**[01:57:19.920 - 01:57:20.920]** För att.
+
+**[01:57:20.920 - 01:57:21.920]** För att.
+
+**[01:57:21.920 - 01:57:22.920]** För att.
+
+**[01:57:22.920 - 01:57:23.920]** För att.
+
+**[01:57:23.920 - 01:57:24.920]** För att.
+
+**[01:57:24.920 - 01:57:25.920]** För att.
+
+**[01:57:25.920 - 01:57:26.920]** För att.
+
+**[01:57:26.920 - 01:57:27.920]** För att.
+
+**[01:57:27.920 - 01:57:28.920]** För att.
+
+**[01:57:28.920 - 01:57:29.920]** För att.
+
+**[01:57:29.920 - 01:57:30.920]** För att.
+
+**[01:57:30.920 - 01:57:31.920]** För att.
+
+**[01:57:31.920 - 01:57:32.920]** För att.
+
+**[01:57:32.920 - 01:57:33.920]** För att.
+
+**[01:57:33.920 - 01:57:34.920]** För att.
+
+**[01:57:34.920 - 01:57:35.920]** För att.
+
+**[01:57:35.920 - 01:57:36.920]** För att.
+
+**[01:57:36.920 - 01:57:37.920]** För att.
+
+**[01:57:37.920 - 01:57:38.920]** För att.
+
+**[01:57:38.920 - 01:57:39.920]** För att.
+
+**[01:57:39.920 - 01:57:40.920]** För att.
+
+**[01:57:40.920 - 01:57:41.920]** publiceras en.
+
+**[01:57:41.920 - 01:57:42.920]** En.
+
+**[01:57:42.920 - 01:57:43.920]** Så pass orättvis artikel.
+
+**[01:57:43.920 - 01:57:44.920]** Som är viktat.
+
+**[01:57:44.920 - 01:57:45.920]** Eller riktad.
+
+**[01:57:45.920 - 01:57:46.920]** på det sättet.
+
+**[01:57:46.920 - 01:57:47.920]** Som jag är rädd för.
+
+**[01:57:47.920 - 01:57:48.920]** Om man säger att ni.
+
+**[01:57:48.920 - 01:57:49.920]** Har som avsikt.
+
+**[01:57:49.920 - 01:57:50.920]** Att göra.
+
+**[01:57:50.920 - 01:57:51.920]** Och det är därför.
+
+**[01:57:51.920 - 01:57:52.920]** Jag ställer frågan igen.
+
+**[01:57:52.920 - 01:57:53.920]** Har ni fått någon.
+
+**[01:57:53.920 - 01:57:54.920]** Form av liksom.
+
+**[01:57:54.920 - 01:57:55.920]** Mer övergripande.
+
+**[01:57:55.920 - 01:57:56.920]** Liksom.
+
+**[01:57:56.920 - 01:57:57.920]** Eller ska jag skita.
+
+**[01:57:57.920 - 01:57:58.920]** Alltså om ni.
+
+**[01:57:58.920 - 01:57:59.920]** Säger till mig.
+
+**[01:57:59.920 - 01:58:00.920]** Så här nu.
+
+**[01:58:00.920 - 01:58:01.920]** Om du säger vilket.
+
+**[01:58:01.920 - 01:58:03.340]** Vilket bolag du anlitade.
+
+**[01:58:03.340 - 01:58:04.340]** För sälj.
+
+**[01:58:04.340 - 01:58:05.340]** Alltså.
+
+**[01:58:05.340 - 01:58:06.340]** För att nå ut till kunder.
+
+**[01:58:06.340 - 01:58:07.690]** Med våran tjänst.
+
+**[01:58:07.690 - 01:58:08.690]** Då.
+
+**[01:58:08.690 - 01:58:09.690]** Kommer vi gå till det.
+
+**[01:58:09.690 - 01:58:10.690]** Och vi.
+
+**[01:58:10.690 - 01:58:11.690]** Kommer inte skriva om.
+
+**[01:58:11.690 - 01:58:12.690]** Er.
+
+**[01:58:12.690 - 01:58:13.690]** I det.
+
+**[01:58:13.690 - 01:58:14.690]** På det sättet.
+
+**[01:58:14.690 - 01:58:15.690]** Eller i dålig.
+
+**[01:58:15.690 - 01:58:16.690]** Eller i den kritiken.
+
+**[01:58:16.690 - 01:58:17.690]** Eller vad det nu kan vara.
+
+**[01:58:17.690 - 01:58:18.720]** Då hade jag.
+
+**[01:58:18.720 - 01:58:19.720]** Direkt skitit i alla.
+
+**[01:58:19.720 - 01:58:20.720]** Jävla rådgivare.
+
+**[01:58:20.720 - 01:58:21.720]** Vad de har sagt.
+
+**[01:58:21.720 - 01:58:22.720]** Vilket bolag det är.
+
+**[01:58:22.720 - 01:58:23.720]** Så kan ni sticka dit om ni vill.
+
+**[01:58:23.720 - 01:58:25.420]** Hur många skog som helst.
+
+**[01:58:25.420 - 01:58:26.420]** Nu har vi sagt det här.
+
+**[01:58:26.420 - 01:58:27.420]** Fråga gånger.
+
+**[01:58:27.420 - 01:58:28.420]** Vi kom hit för att ställa frågor.
+
+**[01:58:28.420 - 01:58:29.420]** Om den kritik.
+
+**[01:58:29.420 - 01:58:30.420]** Som har funnits.
+
+**[01:58:30.420 - 01:58:31.420]** Fråga.
+
+**[01:58:31.420 - 01:58:32.420]** Och säljare.
+
+**[01:58:32.420 - 01:58:33.420]** Och nu har vi gjort det.
+
+**[01:58:33.420 - 01:58:34.420]** När jag svarat.
+
+**[01:58:34.420 - 01:58:36.420]** Och nu har vi fått ställa.
+
+**[01:58:36.420 - 01:58:37.420]** Fråga.
+
+**[01:58:37.420 - 01:58:38.420]** Vi är nöjda.
+
+**[01:58:40.420 - 01:58:41.420]** Det är det vi kan säga.
+
+**[01:58:41.420 - 01:58:42.460]** Så det har vi sagt.
+
+**[01:58:42.460 - 01:58:44.460]** Vi behöver tack för igång det också.
+
+**[01:58:44.460 - 01:58:46.290]** Så.
+
+**[01:58:46.290 - 01:58:47.290]** Tack så jättemycket för att du fick komma hit.
+
+**[01:58:47.290 - 01:58:49.290]** Och prata med er.
+
+**[01:58:49.290 - 01:58:50.290]** Och lyssna på vad du säger.
+
+**[01:58:50.290 - 01:58:52.290]** Tack så mycket.
+
+**[01:58:52.290 - 01:58:54.290]** Vill ni fortfarande ha en rumtur eller?
+
+**[01:58:54.290 - 01:58:56.640]** Eh.
+
+**[01:58:56.640 - 01:59:00.100]** Varje.
+
+**[01:59:00.100 - 01:59:01.300]** Tre.
+
+**[01:59:01.300 - 01:59:07.850]** Vi kanske nöjer oss här.
+
+**[01:59:07.850 - 01:59:09.200]** All right.
+
+**[01:59:09.200 - 01:59:21.880]** Är Matilda.
+
+**[01:59:21.880 - 01:59:23.880]** Ska du få ett bluffföretag.
+
+**[01:59:23.880 - 01:59:24.880]** Varsågod.
+
+**[01:59:24.880 - 01:59:26.880]** Jag ska skriva om.
+
+**[01:59:26.880 - 01:59:29.810]** Det där är bluffföretag.
+
+**[01:59:29.810 - 01:59:31.810]** De fakturerna fick vi.
+
+**[01:59:31.810 - 01:59:32.810]** Erbjudande om.
+
+**[01:59:32.810 - 01:59:33.810]** Och lalalala.
+
+**[01:59:33.810 - 01:59:34.810]** Och sen så var det.
+
+**[01:59:34.810 - 01:59:35.810]** En kund.
+
+**[01:59:35.810 - 01:59:37.810]** Som önskade att domänen.
+
+**[01:59:37.810 - 01:59:38.810]** Som vi köpte.
+
+**[01:59:38.810 - 01:59:39.810]** Vad skulle köpa.
+
+**[01:59:39.810 - 01:59:40.810]** Är kundens namn.
+
+**[01:59:40.810 - 01:59:41.810]** Och så gjorde det.
+
+**[01:59:41.810 - 01:59:42.810]** Och då trodde kunden att.
+
+**[01:59:42.810 - 01:59:43.810]** Vi skickat ut.
+
+**[01:59:43.810 - 01:59:44.810]** Dom här fakturor.
+
+**[01:59:44.810 - 01:59:45.810]** Eller en sån här fakturor till honom.
+
+**[01:59:45.810 - 01:59:46.810]** Och honom också.
+
+**[01:59:46.810 - 01:59:47.810]** Det är det där.
+
+**[01:59:47.810 - 01:59:48.870]** Så att det är.
+
+**[01:59:48.870 - 01:59:49.870]** Intressant va.
+
+**[01:59:49.870 - 01:59:51.870]** Så att bara för att vi köper massa domäner.
+
+**[01:59:51.870 - 01:59:53.870]** Så finns det uppenbarligen företag som.
+
+**[01:59:53.870 - 01:59:55.870]** Fysslar med att kolla upp vilka bolag.
+
+**[01:59:55.870 - 01:59:56.870]** Som köper domäner.
+
+**[01:59:56.870 - 01:59:57.870]** Och sen så kan det.
+
+**[01:59:57.870 - 01:59:59.160]** Faktura.
+
+**[01:59:59.160 - 02:00:09.380]** Ni kom och.
+
+**[02:00:09.380 - 02:00:10.380]** Så.
+
+**[02:00:10.380 - 02:00:12.180]** Då ska jag.
+
+**[02:00:12.180 - 02:00:13.180]** Tack så mycket.
+
+**[02:00:13.180 - 02:00:16.460]** Tack så mycket.
+
+**[02:00:16.460 - 02:00:18.460]** Borås för min extrematation här.
+
+**[02:00:18.460 - 02:00:20.680]** Det kan uppfattas som.
+
+**[02:00:20.680 - 02:00:21.780]** Nej det är.
+
+**[02:00:21.780 - 02:00:22.780]** Frustration.
+
+**[02:00:22.780 - 02:00:23.780]** Eller situation.
+
+**[02:00:23.780 - 02:00:24.780]** Tack.
+
+**[02:00:24.780 - 02:00:25.780]** Vi ville höra vad ni hade att säga.
+
+**[02:00:25.780 - 02:00:26.780]** Och det fick vi.
+
+**[02:00:26.780 - 02:00:27.780]** Så det.
+
+**[02:00:27.780 - 02:00:28.780]** Bra.
+
+**[02:00:28.780 - 02:00:29.780]** Det går också.
+
+**[02:00:29.780 - 02:00:30.780]** Är det här något boråsbaserat på det?
+
+**[02:00:30.780 - 02:00:31.780]** Ja.
+
+**[02:00:31.780 - 02:00:32.780]** Ja.
+
+**[02:00:32.780 - 02:00:33.780]** Nej men.
+
+**[02:00:33.780 - 02:00:34.780]** Jag sparade bokstavligen.
+
+**[02:00:34.780 - 02:00:35.780]** För att jag tänkte.
+
+**[02:00:35.780 - 02:00:36.780]** Kolla.
+
+**[02:00:36.780 - 02:00:37.780]** Där har du.
+
+**[02:00:37.780 - 02:00:38.780]** Till exempel.
+
+**[02:00:38.780 - 02:00:39.780]** Där är du.
+
+**[02:00:39.780 - 02:00:40.780]** Det är.
+
+**[02:00:40.780 - 02:00:41.780]** Det är.
+
+**[02:00:41.780 - 02:00:42.780]** Det är.
+
+**[02:00:42.780 - 02:00:43.780]** Att det är.
+
+**[02:00:43.780 - 02:00:44.780]** Att det är från.
+
+**[02:00:44.780 - 02:00:45.780]** Alltså.
+
+**[02:00:45.780 - 02:00:46.840]** Men det.
+
+**[02:00:46.840 - 02:00:47.840]** Det är.
+
+**[02:00:47.840 - 02:00:48.840]** Det är.
+
+**[02:00:48.840 - 02:00:49.840]** Blåsbaserat.
+
+**[02:00:49.840 - 02:00:58.550]** Inte.
+
+**[02:00:58.550 - 02:00:59.550]** Det är.
+
+**[02:00:59.550 - 02:01:00.550]** Det är.
+
+**[02:01:00.550 - 02:01:01.550]** Det är.
+
+**[02:01:01.550 - 02:01:02.550]** Det är.
+
+**[02:01:02.550 - 02:01:03.550]** Det är.
+
+**[02:01:03.550 - 02:01:04.550]** Det är.
+
+**[02:01:04.550 - 02:01:05.550]** Att det är.
+
+**[02:01:05.550 - 02:01:06.550]** Att det är.
+
+**[02:01:06.550 - 02:01:07.550]** Att det är.
+
+**[02:01:07.550 - 02:01:08.550]** Det är.
+
+**[02:01:08.550 - 02:01:09.550]** Det är.
+
+**[02:01:09.550 - 02:01:10.550]** Att det är.
+
+**[02:01:10.550 - 02:01:11.550]** Att det är.
+
+**[02:01:11.550 - 02:01:12.550]** Det är.
+
+**[02:01:12.550 - 02:01:13.550]** Det är.
+
+**[02:01:13.550 - 02:01:14.550]** Det är.
+
+**[02:01:14.550 - 02:01:15.550]** Det är.
+
+**[02:01:15.550 - 02:01:16.940]** Det är.
+
+**[02:01:16.940 - 02:01:17.940]** Det är.
+
+**[02:01:17.940 - 02:01:28.250]** Det är.
+
+**[02:01:28.250 - 02:01:29.250]** Det är.
+
+**[02:01:29.250 - 02:01:30.250]** Det är.
+
+**[02:01:30.250 - 02:01:31.250]** Det är.
+
+**[02:01:31.820 - 02:01:32.820]** Det är.
+
+**[02:01:32.820 - 02:01:33.820]** Det är.
+
+**[02:01:33.820 - 02:01:34.820]** Det är.
+
+**[02:01:34.820 - 02:01:35.820]** Det är.
+
+**[02:01:35.820 - 02:01:36.820]** Det är.
+
+**[02:01:36.820 - 02:01:37.820]** Det är.
+
+**[02:01:37.820 - 02:01:38.820]** Det är.
+
+**[02:01:38.820 - 02:01:39.820]** Det är.
+
+**[02:01:39.820 - 02:01:40.820]** Det är.
+
+**[02:01:40.820 - 02:01:41.820]** Det är.
+
+**[02:01:41.820 - 02:01:42.820]** Det är.
+
+**[02:01:42.820 - 02:01:43.820]** Det är.
+
+**[02:01:43.820 - 02:01:44.820]** Det är.
+
+**[02:01:44.820 - 02:01:45.820]** Det är.
+
+**[02:01:45.820 - 02:01:46.820]** det är.
+
+**[02:01:46.820 - 02:01:47.820]** Det är.
+
+**[02:01:47.820 - 02:01:48.820]** Det är.
+
+**[02:01:48.820 - 02:01:49.820]** Det är.
+
+**[02:01:49.820 - 02:01:50.820]** Det är.
+
+**[02:01:50.820 - 02:01:51.820]** Det är.
+
+**[02:01:51.820 - 02:01:52.820]** Det är.
+
+**[02:01:52.820 - 02:01:53.890]** Det är.
+
+**[02:01:53.890 - 02:01:54.890]** Det är.
+
+**[02:01:54.890 - 02:01:55.890]** Det är.
+
+**[02:01:55.890 - 02:01:56.890]** att.
+
