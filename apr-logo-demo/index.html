@@ -4,56 +4,76 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#050505" />
-  <title>AI Playlist Radio — Animated Logo</title>
+  <title>AI Playlist Radio — Cinematic Logo</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
   <style>
-    :root{--bg:#050505;--fg:#f7f7f5;--muted:#8f8f94;--line:#242428;--red:#ed1b2f;--panel:#0b0b0d}
-    html[data-theme="light"]{--bg:#f7f7f4;--fg:#0b0b0d;--muted:#626267;--line:#d9d9dc;--panel:#fff}
-    *{box-sizing:border-box} body{margin:0;min-height:100vh;background:var(--bg);color:var(--fg);font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;transition:background .35s,color .35s}
-    main{min-height:100vh;display:grid;place-items:center;padding:32px}.shell{width:min(1120px,100%)}
-    .topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:28px}.eyebrow{font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--muted)}
-    .controls{display:flex;gap:10px}.btn{appearance:none;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:10px 15px;font:inherit;font-size:13px;cursor:pointer}.btn:hover{border-color:var(--red)}
-    .stage{position:relative;overflow:hidden;min-height:420px;border:1px solid var(--line);border-radius:28px;background:radial-gradient(circle at 42% 50%,color-mix(in srgb,var(--red) 7%,transparent),transparent 44%),var(--panel);display:grid;place-items:center;padding:48px}
-    .logo{width:min(900px,100%);overflow:visible;color:var(--fg)}
-    .arc{fill:none;stroke:var(--red);stroke-width:8;stroke-linecap:round;stroke-dasharray:520;stroke-dashoffset:520}
-    .trail{fill:none;stroke:var(--red);stroke-width:5;stroke-linecap:round;opacity:0;filter:url(#glow)}
-    .dot{fill:var(--red);filter:url(#glow);opacity:0}
-    .apr,.divider,.wordmark{opacity:0}.apr{transform-origin:250px 120px;transform:translateY(8px) scale(.965)}.divider{stroke:currentColor;stroke-width:1;opacity:0}.wordmark{transform:translateX(-14px)}
-    .aprText{font-family:Arial,Helvetica,sans-serif;font-size:112px;font-weight:300;letter-spacing:-12px;fill:currentColor}.aprR{fill:var(--red)}
-    .brandText{font-family:Arial,Helvetica,sans-serif;font-size:26px;font-weight:400;letter-spacing:11px;fill:currentColor}.brandRed{fill:var(--red)}
-    .logo.play .arc{animation:draw 1.35s cubic-bezier(.22,.75,.22,1) .15s forwards}.logo.play .trail{animation:trailIn 1.35s ease .12s forwards}.logo.play .dot{animation:dotIn .1s linear .12s forwards,dotSettle .35s cubic-bezier(.2,.9,.2,1) 1.35s forwards}.logo.play .apr{animation:markIn .72s cubic-bezier(.2,.8,.2,1) .95s forwards}.logo.play .divider{animation:fade .4s ease 1.42s forwards}.logo.play .wordmark{animation:nameIn .62s cubic-bezier(.2,.8,.2,1) 1.48s forwards}
-    @keyframes draw{to{stroke-dashoffset:0}}@keyframes trailIn{0%{opacity:0}12%{opacity:.9}82%{opacity:.5}100%{opacity:0}}@keyframes dotIn{to{opacity:1}}@keyframes dotSettle{55%{transform:scale(1.28)}100%{transform:scale(1)}}@keyframes markIn{to{opacity:1;transform:none}}@keyframes fade{to{opacity:.45}}@keyframes nameIn{to{opacity:1;transform:none}}
-    .caption{display:flex;justify-content:space-between;gap:24px;margin-top:18px;color:var(--muted);font-size:13px}.caption strong{color:var(--fg);font-weight:500}
-    @media(max-width:700px){main{padding:16px}.stage{min-height:300px;padding:22px;border-radius:20px}.caption{display:block;line-height:1.7}.topbar{align-items:flex-start;gap:20px}.controls{flex-wrap:wrap;justify-content:flex-end}.brandText{font-size:28px}}
-    @media(prefers-reduced-motion:reduce){.arc{stroke-dashoffset:0}.apr,.wordmark{opacity:1;transform:none}.divider{opacity:.45}.dot{opacity:1}.trail{display:none}}
+    :root{--bg:#050505;--fg:#f6f4ef;--muted:#8e8e94;--line:#242428;--red:#ed1b2f;--panel:#0a0a0c;--shine:#fff}
+    html[data-theme="light"]{--bg:#f4f2ed;--fg:#0b0b0d;--muted:#68686e;--line:#d7d5d1;--panel:#fff;--shine:#111}
+    *{box-sizing:border-box}html,body{margin:0;min-height:100%}body{background:var(--bg);color:var(--fg);font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;transition:background .35s,color .35s}
+    main{min-height:100vh;display:grid;place-items:center;padding:28px}.shell{width:min(1160px,100%)}
+    .topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}.eyebrow{font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:var(--muted)}
+    .controls{display:flex;gap:10px}.btn{appearance:none;border:1px solid var(--line);background:color-mix(in srgb,var(--panel) 92%,transparent);color:var(--fg);border-radius:999px;padding:10px 15px;font:inherit;font-size:13px;cursor:pointer;backdrop-filter:blur(14px);transition:border-color .2s,transform .2s}.btn:hover{border-color:var(--red);transform:translateY(-1px)}
+    .stage{position:relative;overflow:hidden;min-height:500px;border:1px solid var(--line);border-radius:30px;background:radial-gradient(circle at 31% 50%,color-mix(in srgb,var(--red) 8%,transparent),transparent 33%),linear-gradient(145deg,color-mix(in srgb,var(--panel) 96%,var(--fg) 4%),var(--panel));display:grid;place-items:center;padding:56px;isolation:isolate}
+    .stage:before{content:"";position:absolute;inset:-40%;background:conic-gradient(from 210deg at 35% 50%,transparent 0 35%,color-mix(in srgb,var(--red) 7%,transparent) 46%,transparent 58% 100%);filter:blur(45px);opacity:.35;animation:ambient 9s ease-in-out infinite alternate;z-index:-1}
+    .stage.flash:after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 37% 35%,rgba(237,27,47,.22),transparent 26%);animation:flash .7s ease-out forwards;pointer-events:none}
+    .logo{width:min(940px,100%);overflow:visible;color:var(--fg)}
+    .arc-base{fill:none;stroke:color-mix(in srgb,var(--red) 35%,transparent);stroke-width:8;stroke-linecap:round;opacity:.2}
+    .arc-main,.arc-glow,.arc-hot{fill:none;stroke-linecap:round}.arc-main{stroke:var(--red);stroke-width:8}.arc-glow{stroke:var(--red);stroke-width:18;opacity:.22;filter:url(#softGlow)}.arc-hot{stroke:#ff8b98;stroke-width:3;opacity:.7;filter:url(#hotGlow)}
+    .runner{opacity:0}.runner-core{fill:#fff}.runner-red{fill:var(--red);filter:url(#hotGlow)}.runner-ring{fill:none;stroke:var(--red);stroke-width:2;opacity:.55}
+    .apr,.divider,.wordmark{opacity:0}.apr{transform-origin:250px 122px}.divider{stroke:currentColor;stroke-width:1}.brandText{font-family:Arial,Helvetica,sans-serif;font-size:27px;font-weight:400;letter-spacing:11px;fill:currentColor}.brandRed{fill:var(--red)}
+    .aprText{font-family:Arial,Helvetica,sans-serif;font-size:116px;font-weight:300;letter-spacing:-12px;fill:currentColor}.aprR{fill:var(--red)}
+    .spark{fill:#ff5e70;opacity:0;filter:url(#hotGlow)}
+    .caption{display:flex;justify-content:space-between;gap:24px;margin-top:16px;color:var(--muted);font-size:13px}.caption strong{color:var(--fg);font-weight:500}
+    @keyframes ambient{to{transform:translate3d(4%,1%,0) rotate(8deg)}}@keyframes flash{0%{opacity:0}20%{opacity:1}100%{opacity:0}}
+    @media(max-width:700px){main{padding:14px}.stage{min-height:330px;padding:20px;border-radius:22px}.caption{display:block;line-height:1.7}.topbar{align-items:flex-start;gap:18px}.controls{flex-wrap:wrap;justify-content:flex-end}.brandText{font-size:29px}}
+    @media(prefers-reduced-motion:reduce){.stage:before{animation:none}.apr,.divider,.wordmark{opacity:1!important;transform:none!important}.arc-main,.arc-glow,.arc-hot{stroke-dashoffset:0!important}.runner,.spark{display:none}}
   </style>
 </head>
 <body>
 <main><div class="shell">
-  <div class="topbar"><div class="eyebrow">AI Playlist Radio · Logo prototype</div><div class="controls"><button class="btn" id="theme">Bright mode</button><button class="btn" id="replay">Spela igen</button></div></div>
-  <section class="stage" aria-label="Animerad AI Playlist Radio-logotyp">
+  <div class="topbar"><div class="eyebrow">AI Playlist Radio · Cinematic identity</div><div class="controls"><button class="btn" id="theme">Bright mode</button><button class="btn" id="replay">Spela igen</button></div></div>
+  <section class="stage" id="stage" aria-label="Animerad AI Playlist Radio-logotyp">
     <svg class="logo" id="logo" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
-      <title id="title">AI Playlist Radio</title><desc id="desc">En röd ljuspunkt ritar en båge och avslöjar logotypen.</desc>
+      <title id="title">AI Playlist Radio</title><desc id="desc">En röd ljuspunkt sveper in, ritar bågen och avslöjar logotypen.</desc>
       <defs>
-        <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-        <path id="motionPath" d="M 118 211 C 57 152, 66 61, 143 24 C 216 -11, 315 12, 349 69"/>
+        <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+        <filter id="hotGlow" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+        <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#ed1b2f"/><stop offset=".75" stop-color="#ff4154"/><stop offset="1" stop-color="#fff"/></linearGradient>
+        <path id="motionPath" d="M 116 212 C 52 154, 63 62, 140 24 C 214 -12, 316 11, 350 70"/>
       </defs>
-      <use href="#motionPath" class="arc"/>
-      <use href="#motionPath" class="trail"/>
-      <circle class="dot" r="10"><animateMotion id="motion" dur="1.35s" begin="indefinite" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 .75 .22 1"><mpath href="#motionPath"/></animateMotion></circle>
-      <g class="apr"><text x="112" y="162" class="aprText">AP<tspan class="aprR">R</tspan></text></g>
-      <line class="divider" x1="405" y1="50" x2="405" y2="210"/>
-      <g class="wordmark"><text x="450" y="92" class="brandText">AI</text><text x="450" y="144" class="brandText">PLAYLIST</text><text x="450" y="196" class="brandText brandRed">RADIO</text></g>
+      <use href="#motionPath" class="arc-base"/>
+      <use href="#motionPath" class="arc-glow" id="arcGlow"/>
+      <use href="#motionPath" class="arc-main" id="arcMain" stroke="url(#sweep)"/>
+      <use href="#motionPath" class="arc-hot" id="arcHot"/>
+      <g class="runner" id="runner"><circle class="runner-ring" r="18"/><circle class="runner-red" r="9"/><circle class="runner-core" r="3.5"/></g>
+      <g id="sparks"></g>
+      <g class="apr" id="apr"><text x="110" y="164" class="aprText">AP<tspan class="aprR">R</tspan></text></g>
+      <line class="divider" id="divider" x1="405" y1="50" x2="405" y2="210"/>
+      <g class="wordmark" id="wordmark"><text x="450" y="92" class="brandText">AI</text><text x="450" y="144" class="brandText">PLAYLIST</text><text x="450" y="196" class="brandText brandRed">RADIO</text></g>
     </svg>
   </section>
-  <div class="caption"><span><strong>Animation:</strong> 2,2 sekunder · SVG · retina-skarp</span><span>Dark mode, bright mode och favicon med röd båge</span></div>
+  <div class="caption"><span><strong>Animation:</strong> cinematic SVG reveal · retina-skarp</span><span>Dark mode, bright mode och favicon med röd båge</span></div>
 </div></main>
 <script>
-  const root=document.documentElement, logo=document.getElementById('logo'), motion=document.getElementById('motion');
-  const themeBtn=document.getElementById('theme');
-  function play(){logo.classList.remove('play');void logo.getBoundingClientRect();logo.classList.add('play');try{motion.beginElement()}catch(e){}}
+  const root=document.documentElement,stage=document.getElementById('stage'),path=document.getElementById('motionPath'),runner=document.getElementById('runner');
+  const arcMain=document.getElementById('arcMain'),arcGlow=document.getElementById('arcGlow'),arcHot=document.getElementById('arcHot'),apr=document.getElementById('apr'),divider=document.getElementById('divider'),wordmark=document.getElementById('wordmark'),sparks=document.getElementById('sparks');
+  const themeBtn=document.getElementById('theme'),reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const length=path.getTotalLength(); [arcMain,arcGlow,arcHot].forEach(el=>{el.style.strokeDasharray=length;el.style.strokeDashoffset=length});
+  let raf=0, timers=[];
+  const easeOut=t=>1-Math.pow(1-t,3),easeInOut=t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;
+  function setPoint(p){const pt=path.getPointAtLength(length*p);runner.setAttribute('transform',`translate(${pt.x} ${pt.y})`);return pt}
+  function burst(pt){sparks.innerHTML='';for(let i=0;i<9;i++){const c=document.createElementNS('http://www.w3.org/2000/svg','circle');c.setAttribute('class','spark');c.setAttribute('r',String(1.8+(i%3)));c.setAttribute('cx',pt.x);c.setAttribute('cy',pt.y);sparks.appendChild(c);const a=(-1.5+i/8*3.0),d=18+(i%4)*9;c.animate([{opacity:0,transform:'translate(0 0) scale(.5)'},{opacity:.95,offset:.15},{opacity:0,transform:`translate(${Math.cos(a)*d}px ${Math.sin(a)*d}px) scale(0)`}],{duration:560+i*22,easing:'cubic-bezier(.2,.8,.2,1)',fill:'forwards'})}}
+  function reset(){cancelAnimationFrame(raf);timers.forEach(clearTimeout);timers=[];stage.classList.remove('flash');runner.style.opacity=0;[arcMain,arcGlow,arcHot].forEach(el=>el.style.strokeDashoffset=length);[apr,divider,wordmark].forEach(el=>{el.getAnimations().forEach(a=>a.cancel());el.style.opacity=0;el.style.transform='none'});sparks.innerHTML=''}
+  function play(){reset();if(reduce){[arcMain,arcGlow,arcHot].forEach(el=>el.style.strokeDashoffset=0);[apr,divider,wordmark].forEach(el=>el.style.opacity=1);return}
+    const start=performance.now(),duration=1750;runner.style.opacity=1;
+    function frame(now){const t=Math.min(1,(now-start)/duration);const p=easeInOut(t);const pt=setPoint(p);arcMain.style.strokeDashoffset=length*(1-p);arcGlow.style.strokeDashoffset=length*(1-p);arcHot.style.strokeDashoffset=length*(1-Math.max(0,p-.035));runner.querySelector('.runner-ring').setAttribute('r',String(14+Math.sin(t*24)*2));if(t<1)raf=requestAnimationFrame(frame);else{burst(pt);stage.classList.add('flash');runner.animate([{opacity:1,transform:runner.getAttribute('transform')+' scale(1)'},{opacity:0,transform:runner.getAttribute('transform')+' scale(2.2)'}],{duration:420,easing:'ease-out',fill:'forwards'})}}
+    raf=requestAnimationFrame(frame);
+    timers.push(setTimeout(()=>apr.animate([{opacity:0,transform:'translateY(14px) scale(.94)',filter:'blur(8px)'},{opacity:1,transform:'translateY(0) scale(1)',filter:'blur(0)'}],{duration:760,easing:'cubic-bezier(.16,1,.3,1)',fill:'forwards'}),720));
+    timers.push(setTimeout(()=>divider.animate([{opacity:0,transform:'scaleY(0)'},{opacity:.5,transform:'scaleY(1)'}],{duration:520,easing:'cubic-bezier(.16,1,.3,1)',fill:'forwards'}),1180));
+    timers.push(setTimeout(()=>wordmark.animate([{opacity:0,transform:'translateX(-22px)',filter:'blur(7px)'},{opacity:1,transform:'translateX(0)',filter:'blur(0)'}],{duration:760,easing:'cubic-bezier(.16,1,.3,1)',fill:'forwards'}),1260));
+  }
   document.getElementById('replay').addEventListener('click',play);
-  themeBtn.addEventListener('click',()=>{const light=root.dataset.theme==='light';root.dataset.theme=light?'dark':'light';themeBtn.textContent=light?'Bright mode':'Dark mode';document.querySelector('meta[name="theme-color"]').content=light?'#050505':'#f7f7f4'});
-  window.addEventListener('load',play);
+  themeBtn.addEventListener('click',()=>{const light=root.dataset.theme==='light';root.dataset.theme=light?'dark':'light';themeBtn.textContent=light?'Bright mode':'Dark mode';document.querySelector('meta[name="theme-color"]').content=light?'#050505':'#f4f2ed'});
+  addEventListener('load',play);
 </script>
 </body></html>
